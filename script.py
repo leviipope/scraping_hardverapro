@@ -46,5 +46,5 @@ for result in search_result:
 
     print(ti)
 
-    print("------------------")
+    print("\n---\n")
 
