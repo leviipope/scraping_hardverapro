@@ -8,43 +8,43 @@ page = requests.get(url).text
 doc = BeautifulSoup(page, "html.parser")
 
 search_result = doc.find_all("li", class_="media")
-for result in search_result:
-    str_price = result.find("span", class_="text-nowrap").string
-    if str_price == "Csere":
-        continue
 
+for result in search_result:
     name = result.find("h1").a.string
     name_l = name.lower()
-    if "3080" not in name or "3070" in name or "mobile" in name_l:
+
+    str_price = result.find("span", class_="text-nowrap").string
+
+    if str_price == "Csere" or "3080" not in name or "3070" in name or "mobile" in name_l or "hibás" in name_l:
         continue
-    print(name)
 
     price = int(str_price.replace(" ", "").replace("Ft", ""))
-    print(price)
 
     time = result.find(class_="uad-time").time.string
     if time==None:
         print("Előresorolva")
-        continue
-    print(time)
+    if time is not None:
+        print(time)
 
     iced = result.find("div", class_="uad-price").small
-    if iced != None:
+    if iced == None:
+        iced = False
+    else:
         iced = True
-    iced = False
-    print("iced:", iced)
 
     link = result.find("h1").a["href"]
-    print(link)
 
     id = result["data-uadid"]
-    print(id)
 
     ti = "not Ti"
     if " ti " in name_l or "3080ti" in name_l:
         ti = "Ti"
 
+    print("iced:", iced)
+    print(name)
     print(ti)
+    print(price)
+    print(id)
+    print(link)
 
     print("\n---\n")
-
