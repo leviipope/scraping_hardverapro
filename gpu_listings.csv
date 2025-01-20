@@ -19,7 +19,6 @@ id,name,ti,price,time,iced,link
 6853863,INGYENES SZÁLLÍTÁS! EVGA GeForce FTW3 ULTRA GAMING RTX 3080 Ti 12GB GDDR6X 384bit,Ti,190000,ma 12:00,True,https://hardverapro.hu/apro/evga_geforce_ftw3_ultra_gaming_rtx_3080_ti_12gb_gd_8/friss.html
 6867027,Gainward RTX 3080 Phoenix 10GB/GDDR6X 320bit,not Ti,167999,ma 10:19,False,https://hardverapro.hu/apro/gainward_rtx_3080_phoenix_10gb_gddr6x_320bit/friss.html
 6860671,12 GB-os RTX 3080 Ti OEM,Ti,179900,ma 10:00,True,https://hardverapro.hu/apro/12_gb-os_rtx_3080_ti_oem/friss.html
-6859022,RTX 3080 Ti,not Ti,245000,tegnap 22:25,False,https://hardverapro.hu/apro/rtx_3080_ti_2/friss.html
 6868297,MSI RTX 3080 TI Gaming X Trio,Ti,235000,tegnap 21:54,True,https://hardverapro.hu/apro/msi_rtx_3080_ti_gaming_x_trio_2/friss.html
 6863342,Eladó RTX 3080 12GB GDDR6X Videókártya!,not Ti,190000,tegnap 19:31,False,https://hardverapro.hu/apro/elado_rtx_3080_12gb_gddr6x_videokartya/friss.html
 6855450,Palit GameRock RTX3080 10Gb,not Ti,170000,tegnap 18:59,False,https://hardverapro.hu/apro/palit_gamerock_rtx3080_10gb_2/friss.html
@@ -50,3 +49,4 @@ id,name,ti,price,time,iced,link
 6840695,NVIDIA GeForce RTX 3080 Founders Edition 10GB GDDR6X Graphics Card,not Ti,180000,2025-01-02,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_2/friss.html
 6831937,ZOTAC GAMING RTX 3080 Ti AMP HOLO 12 GB / BESZÁMÍTÁS,Ti,197000,2024-12-24,True,https://hardverapro.hu/apro/zotac_geforce_trinity_rtx_3080_ti_oc_12gb_beszamit/friss.html
 6830112,nVidia RTX 3080 Founders Edition 10GB GDDR6X videokártya,not Ti,158000,2024-12-23,True,https://hardverapro.hu/apro/nvidia_rtx_3080_founders_edition_10gb_gddr6x_video/friss.html
+6859022,RTX 3080 Ti,Ti,245000,ma 19:21,False,https://hardverapro.hu/apro/rtx_3080_ti_2/friss.html

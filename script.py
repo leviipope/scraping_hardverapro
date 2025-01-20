@@ -47,7 +47,7 @@ for result in search_result:
     id = result["data-uadid"]
 
     ti = "not Ti"
-    if " ti " in name_l or "3080ti" in name_l:
+    if " ti " in name_l or "3080ti" in name_l or "3080 ti" in name_l:
         ti = "Ti"
 
     # Check if data already in the csv
