@@ -4,6 +4,9 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
+### V1.1.0 (Current)
+Storing data on a csv and maintaining a "database" on it
+
 ### V1.0.1
 Bug fixes (iced, promoted listings)
 
@@ -12,5 +15,5 @@ The basic program functions. The program is not dynamic at all.
 It can't be changed to other graphics cards or any other products on hardverapro.
 
 ## Planned
-<li>Storing the data scraped in a data structure and possibly a database (probably only
-an excel file or smt) -> getting the cheapest gpu</li>
+<li>Getting notification in case of new listing</li>
+<li>SQL database</li>
