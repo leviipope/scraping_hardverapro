@@ -1,13 +1,13 @@
 name: Run Scraping Script
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '* * * * *'  # Runs every minute (for testing purposes)
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
