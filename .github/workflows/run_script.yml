@@ -3,7 +3,7 @@ name: Run Scraping Script
 on:
   schedule:
     # Runs at 8:55 PM UTC (9:55 PM Hungary time)
-    - cron: '55 20 * * *'
+    - cron: '56 20 * * *'
     # Additional times as needed
     - cron: '0 6 * * *'   # 6:00 AM UTC
     - cron: '0 12 * * *'  # 12:00 PM UTC
@@ -20,7 +20,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.9'
 
       - name: Install dependencies
         run: |
