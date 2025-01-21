@@ -3,7 +3,7 @@ name: Run Scraping Script
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10 21 * * *'
+    - cron: '11 22 * * *'
     # Additional times as needed
     - cron: '0 6 * * *'   # 6:00 AM UTC
     - cron: '0 12 * * *'  # 12:00 PM UTC
