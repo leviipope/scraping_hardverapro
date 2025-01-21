@@ -1,7 +1,9 @@
 name: Run Scraping Script
 
 on:
+  workflow_dispatch:
   schedule:
+    - cron: '55 20 * * *'  # Scheduled times
     # Runs at 8:55 PM UTC (9:55 PM Hungary time)
     - cron: '57 20 * * *'
     # Additional times as needed
