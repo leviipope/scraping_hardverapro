@@ -1,0 +1,38 @@
+name: Run Scraping Script
+
+on:
+  schedule:
+    # Schedule the script to run 3 times a day at 8:00 AM, 2:00 PM, and 8:00 PM UTC
+    - cron: "0 8,14,20 * * *"
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout the repository
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.9"
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    # Step 4: Run the Python script
+    - name: Run the Python script
+      run: python script.py
+
+    # Step 5: Commit changes to the CSV file if any
+    - name: Commit changes
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        git add gpu_listings.csv
+        git diff --cached --exit-code || git commit -m "Update GPU listings"
