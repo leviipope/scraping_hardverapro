@@ -1,9 +1,8 @@
 name: Run Scraping Script
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '* * * * *'
+    - cron: '* * * * *'  # Runs every minute (for testing purposes)
 
 jobs:
   run-script:
