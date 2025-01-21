@@ -2,8 +2,14 @@ name: Run Scraping Script
 
 on:
   schedule:
-    # Schedule the script to run 3 times a day at 8:00 AM, 2:00 PM, and 8:00 PM UTC
-    - cron: "0 8,14,20 * * *"
+    # Run at 10:00 AM UTC
+    - cron: "0 10 * * *"
+    # Run at 1:00 PM UTC
+    - cron: "0 13 * * *"
+    # Run at 9:38 PM UTC
+    - cron: "38 21 * * *"
+    # Run at 10:00 PM UTC
+    - cron: "0 22 * * *"
 
 jobs:
   run-python-script:
