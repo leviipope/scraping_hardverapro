@@ -6,7 +6,7 @@ on:
     - cron: "0 10 * * *"
     # Run at 1:00 PM UTC
     - cron: "0 13 * * *"
-    # Run at 9:38 PM UTC
+    # Run at 8:40 PM UTC
     - cron: "38 21 * * *"
     # Run at 10:00 PM UTC
     - cron: "0 22 * * *"
