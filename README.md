@@ -4,6 +4,13 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
+### V1.2.1 (Developing)
+If gpu is in the csv but ice status has changed, it changes the ice status. In addition,
+'ma' and 'tegnap' -> today's date and yesterday's date.
+
+### V1.2.0
+Added automation via GitHub actions.
+
 ### V1.1.0 (Current)
 Storing data on a csv and maintaining a "database" on it
 
