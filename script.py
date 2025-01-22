@@ -40,18 +40,15 @@ def parse_time(raw_time):
         except ValueError:
             return datetime.strptime(raw_time, "%Y-%m-%d")
 
-
-# Scrape the webpage
-# Initialize the iced GPU counter
-iced_gpus_count = 0
-iced_gpus = []
-
 # Scrape the webpage
 url = "https://hardverapro.hu/aprok/hardver/videokartya/nvidia/geforce_30xx/keres.php?stext=3080&stcid_text=&stcid=&stmid_text=&stmid=&minprice=&maxprice=&cmpid_text=&cmpid=&usrid_text=&usrid=&buying=0&stext_none="
 page = requests.get(url).text
 doc = BeautifulSoup(page, "html.parser")
 
 gpu_listings = []
+# Initialize the iced GPU counter
+iced_gpus_count = 0
+iced_gpus = []
 
 # File to store GPU data
 csv_file = "gpu_listings.csv"
