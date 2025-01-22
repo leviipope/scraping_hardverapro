@@ -42,6 +42,11 @@ def parse_time(raw_time):
 
 
 # Scrape the webpage
+# Initialize the iced GPU counter
+iced_gpus_count = 0
+iced_gpus = []
+
+# Scrape the webpage
 url = "https://hardverapro.hu/aprok/hardver/videokartya/nvidia/geforce_30xx/keres.php?stext=3080&stcid_text=&stcid=&stmid_text=&stmid=&minprice=&maxprice=&cmpid_text=&cmpid=&usrid_text=&usrid=&buying=0&stext_none="
 page = requests.get(url).text
 doc = BeautifulSoup(page, "html.parser")
@@ -89,7 +94,8 @@ for result in search_result:
         # Update 'iced' status if it has changed to True
         if existing_data[id]["iced"] == "False" and iced:
             existing_data[id]["iced"] = "True"
-            print(f"Got iced: {id}, {existing_data[id]['name']}")
+            iced_gpus_count += 1
+            iced_gpus.append(f"ID: {id}, Name: {existing_data[id]['name']}")
         continue
 
     gpu_listings.append({
@@ -112,10 +118,16 @@ save_to_csv(csv_file, updated_data, fieldnames)
 
 # Output results
 if gpu_listings:
-    print("-----")
     print(f"Added {len(gpu_listings)} new GPU listings to {csv_file}:")
     for idx, gpu in enumerate(gpu_listings, start=len(existing_data) + 1):  # Row number starts from the current count
-        # Print the GPU ID, Name, Row number, and Date Added (first listing date)
-        print(f"ID: {gpu['id']}, Name: {gpu['name']}, Row: {idx}, Date Added: {gpu['time']}")
+        print(f"ID: {gpu['id']}, Name: {gpu['name']}, Price: {gpu['price']}, Row: {idx+1}, Date Added: {gpu['time']}")
 else:
     print("No new GPU listings found.")
+
+# Print iced GPU information
+if iced_gpus_count > 0:
+    print(f"\n{iced_gpus_count} GPU(s) got iced:")
+    for gpu in iced_gpus:
+        print(gpu)
+else:
+    print("No GPUs were iced.")
