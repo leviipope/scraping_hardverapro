@@ -3,6 +3,19 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import datetime, timedelta
 
+def send_zapier_webhook(gpu):
+    zapier_webhook_url = "https://hooks.zapier.com/hooks/catch/21412635/2kel80t/"
+    data = {
+        "name": gpu["name"],
+        "price": gpu["price"],
+        "link": gpu["link"],
+    }
+    response = requests.post(zapier_webhook_url, json=data)
+    if response.status_code == 200:
+        print(f"Zapier notification sent for GPU {gpu['name']}")
+    else:
+        print(f"Error sending Zapier notification: {response.status_code}")
+
 def load_existing_data(csv_file):
     """
     Load existing data from the CSV file into a dictionary.
@@ -128,3 +141,8 @@ if iced_gpus_count > 0:
         print(gpu)
 else:
     print("No GPUs were iced.")
+
+if gpu_listings:
+    for gpu in gpu_listings:
+        if gpu["price"] < 160000:  # Check if price is under 160k
+            send_zapier_webhook(gpu)

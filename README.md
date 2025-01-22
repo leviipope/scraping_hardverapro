@@ -4,10 +4,10 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
-### V1.2.2 (planned)
-Send an email if a non-ti 3080 is listed below 160k
+### V1.2.2 *Current*
+Send an email if a 3080 is listed below 160k
 
-### V1.2.1 *Current*
+### V1.2.1
 If gpu is in the csv but ice status has changed, it changes the ice status. In addition,
 'ma' and 'tegnap' -> today's date and yesterday's date.
 
