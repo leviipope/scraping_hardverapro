@@ -4,14 +4,17 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
-### V1.2.1 (Developing)
+### V1.2.2 (planned)
+Send an email if a non-ti 3080 is listed below 160k
+
+### V1.2.1 *Current*
 If gpu is in the csv but ice status has changed, it changes the ice status. In addition,
 'ma' and 'tegnap' -> today's date and yesterday's date.
 
 ### V1.2.0
 Added automation via GitHub actions.
 
-### V1.1.0 (Current)
+### V1.1.0
 Storing data on a csv and maintaining a "database" on it
 
 ### V1.0.1
@@ -21,6 +24,6 @@ Bug fixes (iced, promoted listings)
 The basic program functions. The program is not dynamic at all. 
 It can't be changed to other graphics cards or any other products on hardverapro.
 
-## Planned
+## Planned for later
 <li>Getting notification in case of new listing</li>
 <li>SQL database</li>
