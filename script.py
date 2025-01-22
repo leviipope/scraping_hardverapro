@@ -89,7 +89,7 @@ for result in search_result:
         # Update 'iced' status if it has changed to True
         if existing_data[id]["iced"] == "False" and iced:
             existing_data[id]["iced"] = "True"
-            print(f"Iced status updatedfor : {id}, {existing_data[id]['name']}")
+            print(f"Got iced: {id}, {existing_data[id]['name']}")
         continue
 
     gpu_listings.append({
@@ -112,6 +112,10 @@ save_to_csv(csv_file, updated_data, fieldnames)
 
 # Output results
 if gpu_listings:
-    print(f"Added {len(gpu_listings)} new GPU listings to {csv_file}.")
+    print("-----")
+    print(f"Added {len(gpu_listings)} new GPU listings to {csv_file}:")
+    for idx, gpu in enumerate(gpu_listings, start=len(existing_data) + 1):  # Row number starts from the current count
+        # Print the GPU ID, Name, Row number, and Date Added (first listing date)
+        print(f"ID: {gpu['id']}, Name: {gpu['name']}, Row: {idx}, Date Added: {gpu['time']}")
 else:
     print("No new GPU listings found.")
