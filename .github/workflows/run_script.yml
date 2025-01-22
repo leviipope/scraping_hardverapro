@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '00 22 * * *'
-    - cron: '0 9 * * *'
-    - cron: '0 13 * * *'
-    - cron: '0 21 * * *'
+    - cron: '0 7 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 16 * * *'
 
 jobs:
   run-script:
