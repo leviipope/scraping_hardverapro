@@ -4,6 +4,9 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
+### V1.2.3 (planned)
+3080tis separated
+
 ### V1.2.2 *Current*
 Send an email if a 3080 is listed below 160k
 
@@ -25,5 +28,5 @@ The basic program functions. The program is not dynamic at all.
 It can't be changed to other graphics cards or any other products on hardverapro.
 
 ## Planned for later
-<li>Getting notification in case of new listing</li>
+<li>more cards </li>
 <li>SQL database</li>
