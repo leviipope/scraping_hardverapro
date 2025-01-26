@@ -6,6 +6,7 @@ It was a fun way of learning web scraping basics.
 
 ### V1.2.3 (planned)
 3080tis separated
+if id not found in current list, got archived true
 
 ### V1.2.2 *Current*
 Send an email if a 3080 is listed below 160k
