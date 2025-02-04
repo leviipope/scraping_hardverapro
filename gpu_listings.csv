@@ -113,7 +113,7 @@ id,name,ti,price,time,iced,link,date_added
 6886849,"Gigabyte Gaming OC RTX 3080 10GB LHR - Dobozában, tartozékaival együtt!",not Ti,164990,2025-02-01 15:44:00,False,https://hardverapro.hu/apro/gigabyte_gaming_oc_rtx_3080_10gb_lhr_dobozaban_tar/friss.html,2025-02-01 16:12:45
 6887111,MSI RTX 3080 TRIO Z,not Ti,175000,2025-02-01 18:05:00,False,https://hardverapro.hu/apro/msi_rtx_3080_trio_z/friss.html,2025-02-01 18:24:34
 6887351,MSI RTX 3080 Ti GAMING X TRIO 12G videokártya garanciával,Ti,215000,2025-02-01 22:36:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ti_gaming_x_trio_12g_videokartya_gara/friss.html,2025-02-01 22:15:09
-6887309,EVGA 3080 10Gb,not Ti,190000,2025-02-01 21:42:00,False,https://hardverapro.hu/apro/evga_3080_10gb_3/friss.html,2025-02-01 22:15:09
+6887309,EVGA 3080 10Gb,not Ti,190000,2025-02-01 21:42:00,True,https://hardverapro.hu/apro/evga_3080_10gb_3/friss.html,2025-02-01 22:15:09
 6887478,Evga FTW3 Ultra Rtx 3080,not Ti,195000,2025-02-02 08:15:00,False,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_4/friss.html,2025-02-02 08:08:37
 6887630,Eladó ASUS GeForce RTX 3080 10GB ROG Strix videokártya (ROG-STRIX-RTX3080-O10G-V2-GAMING),not Ti,195000,2025-02-02 10:04:00,False,https://hardverapro.hu/apro/elado_asus_geforce_rtx_3080_10gb_rog_strix_videoka/friss.html,2025-02-02 10:18:00
 6887835,Asus Rog Strix 3080,not Ti,120000,2025-02-02 12:07:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080_7/friss.html,2025-02-02 11:15:56
@@ -127,3 +127,4 @@ id,name,ti,price,time,iced,link,date_added
 6889823,GAINWARD GeForce RTX 3080 Ti Phoenix 12GB - Dobozzal-Garanciával,Ti,260000,2025-02-03 14:18:00,False,https://hardverapro.hu/apro/gainward_geforce_rtx_3080_ti_phoenix_12gb_dobozzal/friss.html,2025-02-03 14:13:03
 6890281,MAKULÁTLAN Gigabyte RTX 3080 GAMING OC,not Ti,159000,2025-02-03 18:16:00,False,https://hardverapro.hu/apro/makulatlan_gigabyte_rtx_3080_gaming_oc/friss.html,2025-02-03 18:27:35
 6890765,"REFURBISHED MSI/ASUS/GIGABYTE/EVGA NVIDIA GeForce RTX 3080 VIDEÓKÁRTYÁK -1 év garanciával, számlával",not Ti,199900,2025-02-04 06:46:00,False,https://hardverapro.hu/apro/refurbished_msi_asus_gigabyte_evga_nvidia_geforce_2/friss.html,2025-02-04 06:21:15
+6891070,ZOTAC RTX 3080 Ti AMP Holo 12GB - GARIS,Ti,204999,Előresorolva,False,https://hardverapro.hu/apro/zotac_rtx_3080_ti_amp_holo_12gb_garis/friss.html,2025-02-04 11:17:24
