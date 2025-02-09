@@ -145,8 +145,8 @@ id,name,ti,price,time,iced,link,date_added
 6894733,ASUS TUF-RTX3080-O10G-V2-GAMING (LHR),not Ti,170000,2025-02-06 19:34:00,True,https://hardverapro.hu/apro/asus_tuf-rtx3080-o10g-v2-gaming_lhr/friss.html,2025-02-06 20:19:03
 6894935,Gigabyte RTX 3080 Vision OC 10gb,not Ti,199999,2025-02-06 23:14:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_vision_oc_10gb_4/friss.html,2025-02-06 22:15:29
 6895032,MSI Suprim X RTX3080 10Gb,not Ti,170000,2025-02-07 08:08:00,True,https://hardverapro.hu/apro/msi_suprim_x_rtx3080_10gb/friss.html,2025-02-07 08:10:29
-6895298,Gigabyte Aorus Gaming Box RTX 3080 eGPU vizhutessel,not Ti,179000,2025-02-07 11:42:00,False,https://hardverapro.hu/apro/gigabyte_aorus_gaming_box_rtx_3080_egpu_vizhutesse/friss.html,2025-02-07 11:16:56
-6895546,ASUS TUF Gaming GeForce RTX 3080 Ti 12GB OC,Ti,230000,2025-02-07 14:13:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_ti_12gb_oc/friss.html,2025-02-07 13:15:15
+6895298,Gigabyte Aorus Gaming Box RTX 3080 eGPU vizhutessel,not Ti,179000,2025-02-07 11:42:00,True,https://hardverapro.hu/apro/gigabyte_aorus_gaming_box_rtx_3080_egpu_vizhutesse/friss.html,2025-02-07 11:16:56
+6895546,ASUS TUF Gaming GeForce RTX 3080 Ti 12GB OC,Ti,230000,2025-02-07 14:13:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_ti_12gb_oc/friss.html,2025-02-07 13:15:15
 6895368,12 GB-os RTX 3080 Ti (OEM HP) - üzletből garanciával,Ti,179900,2025-02-07 12:33:00,True,https://hardverapro.hu/apro/12_gb-os_rtx_3080_ti_oem_hp_uzletbol_garanciaval/friss.html,2025-02-07 13:15:15
 6896029,RTX 3080 Founders Edition 10GB,not Ti,164990,2025-02-07 19:25:00,True,https://hardverapro.hu/apro/rtx_3080_founders_edition_10gb_3/friss.html,2025-02-07 18:27:44
 6897552,Asus Tuf RTX 3080 10Gb,not Ti,154000,2025-02-08 19:54:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_7/friss.html,2025-02-08 20:17:12
