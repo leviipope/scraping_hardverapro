@@ -4,6 +4,7 @@ import requests
 from datetime import datetime, timedelta
 import sib_api_v3_sdk
 from sib_api_v3_sdk.rest import ApiException
+from dotenv import load_dotenv
 import os
 
 def send_email(gpu):
@@ -58,6 +59,7 @@ def parse_time(raw_time):
             return datetime.strptime(raw_time, "%Y-%m-%d")
 
 # Brevo API Key (Get from your Brevo account)
+load_dotenv()
 BREVO_API_KEY = os.getenv("BREVO_API_KEY")
 
 # Configure API client
