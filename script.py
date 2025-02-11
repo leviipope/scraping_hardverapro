@@ -58,9 +58,16 @@ def parse_time(raw_time):
         except ValueError:
             return datetime.strptime(raw_time, "%Y-%m-%d")
 
-# Brevo API Key (Get from your Brevo account)
-load_dotenv()
+# Load .env file if running locally
+if os.getenv("GITHUB_ACTIONS") is None:
+    load_dotenv()
+
+# Get API key (either from environment or .env file)
 BREVO_API_KEY = os.getenv("BREVO_API_KEY")
+
+# Ensure the API key is available
+if BREVO_API_KEY is None:
+    raise ValueError("BREVO_API_KEY is not set. Make sure to set it in the .env file or GitHub Secrets.")
 
 # Configure API client
 configuration = sib_api_v3_sdk.Configuration()
