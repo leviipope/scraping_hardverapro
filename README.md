@@ -4,11 +4,13 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
-### V1.2.3 (planned)
+### V1.2.4 (planned)
 3080tis separated
-if id not found in current list, got archived true
 
-### V1.2.2 *Current*
+### V1.2.3 *Current*
+if id not found in the current list -> archived to true
+
+### V1.2.2
 Send an email if a 3080 is listed below 160k
 
 ### V1.2.1
