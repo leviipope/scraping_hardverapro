@@ -174,7 +174,7 @@ if iced_gpus_count > 0:
     for gpu in iced_gpus:
         print(gpu)
 else:
-    print("No GPUs were iced.")
+    print("\nNo GPUs were iced.")
 
 # Send webhook for affordable GPUs
 if gpu_listings:
