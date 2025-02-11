@@ -138,10 +138,21 @@ for result in search_result:
         "archived": "False"  # New listings are not archived
     })
 
-# Mark missing IDs as archived
+# Mark missing IDs as archived and print them
+archived_gpus = []
+
 for old_id in existing_data:
-    if old_id not in new_search_ids:
+    if old_id not in new_search_ids and existing_data[old_id]["archived"] == "False":
         existing_data[old_id]["archived"] = "True"
+        archived_gpus.append(f"ID: {old_id}, Name: {existing_data[old_id]['name']}")
+
+# Print GPUs that got archived in this run
+if archived_gpus:
+    print("\nArchived GPUs:")
+    for gpu in archived_gpus:
+        print(gpu)
+else:
+    print("\nNo GPUs were archived.")
 
 # Combine existing data with new listings
 updated_data = list(existing_data.values()) + gpu_listings
@@ -156,7 +167,7 @@ if gpu_listings:
     for idx, gpu in enumerate(gpu_listings, start=len(existing_data) + 1):
         print(f"ID: {gpu['id']}, Name: {gpu['name']}, Price: {gpu['price']}, Row: {idx+1}, Date Added: {gpu['time']}")
 else:
-    print("No new GPU listings found.")
+    print("\nNo new GPU listings found.")
 
 if iced_gpus_count > 0:
     print(f"\n{iced_gpus_count} GPU(s) got iced:")
@@ -168,5 +179,5 @@ else:
 # Send webhook for affordable GPUs
 if gpu_listings:
     for gpu in gpu_listings:
-        if gpu["price"] < 180000:
+        if gpu["price"] < 160000:
             send_email(gpu)
