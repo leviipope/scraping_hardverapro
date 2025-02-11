@@ -2,19 +2,31 @@ import csv
 from bs4 import BeautifulSoup
 import requests
 from datetime import datetime, timedelta
+import sib_api_v3_sdk
+from sib_api_v3_sdk.rest import ApiException
+import os
 
-def send_zapier_webhook(gpu):
-    zapier_webhook_url = "https://hooks.zapier.com/hooks/catch/21412635/2kel80t/"
-    data = {
-        "name": gpu["name"],
-        "price": gpu["price"],
-        "link": gpu["link"],
+def send_email(gpu):
+    subject = f"New GPU Found: {gpu['name']}"
+    body = f"""
+    <h2>New GPU Listing</h2>
+    <p><strong>Price:</strong> {gpu['price']} Ft</p>
+    <p><strong>Time:</strong> {gpu['time']}</p>
+    <p><a href="{gpu['link']}">View Listing</a></p>
+    """
+
+    email_data = {
+        "sender": {"name": "GPU Alerts", "email": "leviiytpublick@gmail.com"},
+        "to": [{"email": "leviiytpublick@gmail.com"}],
+        "subject": subject,
+        "htmlContent": body
     }
-    response = requests.post(zapier_webhook_url, json=data)
-    if response.status_code == 200:
-        print(f"Zapier notification sent for GPU {gpu['name']}")
-    else:
-        print(f"Error sending Zapier notification: {response.status_code}")
+
+    try:
+        api_instance.send_transac_email(email_data)
+        print(f"Email sent for GPU: {gpu['name']}")
+    except ApiException as e:
+        print(f"Error sending email: {e}")
 
 def load_existing_data(csv_file):
     try:
@@ -44,6 +56,14 @@ def parse_time(raw_time):
             return datetime.strptime(raw_time, "%Y-%m-%d %H:%M")
         except ValueError:
             return datetime.strptime(raw_time, "%Y-%m-%d")
+
+# Brevo API Key (Get from your Brevo account)
+BREVO_API_KEY = os.getenv("BREVO_API_KEY")
+
+# Configure API client
+configuration = sib_api_v3_sdk.Configuration()
+configuration.api_key["api-key"] = BREVO_API_KEY
+api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))
 
 # Scrape the webpage
 url = "https://hardverapro.hu/aprok/hardver/videokartya/nvidia/geforce_30xx/keres.php?stext=3080&stcid_text=&stcid=&stmid_text=&stmid=&minprice=&maxprice=&cmpid_text=&cmpid=&usrid_text=&usrid=&buying=0&stext_none="
@@ -139,5 +159,5 @@ else:
 # Send webhook for affordable GPUs
 if gpu_listings:
     for gpu in gpu_listings:
-        if gpu["price"] < 160000:
-            send_zapier_webhook(gpu)
+        if gpu["price"] < 180000:
+            send_email(gpu)
