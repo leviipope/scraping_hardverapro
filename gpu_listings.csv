@@ -160,8 +160,10 @@ id,name,ti,price,time,iced,link,date_added,archived
 6901776,BESZÁMÍTÁS! GAINWARD PHANTOM RTX 3080 10GB GDDR6X videokártya garanciával hibátlan működéssel,not Ti,179900,2025-02-11 14:27:00,False,https://hardverapro.hu/apro/beszamitas_gainward_phantom_rtx_3080_10gb_gddr6x_v/friss.html,2025-02-11 16:16:28,False
 6901094,MSI GeForce RTX 3080 GAMING Z TRIO 10G,not Ti,160000,2025-02-11 10:13:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_gaming_z_trio_10g_4/friss.html,2025-02-11 16:16:28,True
 6900032,EVGA GeForce FTW3 ULTRA HYBRID RTX 3080 10GB GDDR6X,not Ti,169000,2025-02-10 17:13:00,False,https://hardverapro.hu/apro/evga_geforce_ftw3_ultra_hybrid_rtx_3080_10gb_gddr6/friss.html,2025-02-11 16:16:28,False
-6902176,EVGA FTW3 RTX3080 10Gb,not Ti,160000,2025-02-11 17:41:00,False,https://hardverapro.hu/apro/evga_ftw3_rtx3080_10gb_8/friss.html,2025-02-11 18:27:24,False
+6902176,EVGA FTW3 RTX3080 10Gb,not Ti,160000,2025-02-11 17:41:00,True,https://hardverapro.hu/apro/evga_ftw3_rtx3080_10gb_8/friss.html,2025-02-11 18:27:24,False
 6902842,"""HÓFEHÉR SZÉPSÉG!"" - GIGABYTE RTX 3080 10GB GDDR6X VISION OC 10G (rev. 2.0 LHR) - Mint az ÚJ! HŰVŐS!",not Ti,199990,2025-02-12 09:09:00,False,https://hardverapro.hu/apro/hofeher_szepseg_gigabyte_rtx_3080_10gb_gddr6x_visi/friss.html,2025-02-12 08:10:39,False
 6903367,Gainward 3080 phantom+ 10GB LHR,not Ti,168500,2025-02-12 14:18:00,False,https://hardverapro.hu/apro/gainward_3080_phantom_10gb_lhr/friss.html,2025-02-12 14:13:10,False
 6903466,MSI GeForce RTX 3080 SUPRIM X 10GB GDDR6X,not Ti,200000,2025-02-12 15:15:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_suprim_x_10gb_gddr6x_2/friss.html,2025-02-12 16:15:41,False
 6903992,Asus Tuf Gaming Oc Nvidia Geforce RTX3080,not Ti,198980,2025-02-12 21:49:00,False,https://hardverapro.hu/apro/asus_oc_nvidia_geforce_rtx3080/friss.html,2025-02-12 22:14:50,False
+6904482,MSI GeForce RTX 3080 Ti GAMING X TRIO 12G,Ti,190000,2025-02-13 12:14:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_gaming_x_trio_12g/friss.html,2025-02-13 11:17:11,False
+6891167,MSI GeForce RTX 3080TI Ventus 3x12Gb Videokártya,Ti,220000,2025-02-06 00:00:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080ti_ventus_3x12gb_videokartya_2/friss.html,2025-02-13 11:17:11,False
