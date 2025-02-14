@@ -140,7 +140,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6893410,MSI GeForce RTX 3080 Ti SUPRIM X 12GB GDDR6,Ti,100000,2025-02-05 20:43:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_suprim_x_12gb_gddr6/friss.html,2025-02-05 20:19:47,True
 6893353,MSI GeForce RTX 3080 10GB GDDR6X Ventus 3X PCIE,not Ti,200000,2025-02-05 20:06:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_10gb_gddr6x_ventus_3x_pcie/friss.html,2025-02-05 20:19:47,False
 6893538,EVGA RTX 3080 FTW3 ULTRA GAMING (10G-P5-3897),not Ti,179990,2025-02-05 22:22:00,True,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_10g-p5-3897_3/friss.html,2025-02-05 22:15:24,True
-6894692,Asus rog strix 3080ti 12gb oc,Ti,250000,2025-02-06 19:09:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080ti_12gb_oc_2/friss.html,2025-02-06 18:28:02,False
+6894692,Asus rog strix 3080ti 12gb oc,Ti,250000,2025-02-06 19:09:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080ti_12gb_oc_2/friss.html,2025-02-06 18:28:02,True
 6894800,Asus ROG STRIX RTX 3080 10GB LHR,not Ti,180000,2025-02-06 20:24:00,True,https://hardverapro.hu/apro/asus_rog_strix_3080_10gb_lhr/friss.html,2025-02-06 20:19:03,True
 6894733,ASUS TUF-RTX3080-O10G-V2-GAMING (LHR),not Ti,170000,2025-02-06 19:34:00,True,https://hardverapro.hu/apro/asus_tuf-rtx3080-o10g-v2-gaming_lhr/friss.html,2025-02-06 20:19:03,True
 6894935,Gigabyte RTX 3080 Vision OC 10gb,not Ti,199999,2025-02-06 23:14:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_vision_oc_10gb_4/friss.html,2025-02-06 22:15:29,True
@@ -172,4 +172,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 6904529,Gainward Phantom Nvidia Geforce RTX 3080 Prémium Vga Best Buy,not Ti,189888,2025-02-13 12:57:00,False,https://hardverapro.hu/apro/gainward_nvidia_geforce_rtx_3080_premium_vga_best/friss.html,2025-02-13 13:16:48,False
 6905355,MSI 3080 VENTUS 3X PLUS 10 GB OC LHR,not Ti,155000,2025-02-14 06:59:00,True,https://hardverapro.hu/apro/msi_3080_ventus_3x_plus_10_gb_oc_lhr/friss.html,2025-02-14 06:21:03,False
 6905768,Eladó MSI RTX 3080 SUPRIM X 10gb,not Ti,190000,2025-02-14 13:06:00,False,https://hardverapro.hu/apro/elado_msi_rtx_3080_suprim_x_10gb/friss.html,2025-02-14 13:16:38,False
-6906326,RTX 3080 - Founders Edition 10GB - INGYEN POSTA!,not Ti,135000,Előresorolva,False,https://hardverapro.hu/apro/rtx_3080_founders_edition_10gb_ingyen_posta/friss.html,2025-02-14 18:27:53,False
+6906326,RTX 3080 - Founders Edition 10GB - INGYEN POSTA!,not Ti,135000,Előresorolva,True,https://hardverapro.hu/apro/rtx_3080_founders_edition_10gb_ingyen_posta/friss.html,2025-02-14 18:27:53,False
+6906393,Stirx 3080 eladó! JEGELVE! Értékelésre vár.,not Ti,180000,2025-02-14 19:42:00,False,https://hardverapro.hu/apro/stirx_3080_elado_jegelve_ertekelesre_var/friss.html,2025-02-14 20:19:04,False
