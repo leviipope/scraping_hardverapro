@@ -49,7 +49,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6859022,RTX 3080 Ti,Ti,245000,tegnap 19:21,False,https://hardverapro.hu/apro/rtx_3080_ti_2/friss.html,,True
 6849493,Gainward rtx 3080ti,Ti,215000,2025-01-07,True,https://hardverapro.hu/apro/gainward_rtx_3080ti/friss.html,,True
 6846949,ASUS TUF RTX 3080 Ti 12GB / BESZÁMÍTÁS,Ti,213000,2025-01-06,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_ti_12gb_beszamitas/friss.html,,True
-6840695,NVIDIA GeForce RTX 3080 Founders Edition 10GB GDDR6X Graphics Card,not Ti,180000,2025-01-02,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_2/friss.html,,False
+6840695,NVIDIA GeForce RTX 3080 Founders Edition 10GB GDDR6X Graphics Card,not Ti,180000,2025-01-02,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_2/friss.html,,True
 6831937,ZOTAC GAMING RTX 3080 Ti AMP HOLO 12 GB / BESZÁMÍTÁS,Ti,197000,2024-12-24,True,https://hardverapro.hu/apro/zotac_geforce_trinity_rtx_3080_ti_oc_12gb_beszamit/friss.html,,True
 6830112,nVidia RTX 3080 Founders Edition 10GB GDDR6X videokártya,not Ti,158000,2024-12-23,True,https://hardverapro.hu/apro/nvidia_rtx_3080_founders_edition_10gb_gddr6x_video/friss.html,,True
 6871677,Rtx 3080 Ti,Ti,179800,ma 09:48,False,https://hardverapro.hu/apro/rtx_3080_ti_5/friss.html,,True
@@ -136,7 +136,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6892463,DELL GeForce RTX 3080 10GB MS-V389 videó kártya PG133A 3hó garancia,not Ti,159000,2025-02-05 11:17:00,True,https://hardverapro.hu/apro/dell_geforce_rtx_3080_10gb_ms-v389_video_kartya_pg_2/friss.html,2025-02-05 10:20:04,True
 6892402,AORUS RTX 3080 10G XTREME Waterforce videokártya,not Ti,210000,2025-02-05 10:36:00,False,https://hardverapro.hu/apro/aorus_rtx_3080_10g_xtreme_waterforce_videokartya_2/friss.html,2025-02-05 10:20:04,False
 6892324,Nvidia 3080 Founder Edition eladó,not Ti,160000,2025-02-05 09:26:00,True,https://hardverapro.hu/apro/nvidia_3080_founder_edition_elado/friss.html,2025-02-05 10:20:04,False
-6892571,Gainward Phantom RTX 3080 Ti 12GB / AKÁR 12H GARANCIA/ BESZÁMÍTÁS,Ti,207000,2025-02-05 12:17:00,False,https://hardverapro.hu/apro/gainward_phantom_rtx_3080_ti_12gb_akar_12h_garanci/friss.html,2025-02-05 13:15:54,False
+6892571,Gainward Phantom RTX 3080 Ti 12GB / AKÁR 12H GARANCIA/ BESZÁMÍTÁS,Ti,207000,2025-02-05 12:17:00,True,https://hardverapro.hu/apro/gainward_phantom_rtx_3080_ti_12gb_akar_12h_garanci/friss.html,2025-02-05 13:15:54,False
 6893410,MSI GeForce RTX 3080 Ti SUPRIM X 12GB GDDR6,Ti,100000,2025-02-05 20:43:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_suprim_x_12gb_gddr6/friss.html,2025-02-05 20:19:47,True
 6893353,MSI GeForce RTX 3080 10GB GDDR6X Ventus 3X PCIE,not Ti,200000,2025-02-05 20:06:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_10gb_gddr6x_ventus_3x_pcie/friss.html,2025-02-05 20:19:47,False
 6893538,EVGA RTX 3080 FTW3 ULTRA GAMING (10G-P5-3897),not Ti,179990,2025-02-05 22:22:00,True,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_10g-p5-3897_3/friss.html,2025-02-05 22:15:24,True
@@ -172,3 +172,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 6904529,Gainward Phantom Nvidia Geforce RTX 3080 Prémium Vga Best Buy,not Ti,189888,2025-02-13 12:57:00,False,https://hardverapro.hu/apro/gainward_nvidia_geforce_rtx_3080_premium_vga_best/friss.html,2025-02-13 13:16:48,False
 6905355,MSI 3080 VENTUS 3X PLUS 10 GB OC LHR,not Ti,155000,2025-02-14 06:59:00,True,https://hardverapro.hu/apro/msi_3080_ventus_3x_plus_10_gb_oc_lhr/friss.html,2025-02-14 06:21:03,False
 6905768,Eladó MSI RTX 3080 SUPRIM X 10gb,not Ti,190000,2025-02-14 13:06:00,False,https://hardverapro.hu/apro/elado_msi_rtx_3080_suprim_x_10gb/friss.html,2025-02-14 13:16:38,False
+6906326,RTX 3080 - Founders Edition 10GB - INGYEN POSTA!,not Ti,135000,Előresorolva,False,https://hardverapro.hu/apro/rtx_3080_founders_edition_10gb_ingyen_posta/friss.html,2025-02-14 18:27:53,False
