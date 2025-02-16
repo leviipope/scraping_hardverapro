@@ -7,11 +7,10 @@ It was a fun way of learning web scraping basics.
 ### V? (planned)
 Graphs
 
-### V1.2.5 (planned)
-3080tis separated
-
 ### V2.0.1 *Current*
 The database has been added to the GitHub Actions automation.
+Known issues: in github actions the output says 0 rows were added when data was added, some dates are
+bugged in the scraper.
 
 ### V2.0.0
 Created an SQLite database that is migrated from the csv.
