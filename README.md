@@ -10,10 +10,14 @@ SQL database
 ### V? (planned)
 Graphs
 
-### V1.2.4 (planned)
+### V1.2.5 (planned)
 3080tis separated
 
-### V1.2.3 *Current*
+### V1.2.4 *Current*
+Ti value changed from string to boolean.
+"eloresorolt"; time without hh:mm; "ma" "tegnap" -> fixed to a yyyy-MM-dd hh:mm format
+
+### V1.2.3 
 if id not found in the current list -> archived to true
 
 ### V1.2.2
