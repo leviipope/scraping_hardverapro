@@ -38,7 +38,7 @@ jobs:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
 
       - name: Migrate Data to SQLite
-        run: sql_data_migration.py
+        run: python sql_data_migration.py
 
       - name: Commit and push changes
         run: |
