@@ -1,4 +1,4 @@
-name: Run Scraping Script
+name: Run Scraping Script and Migrate Data
 
 on:
   workflow_dispatch:
@@ -16,35 +16,41 @@ on:
     - cron: '0 22 * * *'
 
 jobs:
-  run-script:
+  run-scripts:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Step 2: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run the Python script
+      # Step 4: Run the main scraping script
+      - name: Run Scraping Script
         run: python script.py
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
 
+      # Step 5: Run the SQL migration script
       - name: Migrate Data to SQLite
         run: python sql_data_migration.py
 
-      - name: Commit and push changes
+      # Step 6: Commit and push changes (CSV and SQLite database)
+      - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add gpu_listings.csv
+          git add gpu_listings.csv gpu_listings.db
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
