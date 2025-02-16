@@ -114,9 +114,9 @@ for result in search_result:
     id = result["data-uadid"]
     new_search_ids.add(id)
 
-    ti = "not Ti"
+    ti = False
     if " ti " in name_l or "3080ti" in name_l or "3080 ti" in name_l:
-        ti = "Ti"
+        ti = True
 
     if id in existing_data:
         if existing_data[id]["iced"] == "False" and iced:

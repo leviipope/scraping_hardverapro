@@ -10,14 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/processed_paste.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/test.csv">
+        <entry key="/scripts/output.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
