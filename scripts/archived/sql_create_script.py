@@ -1,7 +1,7 @@
 import sqlite3
 
 # Database file
-database_file = "../../gpu_listings.db"
+database_file = "gpu_listings.db"
 
 # Connect to SQLite (creates the database file if it doesn't exist)
 conn = sqlite3.connect(database_file)

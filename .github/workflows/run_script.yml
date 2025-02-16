@@ -37,6 +37,9 @@ jobs:
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
 
+      - name: Migrate Data to SQLite
+        run: sql_data_migration.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -45,7 +48,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m 'Update gpu_listings.csv'
+            git commit -m 'Update gpu_listings.csv and gpu_listings.db'
             git push
           fi
         env:

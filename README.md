@@ -4,16 +4,19 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
-### V2.0.0 (planned)
-SQL database
-
 ### V? (planned)
 Graphs
 
 ### V1.2.5 (planned)
 3080tis separated
 
-### V1.2.4 *Current*
+### V2.0.1 *Current*
+The database has been added to the GitHub Actions automation.
+
+### V2.0.0
+Created an SQLite database that is migrated from the csv.
+
+### V1.2.4
 Ti value changed from string to boolean.
 "eloresorolt"; time without hh:mm; "ma" "tegnap" -> fixed to a yyyy-MM-dd hh:mm format
 
