@@ -4,6 +4,12 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
+### V2.0.0 (planned)
+SQL database
+
+### V? (planned)
+Graphs
+
 ### V1.2.4 (planned)
 3080tis separated
 
