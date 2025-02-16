@@ -10,7 +10,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/scripts/output.csv">
+        <entry key="/scripts/archived/gpu_listings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/scripts/gpu_listings.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
