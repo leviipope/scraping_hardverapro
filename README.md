@@ -4,8 +4,7 @@ It was a fun way of learning web scraping basics.
 
 ## Versions
 
-### V? (planned)
-Graphs
+Currently taking notes and making diagrams for understanding code.
 
 ### V2.0.1 *Current*
 The database has been added to the GitHub Actions automation.
@@ -44,4 +43,4 @@ It can't be changed to other graphics cards or any other products on hardverapro
 
 ## Planned for later
 <li>more cards </li>
-<li>SQL database</li>
+<li>Graphs</li>
