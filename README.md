@@ -8,8 +8,7 @@ Currently taking notes and making diagrams for understanding code.
 
 ### V2.0.1 *Current*
 The database has been added to the GitHub Actions automation.
-Known issues: in github actions the output says 0 rows were added when data was added, some dates are
-bugged in the scraper.
+Known issues: the data migrate script only adds new rows, doesn't modify old data
 
 ### V2.0.0
 Created an SQLite database that is migrated from the csv.
