@@ -214,7 +214,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6920541,MSI Suprim X RTX3080 10Gb,False,165000,2025-02-24 10:20:00,True,https://hardverapro.hu/apro/msi_suprim_x_rtx3080_10gb_2/friss.html,2025-02-24 10:21:53,True
 6921364,MSI SUPRIM RTX 3080 12GB,False,200000,Előresorolva,True,https://hardverapro.hu/apro/msi_suprim_rtx_3080_12gb/friss.html,2025-02-24 18:29:33,False
 6921350,ZOTAC RTX 3080 AMP Holo 10GB GDDR6X 320bit,False,154990,2025-02-24 18:09:00,True,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo_10gb_gddr6x_320bit_2/friss.html,2025-02-24 18:29:33,True
-6921584,Gigabyte Gaming RTX3080Ti,True,205000,2025-02-24 20:09:00,False,https://hardverapro.hu/apro/gigabyte_gaming_rtx3080ti/friss.html,2025-02-24 20:20:27,False
+6921584,Gigabyte Gaming RTX3080Ti,True,205000,2025-02-24 20:09:00,True,https://hardverapro.hu/apro/gigabyte_gaming_rtx3080ti/friss.html,2025-02-24 20:20:27,False
 6921571,Gigabyte Gaming RTX3080,False,150000,2025-02-24 20:05:00,True,https://hardverapro.hu/apro/gigabyte_gaming_rtx3080/friss.html,2025-02-24 20:20:27,False
 6921891,Evga xc3 3080,False,128000,2025-02-25 07:21:00,True,https://hardverapro.hu/apro/evga_xc3_3080_2/friss.html,2025-02-25 06:22:24,False
 6922324,"Asus Strix 3080 LHR 10gb White, LED hiba",False,190000,2025-02-25 12:36:00,False,https://hardverapro.hu/apro/asus_strix_3080_lhr_10gb_white_led_hiba/friss.html,2025-02-25 13:17:55,False
