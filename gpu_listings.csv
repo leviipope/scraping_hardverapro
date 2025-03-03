@@ -221,7 +221,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6922862,GeForce RTX 3080 Founders Edition 10GB / AKÁR 12H GARANCIA/ BESZÁMÍTÁS,False,165000,2025-02-25 18:19:00,True,https://hardverapro.hu/apro/geforce_rtx_3080_founders_edition_10gb_akar_12h_ga/friss.html,2025-02-25 18:29:41,False
 6923170,SUPRIMX 3080TI,True,229999,2025-02-25 21:52:00,True,https://hardverapro.hu/apro/suprimx_3080ti_2/friss.html,2025-02-25 22:15:27,False
 6923659,ZOTAC RTX 3080 10GB GDDR6X Trinity,False,145000,2025-02-26 12:11:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_10gb_gddr6x_trinity_2/friss.html,2025-02-26 11:18:41,True
-6924123,MSI Suprim X RTX3080 10Gb,False,170000,2025-02-26 17:10:00,False,https://hardverapro.hu/apro/msi_suprim_x_rtx3080_10gb_3/friss.html,2025-02-26 16:16:28,False
+6924123,MSI Suprim X RTX3080 10Gb,False,170000,2025-02-26 17:10:00,False,https://hardverapro.hu/apro/msi_suprim_x_rtx3080_10gb_3/friss.html,2025-02-26 16:16:28,True
 6925239,"ASUS TUF 3080 OC 10 GB friss paszta és thermal padok, új ventik",False,179000,2025-02-27 14:03:00,True,https://hardverapro.hu/apro/asus_tuf_3080_oc_10_gb_friss_paszta_es_thermal_pad/friss.html,2025-02-27 13:18:40,False
 6925304,Manli GeForce RTX 3080 Ti 12GB Garanciával!,True,199500,2025-02-27 14:49:00,False,https://hardverapro.hu/apro/manli_geforce_rtx_3080_ti_12gb_4/friss.html,2025-02-27 14:13:46,True
 6895815,MSI RTX 3080 Gaming Z Trio 10GB LHR !!! Hibátlan állapotban,False,180000,2025-02-27 15:53:00,False,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_trio_10gb_lhr_hibatlan_allap/friss.html,2025-02-27 16:16:46,False
@@ -241,3 +241,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 6930221,Nividia RTX 3080TI 12GB,True,245000,2025-03-02 23:42:00,False,https://hardverapro.hu/apro/nividia_rtx_3080ti_12gb/friss.html,2025-03-03 06:23:35,False
 6930359,GIGABYTE GeForce AORUS XTREME RTX 3080 10GB GDDR6X,False,200000,2025-03-03 08:58:00,False,https://hardverapro.hu/apro/gigabyte_geforce_aorus_xtreme_rtx_3080_10gb_gddr6x_2/friss.html,2025-03-03 08:12:10,False
 6930349,MSI 3080 10 g,False,180000,2025-03-03 08:44:00,False,https://hardverapro.hu/apro/msi_3080_10_g/friss.html,2025-03-03 08:12:10,False
+6930456,Teljesen Új Asus TUF RTX3080 V2,False,210000,2025-03-03 10:12:00,False,https://hardverapro.hu/apro/teljesen_uj_asus_tuf_rtx3080_v2/friss.html,2025-03-03 10:22:17,False
