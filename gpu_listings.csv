@@ -67,7 +67,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6875089,RTX 3080 MSI SUPRIM X 10GB,False,169999,2025-01-24 15:57:00,False,https://hardverapro.hu/apro/rtx_3080_msi_suprim_x_10gb/friss.html,2025-01-24 16:20:06,True
 6874994,ASUS TUF Gaming RTX 3080Ti 12GB OC Edition GARANCIA 2025.11.,True,234000,2025-01-24 14:54:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080ti_12gb_oc_edition_garanci/friss.html,2025-01-24 16:20:06,True
 6875929,Eladó Manli RTX3080 10GB még Garanciás!,False,170000,2025-01-25 10:56:00,False,https://hardverapro.hu/apro/elado_manli_rtx3080_10gb_meg_garancias/friss.html,2025-01-25 12:14:11,True
-6876316,NVidia GeForce 3080Ti 12 GB Founders Edition,True,285000,2025-01-25 14:43:00,False,https://hardverapro.hu/apro/nvidia_geforce_3080ti_12_gb_founders_edition/friss.html,2025-01-25 16:19:22,True
+6876316,NVidia GeForce 3080Ti 12 GB Founders Edition,True,285000,2025-01-25 14:43:00,False,https://hardverapro.hu/apro/nvidia_geforce_3080ti_12_gb_founders_edition/friss.html,2025-01-25 16:19:22,False
 6877085,Manli rtx 3080 ti,True,205000,2025-01-25 23:07:00,False,https://hardverapro.hu/apro/manli_rtx_3080_ti_3/friss.html,2025-01-25 22:11:46,True
 6876950,RTX 3080 SuprimX 10GB,False,165000,2025-01-25 20:55:00,True,https://hardverapro.hu/apro/rtx3080_suprimx_10gb/friss.html,2025-01-25 22:11:46,True
 6876918,ASUS ROG STRIX RTX 3080 10GB GDDR6X OC,False,200000,2025-01-25 20:40:00,True,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_10gb_gddr6x_oc/friss.html,2025-01-25 22:11:46,True
@@ -253,3 +253,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 6932488,ZOTAC GAMING GeForce RTX 3080 Ti Trinity OC,True,240000,2025-03-04 15:24:00,False,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_ti_trinity_oc_orxb/friss.html,2025-03-04 16:16:35,False
 6932768,Asus TUF RTX 3080 V2 OC 2 év garancia,False,195000,2025-03-04 18:21:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_v2_oc_2ev_garancia/friss.html,2025-03-04 18:30:31,True
 6932723,Manli RTX 3080Ti 12GB,True,205000,2025-03-04 17:53:00,False,https://hardverapro.hu/apro/manli_rtx_3080ti_12gb/friss.html,2025-03-04 18:30:31,False
+6933272,MSI SUPRIM X RTX 3080Ti 12GB Pénzvisszafizetési garancia!,True,235000,2025-03-05 06:46:00,False,https://hardverapro.hu/apro/msi_suprim_x_rtx_3080ti_12gb_penzvisszafizetesi_ga/friss.html,2025-03-05 06:22:56,False
