@@ -307,7 +307,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6946814,Gainward RTX 3080 10GB Phantom+,False,175000,2025-03-14 16:42:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_10gb_phantom_2/friss.html,2025-03-14 16:15:51,False
 6946985,RTX 3080TI Founders Edition,True,159999,2025-03-14 18:14:00,True,https://hardverapro.hu/apro/rtx_3080ti_founders_edition/friss.html,2025-03-14 18:29:11,False
 6946903,MSI Ventus RTX 3080,False,145000,2025-03-14 18:04:00,True,https://hardverapro.hu/apro/msi_ventus_rtx_3080_2/friss.html,2025-03-14 18:29:11,False
-6947104,EVGA RTX 3080 FTW3 ULTRA 10GB Eladó,False,160000,2025-03-14 19:40:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_10gb_elado/friss.html,2025-03-14 20:19:47,False
+6947104,EVGA RTX 3080 FTW3 ULTRA 10GB Eladó,False,160000,2025-03-14 19:40:00,True,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_10gb_elado/friss.html,2025-03-14 20:19:47,False
 6947265,Zotac RTX 3080 ti Trinity 12gb,True,230000,2025-03-14 22:23:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_ti_trinity_12gb/friss.html,2025-03-14 22:15:14,False
 6948077,Nvidia GeForce RTX 3080 Ti Founders Edition,True,260000,2025-03-15 14:26:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_ti_founders_edition_8/friss.html,2025-03-15 14:13:27,False
 6948291,EVGA geforce rtx 3080TI xc3 ultra,True,180000,2025-03-15 16:27:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080ti_xc3_ultra/friss.html,2025-03-15 16:13:54,False
@@ -320,3 +320,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 6949630,Zotac RTX 3080 Trinity OC 10GB,False,165000,2025-03-16 14:18:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_10gb_3/friss.html,2025-03-16 14:30:25,False
 6949882,NVIDIA GeForce RTX 3080 Founders Edition 10GB GDDR6X,False,159990,2025-03-16 16:23:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_6/friss.html,2025-03-16 16:14:27,False
 6949856,Asus TUF Gaming RTX 3080 12GB,False,200000,2025-03-16 16:09:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_12gb/friss.html,2025-03-16 16:14:27,False
+6950181,Asus TUF Rtx 3080ti,True,240000,2025-03-16 19:17:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080ti_2/friss.html,2025-03-16 18:27:49,False
