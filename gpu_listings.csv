@@ -340,5 +340,6 @@ id,name,ti,price,time,iced,link,date_added,archived
 6954577,AORUS RTX 3080 10G XTREME Waterforce videokártya,False,200000,2025-03-19 16:10:00,False,https://hardverapro.hu/apro/aorus_rtx_3080_10g_xtreme_waterforce_videokartya_3/friss.html,2025-03-19 16:16:40,False
 6954959,MSI RTX 3080 Ti Bolti Garanciával,True,245000,2025-03-19 20:30:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ti_bolti_garanciaval/friss.html,2025-03-19 20:20:56,False
 6955107,Asus Tuf RTX 3080 Ti 12Gb OC,True,210000,2025-03-19 22:34:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_ti_12gb_oc/friss.html,2025-03-19 22:16:11,False
-6955154,Asus ROG Strix RTX 3080 Ti 12GB,True,235000,2025-03-20 00:11:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_ti_12gb/friss.html,2025-03-20 06:22:52,False
+6955154,Asus ROG Strix RTX 3080 Ti 12GB,True,235000,2025-03-20 00:11:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_ti_12gb/friss.html,2025-03-20 06:22:52,True
 6955260,PNY Geforce RTX 3080 10 GB GDDR6X XLR8 led,False,150000,2025-03-20 08:21:00,False,https://hardverapro.hu/apro/pny_geforce_rtx_3080_10_gb_gddr6x_xlr8_led/friss.html,2025-03-20 08:11:05,False
+6955730,GEFORCE RTX 3080 OC,False,150000,2025-03-20 13:39:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_oc/friss.html,2025-03-20 13:18:50,False
