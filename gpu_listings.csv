@@ -344,6 +344,8 @@ id,name,ti,price,time,iced,link,date_added,archived
 6955260,PNY Geforce RTX 3080 10 GB GDDR6X XLR8 led,False,150000,2025-03-20 08:21:00,False,https://hardverapro.hu/apro/pny_geforce_rtx_3080_10_gb_gddr6x_xlr8_led/friss.html,2025-03-20 08:11:05,False
 6955730,GEFORCE RTX 3080 OC,False,150000,2025-03-20 13:39:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_oc/friss.html,2025-03-20 13:18:50,False
 6956587,EVGA RTX 3080 FTW3 ULTRA Gaming,False,169990,2025-03-21 00:41:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_3/friss.html,2025-03-21 06:24:45,False
-6956746,MSI 3080 SUPRIM X 12G LHR,False,200000,2025-03-21 09:12:00,False,https://hardverapro.hu/apro/msi_3080_suprim_x_12g_lhr/friss.html,2025-03-21 10:21:38,False
+6956746,MSI 3080 SUPRIM X 12G LHR,False,200000,2025-03-21 09:12:00,True,https://hardverapro.hu/apro/msi_3080_suprim_x_12g_lhr/friss.html,2025-03-21 10:21:38,False
 6957074,Asus Geforce rtx 3080 strix white,False,180000,2025-03-21 13:02:00,False,https://hardverapro.hu/apro/asus_geforce_rtx_3080_strix_white/friss.html,2025-03-21 13:18:32,False
 6957384,ZOTAC GAMING GeForce RTX 3080 Trinity 10GB videókártya!,False,154990,2025-03-21 16:41:00,False,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_trinity_10gb_2/friss.html,2025-03-21 16:16:42,False
+6958384,Gigabyte Aorus Gaming Box RTX 3080 eGPU,False,179990,2025-03-22 14:09:00,False,https://hardverapro.hu/apro/gigabyte_aorus_gaming_box_rtx_3080_egpu/friss.html,2025-03-22 13:14:12,False
+6958454,EVGA RTX 3080 XC3 BLACK 10 Gb,False,150000,2025-03-22 13:42:00,False,https://hardverapro.hu/apro/evga_rtx_3080_xc3_black_10_gb/friss.html,2025-03-22 13:14:12,False
