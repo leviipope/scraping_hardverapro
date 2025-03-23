@@ -285,7 +285,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6939201,Zotac Geforce RTX 3080 Trinity OC,False,159990,2025-03-09 15:08:00,True,https://hardverapro.hu/apro/zotac_geforce_rtx_3080_trinity_oc_2/friss.html,2025-03-09 16:12:13,False
 6939446,ASUS TUF RTX 3080 10GB LHR eladó,False,159999,2025-03-09 18:26:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_lhr_elado/friss.html,2025-03-09 18:22:10,True
 6939503,Zotac RTX 3080 AMP Holo 10GB,False,169000,2025-03-09 18:20:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo_10gb/friss.html,2025-03-09 18:22:10,False
-6939774,Gigabyte RTX 3080 Gaming 10GB - GARI,False,159990,2025-03-09 21:10:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_10gb_gari/friss.html,2025-03-09 20:18:01,False
+6939774,Gigabyte RTX 3080 Gaming 10GB - GARI,False,159990,2025-03-09 21:10:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_10gb_gari/friss.html,2025-03-09 20:18:01,True
 6939875,Inno3D RTX 3080 TWIN X2 OC 10G videokártya garanciával,False,155000,2025-03-09 23:37:00,False,https://hardverapro.hu/apro/inno3d_rtx_3080_twin_x2_oc_10g_videokartya_garanci/friss.html,2025-03-10 06:19:04,True
 6940204,"GIGABYTE RTX 3080 10GB GDDR6X GAMING OC 10G - Gyönyörű, hibátlan állapotban!",False,169990,2025-03-10 10:29:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_10gb_gddr6x_gaming_oc_10g_gyonyo/friss.html,2025-03-10 10:19:06,True
 6940082,Eladó INNO 3D 3080 Ti videókártya,True,200000,2025-03-10 09:16:00,True,https://hardverapro.hu/apro/elado_inno_3d_3080_ti_videokartya/friss.html,2025-03-10 10:19:06,True
@@ -346,7 +346,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6956587,EVGA RTX 3080 FTW3 ULTRA Gaming,False,169990,2025-03-21 00:41:00,True,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_3/friss.html,2025-03-21 06:24:45,False
 6956746,MSI 3080 SUPRIM X 12G LHR,False,200000,2025-03-21 09:12:00,True,https://hardverapro.hu/apro/msi_3080_suprim_x_12g_lhr/friss.html,2025-03-21 10:21:38,True
 6957074,Asus Geforce rtx 3080 strix white,False,180000,2025-03-21 13:02:00,False,https://hardverapro.hu/apro/asus_geforce_rtx_3080_strix_white/friss.html,2025-03-21 13:18:32,False
-6957384,ZOTAC GAMING GeForce RTX 3080 Trinity 10GB videókártya!,False,154990,2025-03-21 16:41:00,False,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_trinity_10gb_2/friss.html,2025-03-21 16:16:42,False
+6957384,ZOTAC GAMING GeForce RTX 3080 Trinity 10GB videókártya!,False,154990,2025-03-21 16:41:00,True,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_trinity_10gb_2/friss.html,2025-03-21 16:16:42,False
 6958384,Gigabyte Aorus Gaming Box RTX 3080 eGPU,False,179990,2025-03-22 14:09:00,False,https://hardverapro.hu/apro/gigabyte_aorus_gaming_box_rtx_3080_egpu/friss.html,2025-03-22 13:14:12,False
 6958454,EVGA RTX 3080 XC3 BLACK 10 Gb,False,150000,2025-03-22 13:42:00,False,https://hardverapro.hu/apro/evga_rtx_3080_xc3_black_10_gb/friss.html,2025-03-22 13:14:12,False
 6958787,Eladó GeForce RTX 3080 Ti VENTUS 3X 12G OC!,True,189900,2025-03-22 17:07:00,True,https://hardverapro.hu/apro/elado_geforce_rtx_3080_ti_ventus_3x_12g_oc/friss.html,2025-03-22 16:14:10,False
