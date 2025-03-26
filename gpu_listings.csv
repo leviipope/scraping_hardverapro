@@ -309,7 +309,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6946903,MSI Ventus RTX 3080,False,145000,2025-03-14 18:04:00,True,https://hardverapro.hu/apro/msi_ventus_rtx_3080_2/friss.html,2025-03-14 18:29:11,True
 6947104,EVGA RTX 3080 FTW3 ULTRA 10GB Eladó,False,160000,2025-03-14 19:40:00,True,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_10gb_elado/friss.html,2025-03-14 20:19:47,True
 6947265,Zotac RTX 3080 ti Trinity 12gb,True,230000,2025-03-14 22:23:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_ti_trinity_12gb/friss.html,2025-03-14 22:15:14,False
-6948077,Nvidia GeForce RTX 3080 Ti Founders Edition,True,260000,2025-03-15 14:26:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_ti_founders_edition_8/friss.html,2025-03-15 14:13:27,False
+6948077,Nvidia GeForce RTX 3080 Ti Founders Edition,True,260000,2025-03-15 14:26:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_ti_founders_edition_8/friss.html,2025-03-15 14:13:27,True
 6948291,EVGA geforce rtx 3080TI xc3 ultra,True,180000,2025-03-15 16:27:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080ti_xc3_ultra/friss.html,2025-03-15 16:13:54,True
 6948462,Asus Rog strix gaming oc 3080,False,120000,2025-03-15 17:38:00,True,https://hardverapro.hu/apro/asus_rog_strix_gaming_oc_3080/friss.html,2025-03-15 18:27:29,True
 6948721,Palit GeForce RTX 3080 GameRock 10GB GDDR6X 320bit OC RGB LED Videokártya,False,159990,2025-03-15 20:35:00,False,https://hardverapro.hu/apro/palit_geforce_rtx_3080_gamerock_10gb_gddr6x_320bit_2/friss.html,2025-03-15 20:18:39,True
@@ -319,7 +319,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6949215,EVGA FTW3 RTX 3080Ti 12GB,True,225000,2025-03-16 10:39:00,False,https://hardverapro.hu/apro/evga_ftw3_rtx_3080ti_24gb/friss.html,2025-03-16 10:19:26,False
 6949630,Zotac RTX 3080 Trinity OC 10GB,False,165000,2025-03-16 14:18:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_10gb_3/friss.html,2025-03-16 14:30:25,True
 6949882,NVIDIA GeForce RTX 3080 Founders Edition 10GB GDDR6X,False,159990,2025-03-16 16:23:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_6/friss.html,2025-03-16 16:14:27,False
-6949856,Asus TUF Gaming RTX 3080 12GB,False,200000,2025-03-16 16:09:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_12gb/friss.html,2025-03-16 16:14:27,True
+6949856,Asus TUF Gaming RTX 3080 12GB,False,200000,2025-03-16 16:09:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_12gb/friss.html,2025-03-16 16:14:27,False
 6950181,Asus TUF Rtx 3080ti,True,240000,2025-03-16 19:17:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080ti_2/friss.html,2025-03-16 18:27:49,False
 6950497,EVGA RTX 3080 XC3 BLACK GAMING (frissen pasztázott és hőpadozott!),False,170000,2025-03-16 23:04:00,True,https://hardverapro.hu/apro/evga_rtx_3080_xc3_black_gaming_frissen_pasztazott/friss.html,2025-03-16 22:14:44,False
 6950630,Zotac RTX 3080 Trinity OC 10GB,False,175800,2025-03-17 06:45:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_10gb_4/friss.html,2025-03-17 06:23:39,False
@@ -366,3 +366,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 6963628,ASUS TUF RTX 3080 Ti GAMING OC 12GB,True,210000,2025-03-25 20:11:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_ti_gaming_oc_12gb/friss.html,2025-03-25 20:21:25,False
 6963851,ASUS TUF RTX3080TI eladó,True,210000,2025-03-25 23:28:00,False,https://hardverapro.hu/apro/asus_tuf_rtx3080ti_elado/friss.html,2025-03-26 06:23:15,False
 6963984,Manli GeForce RTX 3080 Ti 12GB (M-NRTX3080TI/6RF) Videokártya,True,199000,2025-03-26 08:35:00,False,https://hardverapro.hu/apro/manli_geforce_rtx_3080_ti_12gb_m-nrtx3080ti_6rf_vi/friss.html,2025-03-26 08:11:32,False
+6964414,Zotac RTX 3080 10GB videókártya dobozában eladó.,False,151000,2025-03-26 13:51:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_10gb_videokartya_dobozaban_elado_2/friss.html,2025-03-26 13:20:44,False
+6964358,RTX 3080 FE ELADÓ,False,165000,2025-03-26 12:52:00,False,https://hardverapro.hu/apro/rtx_3080_fe_elado/friss.html,2025-03-26 13:20:44,False
