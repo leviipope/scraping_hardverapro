@@ -320,7 +320,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6949630,Zotac RTX 3080 Trinity OC 10GB,False,165000,2025-03-16 14:18:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_10gb_3/friss.html,2025-03-16 14:30:25,True
 6949882,NVIDIA GeForce RTX 3080 Founders Edition 10GB GDDR6X,False,159990,2025-03-16 16:23:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_6/friss.html,2025-03-16 16:14:27,False
 6949856,Asus TUF Gaming RTX 3080 12GB,False,200000,2025-03-16 16:09:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_12gb/friss.html,2025-03-16 16:14:27,False
-6950181,Asus TUF Rtx 3080ti,True,240000,2025-03-16 19:17:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080ti_2/friss.html,2025-03-16 18:27:49,False
+6950181,Asus TUF Rtx 3080ti,True,240000,2025-03-16 19:17:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080ti_2/friss.html,2025-03-16 18:27:49,False
 6950497,EVGA RTX 3080 XC3 BLACK GAMING (frissen pasztázott és hőpadozott!),False,170000,2025-03-16 23:04:00,True,https://hardverapro.hu/apro/evga_rtx_3080_xc3_black_gaming_frissen_pasztazott/friss.html,2025-03-16 22:14:44,True
 6950630,Zotac RTX 3080 Trinity OC 10GB,False,175800,2025-03-17 06:45:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_10gb_4/friss.html,2025-03-17 06:23:39,False
 6950676,Gainward 3080 phantom+ 10GB LHR,False,158000,2025-03-17 08:01:00,False,https://hardverapro.hu/apro/gainward_3080_phantom_10gb_lhr_2/friss.html,2025-03-17 07:08:51,False
@@ -370,3 +370,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 6964358,RTX 3080 FE ELADÓ,False,165000,2025-03-26 12:52:00,False,https://hardverapro.hu/apro/rtx_3080_fe_elado/friss.html,2025-03-26 13:20:44,False
 6965032,Asus rog strix 3080ti 12gb oc,True,280000,2025-03-26 20:05:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080ti_12gb_oc_3/friss.html,2025-03-26 20:21:24,False
 6965477,"Gainward RTX3080 10Gb, Phoenix",False,160000,2025-03-27 09:38:00,False,https://hardverapro.hu/apro/gainward_rtx3080_10gb/friss.html,2025-03-27 10:22:12,False
+6966035,ASUS RTX 3080 TUF 10GB - dobozával,False,158000,2025-03-27 16:05:00,False,https://hardverapro.hu/apro/asus_3080_tuf_10gb_dobozaval/friss.html,2025-03-27 16:17:07,False
