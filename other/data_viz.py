@@ -15,7 +15,7 @@ sns.histplot(df['price'], bins=20, kde=True)
 plt.title("Price Distribution")
 plt.xlabel("Price (Ft)")
 plt.ylabel("Frequency")
-plt.savefig("price_distribution.png")  # Save plot as an image
+plt.savefig("price_distribution2025-03-29.png")  # Save plot as an image
 plt.close()  # Close the plot
 
 # 2. Price Over Time (Line Chart)
@@ -25,5 +25,5 @@ plt.title("GPU Prices Over Time")
 plt.xlabel("Date Added")
 plt.ylabel("Price (Ft)")
 plt.xticks(rotation=45)
-plt.savefig("price_over_time.png")  # Save plot as an image
+plt.savefig("price_over_time2025-03-29.png")  # Save plot as an image
 plt.close()

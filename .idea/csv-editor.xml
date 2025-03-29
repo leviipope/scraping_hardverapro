@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/gpu_listings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/other/backup/gpu_listings.csv">
           <value>
             <Attribute>
