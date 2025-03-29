@@ -42,9 +42,9 @@ jobs:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           ENABLE_EMAIL_NOTIFICATIONS: "true"
 
-      # Step 5: Run the SQL migration script
+      # Step 5: Run the data migration script
       - name: Migrate Data to SQLite
-        run: python sql_data_migration.py
+        run: python data_to_db.py
 
       # Step 6: Commit and push changes (CSV and SQLite database)
       - name: Commit and Push Changes

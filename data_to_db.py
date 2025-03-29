@@ -86,9 +86,11 @@ def migrate_data_to_sqlite():
 
     print(f"Read {len(csv_data)} listings from CSV file")
 
-    # Get existing entries from the database to track new vs updated
-    cursor.execute("SELECT id FROM gpu_listings")
-    existing_ids = {row[0] for row in cursor.fetchall()}
+    # Get existing entries from the database with all their data
+    cursor.execute("SELECT id, name, ti, price, time, iced, link, date_added, archived FROM gpu_listings")
+    existing_data = {
+        row[0]: dict(zip(['id', 'name', 'ti', 'price', 'time', 'iced', 'link', 'date_added', 'archived'], row)) for row
+        in cursor.fetchall()}
 
     # Count operations
     new_entries = 0
@@ -97,20 +99,40 @@ def migrate_data_to_sqlite():
     # Process each CSV row
     for item in csv_data:
         try:
-            cursor.execute('''
-                INSERT OR REPLACE INTO gpu_listings
-                (id, name, ti, price, time, iced, link, date_added, archived)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (
-                item['id'], item['name'], item['ti'], item['price'],
-                item['time'], item['iced'], item['link'],
-                item['date_added'], item['archived']
-            ))
-
-            # Count if this was an insert or update
-            if item['id'] in existing_ids:
-                updated_entries += 1
+            if item['id'] in existing_data:
+                # Check if data has actually changed
+                existing_item = existing_data[item['id']]
+                if (str(existing_item['name']) != item['name'] or
+                        str(existing_item['ti']) != item['ti'] or
+                        existing_item['price'] != item['price'] or
+                        str(existing_item['time']) != item['time'] or
+                        str(existing_item['iced']) != item['iced'] or
+                        str(existing_item['link']) != item['link'] or
+                        str(existing_item['date_added']) != item['date_added'] or
+                        str(existing_item['archived']) != item['archived']):
+                    # Data has changed, update it
+                    cursor.execute('''
+                        UPDATE gpu_listings SET 
+                        name = ?, ti = ?, price = ?, time = ?, 
+                        iced = ?, link = ?, date_added = ?, archived = ?
+                        WHERE id = ?
+                    ''', (
+                        item['name'], item['ti'], item['price'], item['time'],
+                        item['iced'], item['link'], item['date_added'], item['archived'],
+                        item['id']
+                    ))
+                    updated_entries += 1
             else:
+                # New entry
+                cursor.execute('''
+                    INSERT INTO gpu_listings
+                    (id, name, ti, price, time, iced, link, date_added, archived)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (
+                    item['id'], item['name'], item['ti'], item['price'],
+                    item['time'], item['iced'], item['link'],
+                    item['date_added'], item['archived']
+                ))
                 new_entries += 1
 
         except sqlite3.Error as e:
@@ -127,7 +149,6 @@ def migrate_data_to_sqlite():
     print(f"Total entries in database: {total_entries}")
 
     conn.close()
-
 
 if __name__ == "__main__":
     migrate_data_to_sqlite()
