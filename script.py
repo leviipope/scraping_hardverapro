@@ -1,33 +1,11 @@
+# script.py
 import csv
 from bs4 import BeautifulSoup
 import requests
 from datetime import datetime, timedelta
-import sib_api_v3_sdk
-from sib_api_v3_sdk.rest import ApiException
 from dotenv import load_dotenv
 import os
-
-def send_email(gpu):
-    subject = f"New GPU Found: {gpu['name']}"
-    body = f"""
-    <h2>New GPU Listing</h2>
-    <p><strong>Price:</strong> {gpu['price']} Ft</p>
-    <p><strong>Time:</strong> {gpu['time']}</p>
-    <p><a href="{gpu['link']}">View Listing</a></p>
-    """
-
-    email_data = {
-        "sender": {"name": "GPU Alerts", "email": "leviiytpublick@gmail.com"},
-        "to": [{"email": "leviiytpublick@gmail.com"}],
-        "subject": subject,
-        "htmlContent": body
-    }
-
-    try:
-        api_instance.send_transac_email(email_data)
-        print(f"Email sent for GPU: {gpu['name']}")
-    except ApiException as e:
-        print(f"Error sending email: {e}")
+from email_service import EmailService
 
 def load_existing_data(csv_file):
     try:
@@ -62,17 +40,10 @@ def parse_time(raw_time):
 if os.getenv("GITHUB_ACTIONS") is None:
     load_dotenv()
 
-# Get API key (either from environment or .env file)
-BREVO_API_KEY = os.getenv("BREVO_API_KEY")
-
-# Ensure the API key is available
-if BREVO_API_KEY is None:
-    raise ValueError("BREVO_API_KEY is not set. Make sure to set it in the .env file or GitHub Secrets.")
-
-# Configure API client
-configuration = sib_api_v3_sdk.Configuration()
-configuration.api_key["api-key"] = BREVO_API_KEY
-api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))
+# Initialize email service - can be disabled by setting to False
+# You can also set an environment variable to control this
+email_enabled = os.getenv("ENABLE_EMAIL_NOTIFICATIONS", "true").lower() == "true"
+email_service = EmailService(enabled=email_enabled)
 
 # Scrape the webpage
 url = "https://hardverapro.hu/aprok/hardver/videokartya/nvidia/geforce_30xx/keres.php?stext=3080&stcid_text=&stcid=&stmid_text=&stmid=&minprice=&maxprice=&cmpid_text=&cmpid=&usrid_text=&usrid=&buying=0&stext_none="
@@ -109,7 +80,6 @@ for result in search_result:
 
     iced = result.find("div", class_="uad-price").small
     iced = False if iced is None else True
-
     link = result.find("h1").a["href"]
     id = result["data-uadid"]
     new_search_ids.add(id)
@@ -176,8 +146,8 @@ if iced_gpus_count > 0:
 else:
     print("\nNo GPUs were iced.")
 
-# Send webhook for affordable GPUs
+# Send emails for affordable GPUs
 if gpu_listings:
     for gpu in gpu_listings:
         if gpu["price"] < 160000:
-            send_email(gpu)
+            email_service.send_email(gpu)
