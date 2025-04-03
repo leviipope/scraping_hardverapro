@@ -369,7 +369,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6964414,Zotac RTX 3080 10GB videókártya dobozában eladó.,False,151000,2025-03-26 13:51:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_10gb_videokartya_dobozaban_elado_2/friss.html,2025-03-26 13:20:44,True
 6964358,RTX 3080 FE ELADÓ,False,165000,2025-03-26 12:52:00,True,https://hardverapro.hu/apro/rtx_3080_fe_elado/friss.html,2025-03-26 13:20:44,False
 6965032,Asus rog strix 3080ti 12gb oc,True,280000,2025-03-26 20:05:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080ti_12gb_oc_3/friss.html,2025-03-26 20:21:24,False
-6965477,"Gainward RTX3080 10Gb, Phoenix",False,160000,2025-03-27 09:38:00,False,https://hardverapro.hu/apro/gainward_rtx3080_10gb/friss.html,2025-03-27 10:22:12,False
+6965477,"Gainward RTX3080 10Gb, Phoenix",False,160000,2025-03-27 09:38:00,False,https://hardverapro.hu/apro/gainward_rtx3080_10gb/friss.html,2025-03-27 10:22:12,True
 6966035,ASUS RTX 3080 TUF 10GB - dobozával,False,158000,2025-03-27 16:05:00,True,https://hardverapro.hu/apro/asus_3080_tuf_10gb_dobozaval/friss.html,2025-03-27 16:17:07,False
 6966621,ZOTAC RTX 3080 AMP Holo 10GB GDDR6X 320bit,False,139990,2025-03-27 22:56:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo_10gb_gddr6x_320bit_3/friss.html,2025-03-27 22:16:00,True
 6966824,GeForce RTX 3080 EAGLE OC 10G,False,130000,2025-03-28 08:58:00,True,https://hardverapro.hu/apro/geforce_rtx_3080_eagle_oc_10g/friss.html,2025-03-28 08:11:59,True
@@ -401,4 +401,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 6974325,Palit GeForce RTX 3080 Ti GamingPro 12GB GDDR6X eladó akár beszámítással is,True,199990,2025-04-02 12:23:00,False,https://hardverapro.hu/apro/palit_geforce_rtx_3080_ti_gamingpro_12gb_gddr6x_el/friss.html,2025-04-02 11:19:04,False
 6974871,MSI GeForce RTX 3080 10GB GDDR6X Ventus 3X PCIE,False,170000,2025-04-02 18:54:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_10gb_gddr6x_ventus_3x_pcie_3/friss.html,2025-04-02 18:31:07,False
 6975014,Palit GeForce RTX 3080 GamingPro 10GB GDDR6X OC 320Bit RGB LED Videokártya,False,146990,2025-04-02 20:40:00,False,https://hardverapro.hu/apro/palit_geforce_rtx_3080_gamingpro_10gb_gddr6x_oc_32/friss.html,2025-04-02 20:21:16,False
-6975357,"GIGABYTE GeForce RTX 3080 GAMING OC 10GB DDR6X videokártya, 320-bit",False,130000,2025-04-03 09:11:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_gaming_oc_10gb_ddr6x_vid_2/friss.html,2025-04-03 08:11:46,False
+6975357,"GIGABYTE GeForce RTX 3080 GAMING OC 10GB DDR6X videokártya, 320-bit",False,130000,2025-04-03 09:11:00,True,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_gaming_oc_10gb_ddr6x_vid_2/friss.html,2025-04-03 08:11:46,False
+6975558,"Gainward RTX3080 10Gb, Phoenix",False,159999,2025-04-03 11:27:00,False,https://hardverapro.hu/apro/gainward_rtx3080_10gb_phoenix/friss.html,2025-04-03 10:22:08,False
