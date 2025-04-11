@@ -380,7 +380,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6968430,EVGA GeForce RTX 3080 XC3 ULTRA GAMING 10GB GDDR6X,False,150000,2025-03-29 11:32:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_xc3_ultra_gaming_10gb_gddr6x_2/friss.html,2025-03-29 11:17:51,True
 6968636,Eladó Rtx 3080 10gb 2év Alza garival,False,169990,2025-03-29 13:49:00,False,https://hardverapro.hu/apro/elado_rtx_3080_10gb_2ev_alza_garival/friss.html,2025-03-29 13:15:49,True
 6968728,ASUS TUF-RTX3080-10G-GAMING-OC,False,165000,2025-03-29 14:25:00,True,https://hardverapro.hu/apro/asus_tuf-rtx3080-10g-gaming-oc/friss.html,2025-03-29 14:13:17,True
-6968099,Zotac 3080ti trinity oc,True,200000,2025-03-29 07:53:00,True,https://hardverapro.hu/apro/zotac_3080ti_trinity_oc_2/friss.html,2025-03-29 14:13:17,False
+6968099,Zotac 3080ti trinity oc,True,200000,2025-03-29 07:53:00,True,https://hardverapro.hu/apro/zotac_3080ti_trinity_oc_2/friss.html,2025-03-29 14:13:17,True
 6969171,"GIGABYTE RTX 3080 10GB GDDR6X GAMING OC 10G - Gyönyörű, hibátlan állapotban!",False,165000,2025-03-29 18:13:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_10gb_gddr6x_gaming_oc_10g_gyonyo_2/friss.html,2025-03-29 18:28:00,True
 6969586,Inno iChill RTX 3080 10 GB videókártya,False,168000,2025-03-30 00:26:00,False,https://hardverapro.hu/apro/inno_ichill_rtx_3080_10_gb_videokartya/friss.html,2025-03-30 06:21:37,False
 6970259,FE RTX3080Ti,True,190000,2025-03-30 14:42:00,False,https://hardverapro.hu/apro/fe_rtx3080ti/friss.html,2025-03-30 13:16:03,True
@@ -441,3 +441,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 6986250,ÚJ Asus RTX 3080 2 ÉV Gari,False,185000,2025-04-09 23:25:00,False,https://hardverapro.hu/apro/uj_asus_rtx_3080_2_ev_gari/friss.html,2025-04-10 22:17:46,False
 6986324,Eladó Asus TUF RTX 3080 Ti 12GB,True,200000,2025-04-11 05:48:00,False,https://hardverapro.hu/apro/elado_asus_tuf_rtx_3080_ti_12gb_2/friss.html,2025-04-11 06:23:58,False
 6986436,Palit GeForce RTX 3080 GamingPro 10GB,False,140000,2025-04-11 09:11:00,False,https://hardverapro.hu/apro/palit_geforce_rtx_3080_gamingpro_10gb_3/friss.html,2025-04-11 08:11:47,False
+6986580,Inno3d ichill3 RTX 3080,False,140000,2025-04-11 11:06:00,False,https://hardverapro.hu/apro/inno3d_ichill3_rtx_3080/friss.html,2025-04-11 10:22:24,False
