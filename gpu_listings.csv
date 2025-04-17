@@ -447,7 +447,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6987439,Gainward Phoenix 3080Ti (2db.),True,195000,2025-04-11 21:01:00,False,https://hardverapro.hu/apro/gainward_phoenix_3080ti_2db/friss.html,2025-04-11 20:21:36,False
 6987596,Gainward Phoenix RTX3080,False,150000,2025-04-12 00:40:00,False,https://hardverapro.hu/apro/gainward_phoenix_rtx3080_2/friss.html,2025-04-12 06:21:13,False
 6989206,Gigabyte Nvidia RTX 3080 10GB,False,160000,2025-04-13 11:55:00,False,https://hardverapro.hu/apro/gigabyte_nvidia_rtx_3080_10gb/friss.html,2025-04-13 10:21:37,True
-6989287,EVGA RTX 3080 FTW3 ULTRA GAMING eladó.,False,159990,2025-04-13 13:10:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_elado_2/friss.html,2025-04-13 11:17:27,False
+6989287,EVGA RTX 3080 FTW3 ULTRA GAMING eladó.,False,159990,2025-04-13 13:10:00,True,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_elado_2/friss.html,2025-04-13 11:17:27,False
 6989322,EVGA RTX 3080 XC3 Ultra 10GB,False,160000,2025-04-13 13:33:00,False,https://hardverapro.hu/apro/evga_rtx_3080_xc3_ultra_10gb/friss.html,2025-04-13 13:18:02,False
 6989552,Evga Ftw3 ultra Rtx 3080 ti,True,215000,2025-04-13 15:54:00,False,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_ti/friss.html,2025-04-13 14:12:41,False
 6989662,ASUS ROG STRIX RTX3080-12G-GAMING (LHR),False,200000,2025-04-13 17:00:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx3080-12g-gaming_lhr/friss.html,2025-04-13 16:16:49,False
