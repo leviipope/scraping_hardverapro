@@ -40,7 +40,7 @@ jobs:
         run: python script.py
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
-          ENABLE_EMAIL_NOTIFICATIONS: "true"
+          ENABLE_EMAIL_NOTIFICATIONS: "false"
 
       # Step 5: Run the data migration script
       - name: Migrate Data to SQLite
