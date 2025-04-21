@@ -490,4 +490,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 6998907,MSI 3080 SUPRIM X 12GB LHR,False,230000,2025-04-20 21:55:00,False,https://hardverapro.hu/apro/msi_3080_suprim_x_12gb_lhr/friss.html,2025-04-20 20:19:54,False
 6999071,GIGABYTE GeForce 3080 VISION OC 10G,False,154000,2025-04-21 09:00:00,False,https://hardverapro.hu/apro/3080_gigabyte_geforce_rtx_3060_vision_oc_10g/friss.html,2025-04-21 07:09:28,True
 6999371,MSI RTX 3080 VENTUS 3X 10G OC,False,140000,2025-04-21 13:05:00,True,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10g_oc_2/friss.html,2025-04-21 11:18:52,False
-6999547,Palit GamingPRO RTX3080 10GB,False,149000,2025-04-21 15:32:00,True,https://hardverapro.hu/apro/palit_gamingpro_rtx3080_10gb/friss.html,2025-04-21 14:14:04,False
+6999547,Palit GamingPRO RTX3080 10GB,False,149000,2025-04-21 15:32:00,True,https://hardverapro.hu/apro/palit_gamingpro_rtx3080_10gb/friss.html,2025-04-21 14:14:04,True
+6999829,ZOTAC RTX 3080 Ti 12GB GDDR6X GAMING AMP Holo,True,180000,2025-04-21 19:37:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_ti_12gb_gddr6x_gaming_amp_holo/friss.html,2025-04-21 18:30:37,False
