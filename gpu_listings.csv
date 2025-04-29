@@ -514,7 +514,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7006764,"Eladó tökéletes állapotú, halk és hűvös GIGABYTE RTX 3080 10Gb GAMING OC",False,154990,2025-04-26 21:30:00,True,https://hardverapro.hu/apro/elado_tokeletes_allapotu_halk_es_huvos_gigabyte_rt/friss.html,2025-04-26 20:19:37,False
 7007266,ZOTAC GAMING GeForce RTX 3080 Trinity 10GB. Ingyen törékeny posta.,False,134990,2025-04-27 12:04:00,True,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_trinity_10gb_ingyen/friss.html,2025-04-27 10:21:12,False
 7007362,EVGA GeForce RTX 3080 Ti FTW3 ULTRA GAMING + EVGA Hybrid AIO hűtés,True,289990,2025-04-27 12:53:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ti_ftw3_ultra_gaming_evga_hy/friss.html,2025-04-27 11:17:27,False
-7007503,Eladó GIGABYTE RTX 3080 10Gb GAMING OC,False,139000,2025-04-27 14:20:00,False,https://hardverapro.hu/apro/elado_gigabyte_rtx_3080_10gb_gaming_oc/friss.html,2025-04-27 13:16:59,False
+7007503,Eladó GIGABYTE RTX 3080 10Gb GAMING OC,False,139000,2025-04-27 14:20:00,True,https://hardverapro.hu/apro/elado_gigabyte_rtx_3080_10gb_gaming_oc/friss.html,2025-04-27 13:16:59,False
 7007580,Eladó EVGA RTX 3080 XC3 Ultra,False,147000,2025-04-27 15:19:00,False,https://hardverapro.hu/apro/elado_evga_rtx_3080_xc3_ultra_2/friss.html,2025-04-27 14:12:44,False
 7007815,GeForce RTX 3080 VENTUS 3X PLUS 10G OC LHR,False,165000,2025-04-27 18:15:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_ventus_3x_plus_10g_oc_lhr/friss.html,2025-04-27 18:28:29,False
 7008260,MSI Gaming Trio Z 3080,False,152000,2025-04-27 00:06:00,False,https://hardverapro.hu/apro/msi_gaming_trio_z_3080/friss.html,2025-04-27 22:16:03,False
@@ -524,3 +524,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7009436,Eladó Gainward RTX 3080 Phantom+ LHR 10GB,False,165000,2025-04-28 20:30:00,False,https://hardverapro.hu/apro/elado_gainward_rtx_3080_phantom_gs_lhr_10gb/friss.html,2025-04-28 18:32:23,False
 7009792,Garanciácal! ASUS ROG STRIX RTX 3080 GAMING WHITE OC LHR 10GB GDDR6X 320bit,False,179990,2025-04-29 07:30:00,False,https://hardverapro.hu/apro/garanciacal_asus_rog_strix_rtx_3080_gaming_white_o/friss.html,2025-04-29 06:25:19,False
 7010166,Ritkaság eladó Gigabyte RTX 3080 Waterforce Gaming OC,False,139900,2025-04-29 12:59:00,False,https://hardverapro.hu/apro/ritkasag_elado_gigabyte_rtx_3080_waterforce_gaming/friss.html,2025-04-29 11:19:42,False
+7010206,ASUS ROG STRIX RTX 3080 12GB LHR,False,160000,2025-04-29 13:35:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_12gb_lhr/friss.html,2025-04-29 13:26:19,False
