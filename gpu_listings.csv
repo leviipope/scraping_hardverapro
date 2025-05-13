@@ -561,7 +561,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7018778,MSI RTX 3080 Ventus 3X 10 GB LHR,False,150000,2025-05-06 16:59:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10_gb_lhr/friss.html,2025-05-06 16:16:25,False
 7018948,ASUS TUF GeForce RTX 3080 GAMING V2 O10G - 2 év gari,False,175000,2025-05-06 18:52:00,False,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_2_ev_gari/friss.html,2025-05-06 18:32:02,True
 7019128,EVGA 3080 FTW3 ULTRA 10G non-LHR,False,165000,2025-05-06 20:44:00,False,https://hardverapro.hu/apro/evga_3080_ftw3_ultra_10g_non-lhr_2/friss.html,2025-05-06 20:22:37,False
-7020460,MSI RTX 3080 Gaming X Trio 10gb,False,159990,2025-05-07 19:45:00,False,https://hardverapro.hu/apro/msi_rtx_3080_gaming_x_trio_10gb_4/friss.html,2025-05-07 18:31:33,False
+7020460,MSI RTX 3080 Gaming X Trio 10gb,False,159990,2025-05-07 19:45:00,True,https://hardverapro.hu/apro/msi_rtx_3080_gaming_x_trio_10gb_4/friss.html,2025-05-07 18:31:33,False
 7021021,MSI RTX 3080 Ti GAMING X TRIO 12GB GDDR6X 384bit,True,179990,2025-05-08 10:21:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ti_gaming_x_trio_12gb_gddr6x_384bit_3/friss.html,2025-05-08 10:24:26,True
 7021418,ASUS RogStrix White 3080 10GB GDDR6X 320bit - AKCIÓS,False,164990,2025-05-08 15:22:00,False,https://hardverapro.hu/apro/asus_rogstrix_white_3080_10gb_gddr6x_320bit_akcios/friss.html,2025-05-08 13:23:35,False
 7021326,Gigabyte GeForce RTX 3080 Eagle OC,False,140000,2025-05-08 14:18:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_eagle_oc/friss.html,2025-05-08 13:23:35,True
@@ -593,3 +593,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7028681,MSI GeForce RTX 3080 Ti Ventus 3X 12G,True,170000,2025-05-13 19:52:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_ventus_3x_12g_5/friss.html,2025-05-13 18:31:52,False
 7028613,GIGABYTE RTX 3080Ti - Olvasd el,True,165000,2025-05-13 19:06:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080ti_olvasd_el/friss.html,2025-05-13 18:31:52,False
 7028826,ASUS TUF Gaming GeForce RTX 3080 V2 OC 10GB - 2 év Gari!,False,175000,2025-05-13 21:34:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_v2_oc_10gb_2_ev_g/friss.html,2025-05-13 20:23:01,False
+7028941,Evga ftw3 ultra Rtx 3080 Ti,True,195000,2025-05-12 23:40:00,False,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_ti_2/friss.html,2025-05-13 22:17:33,False
