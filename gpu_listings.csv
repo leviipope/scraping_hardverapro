@@ -520,7 +520,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7008260,MSI Gaming Trio Z 3080,False,152000,2025-04-27 00:06:00,True,https://hardverapro.hu/apro/msi_gaming_trio_z_3080/friss.html,2025-04-27 22:16:03,False
 7008324,Rog Strix 3080 10 gb White,False,140000,2025-04-28 06:24:00,False,https://hardverapro.hu/apro/rog_strix_3080_10_gb_white/friss.html,2025-04-28 06:31:25,True
 7008277,Gainward 3080 phantom+ 10GB LHR,False,149000,2025-04-28 00:34:00,False,https://hardverapro.hu/apro/gainward_3080_phantom_10gb_lhr_3/friss.html,2025-04-28 06:31:25,False
-7009041,EVGA RTX 3080 FTW3 ULTRA 3 + GARIII,False,178000,2025-04-28 15:23:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_3_gariii/friss.html,2025-04-28 13:34:00,False
+7009041,EVGA RTX 3080 FTW3 ULTRA 3 + GARIII,False,178000,2025-04-28 15:23:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_3_gariii/friss.html,2025-04-28 13:34:00,True
 7009436,Eladó Gainward RTX 3080 Phantom+ LHR 10GB,False,165000,2025-04-28 20:30:00,False,https://hardverapro.hu/apro/elado_gainward_rtx_3080_phantom_gs_lhr_10gb/friss.html,2025-04-28 18:32:23,False
 7009792,Garanciácal! ASUS ROG STRIX RTX 3080 GAMING WHITE OC LHR 10GB GDDR6X 320bit,False,179990,2025-04-29 07:30:00,False,https://hardverapro.hu/apro/garanciacal_asus_rog_strix_rtx_3080_gaming_white_o/friss.html,2025-04-29 06:25:19,True
 7010166,Ritkaság eladó Gigabyte RTX 3080 Waterforce Gaming OC,False,139900,2025-04-29 12:59:00,True,https://hardverapro.hu/apro/ritkasag_elado_gigabyte_rtx_3080_waterforce_gaming/friss.html,2025-04-29 11:19:42,True
@@ -604,7 +604,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7031568,Asus ROG Strix 3080 videókártya,False,180000,2025-05-14 23:18:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080_videokartya/friss.html,2025-05-15 22:16:52,False
 7031744,"ASUS ROG STRIX RTX 3080 12GB GDDR6X OC Edition LHR - Pormentes, gyönyörű! Posta +1.490 Ft!",False,190000,2025-05-16 08:40:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_12gb_gddr6x_oc_edition_lhr/friss.html,2025-05-16 07:09:17,True
 7031845,"MSI RTX 3080 10GB GDDR6X GAMING X TRIO 10G - Újszerű, halk, pormentes! Posta +1.490 Ft!",False,170000,2025-05-16 09:57:00,False,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_gaming_x_trio_10g_ujszeru/friss.html,2025-05-16 08:12:35,False
-7030134,EVGA XC3 ULTRA RTX 3080 10GB,False,139999,2025-05-16 12:23:00,True,https://hardverapro.hu/apro/evga_xc_3_ultra_rtx_3080_10gb_elado_csere/friss.html,2025-05-16 10:23:46,False
+7030134,EVGA XC3 ULTRA RTX 3080 10GB,False,139999,2025-05-16 12:23:00,True,https://hardverapro.hu/apro/evga_xc_3_ultra_rtx_3080_10gb_elado_csere/friss.html,2025-05-16 10:23:46,True
 7032066,Gainward Phoenix RTX 3080 10GB,False,152000,2025-05-16 12:16:00,True,https://hardverapro.hu/apro/gainward_phoenix_rtx_3080_10gb_6/friss.html,2025-05-16 10:23:46,False
 7032158,Nvidia GeForce RTX 3080 Founders Edition 10GB,False,140000,2025-05-16 13:39:00,True,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb/friss.html,2025-05-16 13:23:27,False
 7031682,EVGA GeForce RTX 3080 XC3 ULTRA 10GB videókártya,False,149000,2025-05-16 07:56:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_xc3_ultra_10gb_videokartya/friss.html,2025-05-16 13:23:27,False
@@ -623,3 +623,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7035698,EVGA GeForce RTX 3080 Ti XC3 ULTRA HYBRID GAMING,True,240000,2025-05-17 22:23:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ti_xc3_ultra_hybrid_gaming/friss.html,2025-05-18 22:16:06,False
 7036388,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING,False,150000,2025-05-19 14:39:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_ncrf/friss.html,2025-05-19 13:25:36,False
 7036320,RTX 3080 FTW3 Ultra,False,160000,2025-05-19 13:55:00,False,https://hardverapro.hu/apro/rtx_3080_ftw3_ultra/friss.html,2025-05-19 13:25:36,False
+7037364,12 GB-os RTX 3080 Ti garanciával,True,159900,2025-05-20 10:11:00,False,https://hardverapro.hu/apro/12_gb-os_rtx_3080_ti_garanciaval/friss.html,2025-05-20 08:13:09,False
