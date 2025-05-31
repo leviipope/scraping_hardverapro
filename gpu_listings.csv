@@ -535,9 +535,9 @@ id,name,ti,price,time,iced,link,date_added,archived
 7012204,EVGA RTX 3080 XC3 10GB videokártya,False,170000,2025-05-01 09:40:00,False,https://hardverapro.hu/apro/evga_rtx_3080_xc3_10gb_videokartya/friss.html,2025-05-01 08:11:44,True
 7012201,EVGA RTX 3080 FTW3 Ultra 10GB videokártya,False,180000,2025-05-01 09:39:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_10gb_videokartya/friss.html,2025-05-01 08:11:44,True
 7012428,Zotac Rtx 3080 Trinity OC 10GB,False,155000,2025-05-01 12:13:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_10gb_5/friss.html,2025-05-01 10:23:40,True
-7012396,NVIDIA Geforce RTX 3080 TI,True,200000,2025-05-01 11:54:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_ti_3/friss.html,2025-05-01 10:23:40,False
+7012396,NVIDIA Geforce RTX 3080 TI,True,200000,2025-05-01 11:54:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_ti_3/friss.html,2025-05-01 10:23:40,True
 7012373,ASUS TUF 3080 10GB,False,180000,2025-05-01 11:36:00,False,https://hardverapro.hu/apro/asus_tuf_3080_10gb_2/friss.html,2025-05-01 10:23:40,True
-7012324,Rog strix 3080,False,135000,2025-05-01 11:03:00,False,https://hardverapro.hu/apro/rog_strix_3080/friss.html,2025-05-01 10:23:40,False
+7012324,Rog strix 3080,False,135000,2025-05-01 11:03:00,False,https://hardverapro.hu/apro/rog_strix_3080/friss.html,2025-05-01 10:23:40,True
 7012323,MSI Suprim RTX 3080 10GB,False,150000,2025-05-01 11:00:00,True,https://hardverapro.hu/apro/msi_suprim_rtx_3080_10gb_2/friss.html,2025-05-01 10:23:40,True
 7012684,NVIDIA GeForce RTX 3080 Founders Edition,False,180000,2025-05-01 15:01:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_bimr/friss.html,2025-05-01 13:20:21,False
 7012776,Manli GeForce RTX 3080 10GB LHR / BESZÁMÍTÁS,False,135000,2025-05-01 16:17:00,False,https://hardverapro.hu/apro/manli_geforce_rtx_3080_10gb_lhr_beszamitas/friss.html,2025-05-01 16:17:23,False
@@ -678,3 +678,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7043597,EVGA XC3 RTX 3080 Ti 12GB,True,185000,2025-05-29 00:00:00,False,https://hardverapro.hu/apro/asus_dual_rtx_2080_ti_22gb/friss.html,2025-05-30 22:17:12,False
 7051484,Gigabyte RTX 3080 OC Rgb,False,139990,2025-05-31 08:39:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_oc_rgb/friss.html,2025-05-31 07:07:59,False
 7051480,Gigabyte Geforce Nvidia RTX 3080 Eagle,False,139890,2025-05-31 08:36:00,False,https://hardverapro.hu/apro/gigabyte_geforce_nvidia_rtx_3080_eagle/friss.html,2025-05-31 07:07:59,False
+7051628,EVGA FTW RTX 3080Ti 12gb,True,190000,2025-05-31 10:48:00,False,https://hardverapro.hu/apro/evga_ftw_rtx_3080ti_12gb/friss.html,2025-05-31 10:21:36,False
