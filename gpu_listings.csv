@@ -588,7 +588,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7026114,Gainward GeForce RTX 3080 Phoenix GS 10GB GDDR6X eladó akár beszámítással is,False,139990,2025-05-10 22:54:00,False,https://hardverapro.hu/apro/gainward_geforce_rtx_3080_phoenix_gs_10gb_gddr6x_e/friss.html,2025-05-11 22:16:05,True
 7026576,HP RTX 3080 10 GB GDDR6X 320 bit,False,135000,2025-05-12 12:17:00,False,https://hardverapro.hu/apro/hp_rtx_3080_10_gb_gddr6x_320_bit_2/friss.html,2025-05-12 10:25:06,True
 7026570,MSI RTX 3080 10GB GDDR6X GAMING Z TRIO 10G LHR - Karcmentes állapotban! INGYEN POSTA MÁSNAPRA!!!,False,175000,2025-05-12 12:14:00,False,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_gaming_z_trio_10g_lhr_kar/friss.html,2025-05-12 10:25:06,True
-7026716,Zotac Rtx 3080,False,150000,2025-05-12 13:49:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_3/friss.html,2025-05-12 13:25:10,False
+7026716,Zotac Rtx 3080,False,150000,2025-05-12 13:49:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_3/friss.html,2025-05-12 13:25:10,True
 7026975,RTX 3080 Gainward Phoenix,False,135000,2025-05-12 16:37:00,True,https://hardverapro.hu/apro/rtx_3080_gainward_phoenix_2/friss.html,2025-05-12 16:18:04,True
 7028681,MSI GeForce RTX 3080 Ti Ventus 3X 12G,True,170000,2025-05-13 19:52:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_ventus_3x_12g_5/friss.html,2025-05-13 18:31:52,True
 7028613,GIGABYTE RTX 3080Ti - Olvasd el,True,165000,2025-05-13 19:06:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080ti_olvasd_el/friss.html,2025-05-13 18:31:52,True
@@ -716,3 +716,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7064434,ASUS TUF Gaming GeForce RTX 3080 Ti 12 GB,True,189990,2025-06-10 21:49:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_ti_12_gb_4/friss.html,2025-06-10 20:23:29,False
 7064632,Gigabyte RTX 3080 10Gb,False,135000,2025-06-11 07:53:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_10gb_3/friss.html,2025-06-11 06:26:11,False
 7064888,MSI RTX 3080 10GB GDDR6X GAMING Z TRIO 10G LHR - Pénzvisszafizetési garancia! UTÁNVÉT OK!,False,174990,2025-06-11 11:14:00,False,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_gaming_z_trio_10g_lhr_pos/friss.html,2025-06-11 10:24:40,False
+7065185,Gigabyte Vision 3080,False,139999,2025-06-11 14:51:00,False,https://hardverapro.hu/apro/gigabyte_vision_3080/friss.html,2025-06-11 13:26:44,False
