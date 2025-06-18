@@ -264,7 +264,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6934473,EVGA Geforce RTX 3080 FTW3 ultra 10 GB,False,165000,2025-03-05 21:57:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_10_gb_2/friss.html,2025-03-05 22:15:55,True
 6934534,"ZOTAC GAMING GeForce RTX 3080 Trinity, 10GB, 3hónap gar, áfás számla",False,169900,2025-03-06 00:02:00,True,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_trinity_10gb_3honap_2/friss.html,2025-03-06 06:22:55,True
 6935135,Aorus rtx 3080 master 10gb,False,160000,2025-03-06 13:32:00,True,https://hardverapro.hu/apro/aorus_rtx_3080_master_10gb/friss.html,2025-03-06 13:18:28,True
-6935197,GIGABYTE RTX 3080 GAMING OC 10GB Garanciával!,False,178500,Előresorolva,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_oc_10gb_garanciaval/friss.html,2025-03-06 18:29:36,True
+6935197,GIGABYTE RTX 3080 GAMING OC 10GB Garanciával!,False,178500,Előresorolva,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_oc_10gb_garanciaval/friss.html,2025-03-06 18:29:36,False
 6935203,ZOTAC RTX 3080 AMP Holo 10GB Garanciával!,False,178500,Előresorolva,True,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo_10gb_garanciaval/friss.html,2025-03-06 18:29:36,True
 6935520,Asus TUF Gaming RTX 3080 10GB OC Edition NonLHR,False,175000,2025-03-06 18:00:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_10gb_oc_edition_nonlhr/friss.html,2025-03-06 18:29:36,True
 6935459,Zotac RTX 3080 Trinity OC 10gb LHR,False,150000,2025-03-06 17:21:00,True,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_10gb_lhr/friss.html,2025-03-06 18:29:36,True
@@ -661,7 +661,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7047171,PATIKA ASUS TUF RTX 3080 10GB OC,False,150000,2025-05-27 17:47:00,False,https://hardverapro.hu/apro/patika_asus_tuf_rtx_3080_10gb_oc/friss.html,2025-05-27 16:17:51,False
 7047093,RTX 3080 ASUS TUF GAMING OC 10Gb,False,148000,2025-05-27 17:10:00,False,https://hardverapro.hu/apro/rtx_3080_asus_tuf_gaming_10gb/friss.html,2025-05-27 16:17:51,False
 7047573,Eladó Aorus Geforce RTX 3080 Master 10Gb,False,150000,2025-05-27 21:47:00,False,https://hardverapro.hu/apro/elado_aorus_geforce_rtx_3080_master_10gb/friss.html,2025-05-27 20:22:43,False
-7047564,Nvidia RTX 3080TI Founder Edition,True,159999,2025-05-27 21:44:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080ti_founder_edition/friss.html,2025-05-27 20:22:43,False
+7047564,Nvidia RTX 3080TI Founder Edition,True,159999,2025-05-27 21:44:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080ti_founder_edition/friss.html,2025-05-27 20:22:43,True
 7047793,TOP! - MSI RTX 3080 10GB GDDR6X GAMING X TRIO 10G - Posta +1.490 Ft másnapra! UTÁNVÉT OK!,False,169990,2025-05-28 08:30:00,False,https://hardverapro.hu/apro/top_msi_rtx_3080_10gb_gddr6x_gaming_x_trio_10g_pos/friss.html,2025-05-28 07:09:17,True
 7048293,ASUS TUF GeForce RTX 3080 GAMING V2 O10G bontatlan dobozos új,False,176990,2025-05-28 15:03:00,False,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_bontatlan_4/friss.html,2025-05-28 13:25:58,True
 7048432,MSI GeForce RTX 3080,False,140000,2025-05-28 16:49:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_2/friss.html,2025-05-28 16:16:16,True
@@ -750,3 +750,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7073288,Zotac RTX 3080 TI Trinity OC,True,175000,2025-06-17 20:10:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_ti_trinity_oc_5/friss.html,2025-06-17 18:34:09,False
 7073274,KFA2 3080 SG és Manli 1080ti (Arctic Xtreme III-mal) eladó,False,118000,2025-06-17 20:00:00,False,https://hardverapro.hu/apro/kfa2_3080_sg_es_manli_1080ti_arctic_xtreme_iii-mal/friss.html,2025-06-17 18:34:09,False
 7074149,MSI RTX 3080 VENTUS 3X OC 10GB GDDR6X 320bit,False,144990,2025-06-18 14:40:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_oc_10gb_gddr6x_320bit_2/friss.html,2025-06-18 13:26:58,False
+7074266,Nvidia RTX 3080 TI Founder Edition,True,169999,2025-06-18 16:05:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080_ti_founder_edition/friss.html,2025-06-18 14:15:55,False
