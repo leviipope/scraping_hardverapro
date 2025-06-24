@@ -735,7 +735,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7068388,EVGA RTX 3080 XC3 BLACK 10GB GDDR6X 320bit,False,139990,2025-06-12 22:42:00,False,https://hardverapro.hu/apro/evga_rtx_3080_xc3_black_10gb_gddr6x_320bit_2/friss.html,2025-06-13 22:17:23,False
 7068493,KFA 2 (Galax) 3080 10GB,False,130000,2025-06-14 07:45:00,True,https://hardverapro.hu/apro/kfa_2_galax_3080_10gb/friss.html,2025-06-14 06:23:25,False
 7068963,MSI RTX 3080 SUPRIM X 10G Eladó Posta az árban,False,150000,2025-06-14 14:19:00,True,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_10g_elado_posta_az_arban/friss.html,2025-06-14 13:19:42,True
-7070155,GAINWARD RTX 3080 10GB GDDR6X Phoenix - Pénzvisszafizetési garancia! UTÁNVÉT OK!,False,159990,2025-06-15 14:02:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_10gb_gddr6x_phoenix_penzvisszafi_2/friss.html,2025-06-15 13:20:03,False
+7070155,GAINWARD RTX 3080 10GB GDDR6X Phoenix - Pénzvisszafizetési garancia! UTÁNVÉT OK!,False,159990,2025-06-15 14:02:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_10gb_gddr6x_phoenix_penzvisszafi_2/friss.html,2025-06-15 13:20:03,True
 7070287,NVIDIA ASUS TUF RTX3080 10GB OC GDDR6 320BIT,False,159990,2025-06-15 15:59:00,False,https://hardverapro.hu/apro/nvidia_asus_tuf_rtx3080_10gb_oc_gddr6_320bit/friss.html,2025-06-15 14:13:22,False
 7070912,msi 3080 suprime x 12gb,False,140000,2025-06-16 06:49:00,True,https://hardverapro.hu/apro/msi_3080_suprime_x_12gb/friss.html,2025-06-16 06:28:08,True
 7071397,GIGABYTE GeForce RTX 3080 GAMING OC 10GB GDDR6X 320 bit,False,139990,2025-06-16 13:11:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_gaming_oc_10gb_gddr6x_32_2/friss.html,2025-06-16 11:21:17,False
@@ -749,7 +749,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7073003,Asus TUF 3080 (Szinte új - 2 év Alza garancia),False,175000,2025-06-17 16:39:00,False,https://hardverapro.hu/apro/asus_tuf_3080_szinte_uj_2_ev_alza_garancia/friss.html,2025-06-17 16:18:31,True
 7073288,Zotac RTX 3080 TI Trinity OC,True,175000,2025-06-17 20:10:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_ti_trinity_oc_5/friss.html,2025-06-17 18:34:09,False
 7073274,KFA2 3080 SG és Manli 1080ti (Arctic Xtreme III-mal) eladó,False,118000,2025-06-17 20:00:00,False,https://hardverapro.hu/apro/kfa2_3080_sg_es_manli_1080ti_arctic_xtreme_iii-mal/friss.html,2025-06-17 18:34:09,False
-7074149,MSI RTX 3080 VENTUS 3X OC 10GB GDDR6X 320bit,False,144990,2025-06-18 14:40:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_oc_10gb_gddr6x_320bit_2/friss.html,2025-06-18 13:26:58,False
+7074149,MSI RTX 3080 VENTUS 3X OC 10GB GDDR6X 320bit,False,144990,2025-06-18 14:40:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_oc_10gb_gddr6x_320bit_2/friss.html,2025-06-18 13:26:58,True
 7074266,Nvidia RTX 3080 TI Founder Edition,True,169999,2025-06-18 16:05:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080_ti_founder_edition/friss.html,2025-06-18 14:15:55,False
 7074545,ASUS TUF GeForce RTX 3080 GAMING V2 O10G OC Garancia,False,169999,2025-06-18 19:33:00,False,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_oc_garanc_2/friss.html,2025-06-18 18:33:52,False
 7074872,ASUS TUF GeForce RTX 3080 GAMING V2 O10G!! GARANCIA!! 2027.04.01,False,159500,2025-06-19 08:42:00,False,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_garancia/friss.html,2025-06-19 07:09:37,False
@@ -775,3 +775,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7081230,ASUS TUF RTX 3080 O10G V2 GAMING Garanciás 2026.01.13-ig,False,160000,2025-06-24 11:34:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_o10g_v2_gaming_garancias_2026_01/friss.html,2025-06-24 10:25:20,False
 7081501,GeForce RTX 3080 Ti GAMING X TRIO 12G,True,175000,2025-06-24 14:41:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_ti_gaming_x_trio_12g_2/friss.html,2025-06-24 13:27:34,False
 7081787,Eladó EVGA 3080 FTW3 ULTRA.,False,135000,2025-06-24 18:41:00,False,https://hardverapro.hu/apro/elado_evga_3080_ftw3_ultra/friss.html,2025-06-24 18:33:58,False
+7082018,GAINWARD RTX 3080 10GB GDDR6X Phoenix - Pénzvisszafizetési garancia! UTÁNVÉT OK!,False,159990,2025-06-24 21:48:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_10gb_gddr6x_phoenix_penzvisszafi_3/friss.html,2025-06-24 20:24:01,False
