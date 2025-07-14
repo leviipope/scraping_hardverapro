@@ -733,7 +733,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7068394,MSI 3080 Gaming X,False,150000,2025-06-12 22:48:00,True,https://hardverapro.hu/apro/msi_3080_gaming_x/friss.html,2025-06-13 22:17:23,True
 7068389,ZOTAC RTX 3080 AMP Holo 10GB GDDR6X 320bit,False,139990,2025-06-12 22:43:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo_10gb_gddr6x_320bit_6/friss.html,2025-06-13 22:17:23,True
 7068388,EVGA RTX 3080 XC3 BLACK 10GB GDDR6X 320bit,False,139990,2025-06-12 22:42:00,True,https://hardverapro.hu/apro/evga_rtx_3080_xc3_black_10gb_gddr6x_320bit_2/friss.html,2025-06-13 22:17:23,True
-7068493,KFA 2 (Galax) 3080 10GB,False,130000,2025-06-14 07:45:00,True,https://hardverapro.hu/apro/kfa_2_galax_3080_10gb/friss.html,2025-06-14 06:23:25,False
+7068493,KFA 2 (Galax) 3080 10GB,False,130000,2025-06-14 07:45:00,True,https://hardverapro.hu/apro/kfa_2_galax_3080_10gb/friss.html,2025-06-14 06:23:25,True
 7068963,MSI RTX 3080 SUPRIM X 10G Eladó Posta az árban,False,150000,2025-06-14 14:19:00,True,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_10g_elado_posta_az_arban/friss.html,2025-06-14 13:19:42,True
 7070155,GAINWARD RTX 3080 10GB GDDR6X Phoenix - Pénzvisszafizetési garancia! UTÁNVÉT OK!,False,159990,2025-06-15 14:02:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_10gb_gddr6x_phoenix_penzvisszafi_2/friss.html,2025-06-15 13:20:03,True
 7070287,NVIDIA ASUS TUF RTX3080 10GB OC GDDR6 320BIT,False,159990,2025-06-15 15:59:00,False,https://hardverapro.hu/apro/nvidia_asus_tuf_rtx3080_10gb_oc_gddr6_320bit/friss.html,2025-06-15 14:13:22,True
@@ -834,3 +834,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7103085,ASUS TUF Gaming GeForce RTX 3080 V2 OC Edition 10GB / Garancia + Számla /,False,139990,2025-07-13 12:21:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_v2_oc_edition_10g_4/friss.html,2025-07-13 10:24:48,False
 7103080,EVGA FTW3 ULTRA RTX 3080 8Gb GDDR6X,False,120000,2025-07-13 12:18:00,False,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_8gb_gddr6x/friss.html,2025-07-13 10:24:48,True
 7103477,Eladó Zotac RTX 3080 10GB.,False,147000,2025-07-13 17:09:00,False,https://hardverapro.hu/apro/elado_zotac_rtx_3080_10gb_2/friss.html,2025-07-13 16:16:21,False
+7103934,ZOTAC GAMING RTX 3080 AMP Holo 10G videokártya garanciával,False,142000,2025-07-14 01:51:00,False,https://hardverapro.hu/apro/zotac_gaming_rtx_3080_amp_holo_10g_videokartya_gar/friss.html,2025-07-14 06:29:38,False
