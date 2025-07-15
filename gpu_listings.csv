@@ -786,7 +786,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7082900,MSI RTX 3080 10GB TÖBB DARAB!,False,150000,2025-06-25 17:16:00,False,https://hardverapro.hu/apro/msi_rtx_3080_10gb_tobb_darab/friss.html,2025-06-25 16:18:39,True
 7082993,ROG STRIX RTX3080-10G LHR,False,160000,2025-06-25 18:29:00,True,https://hardverapro.hu/apro/rog_strix_rtx3080-10g_lhr/friss.html,2025-06-25 18:34:39,False
 7082984,Nvidia GeForce RTX 3080 Founders Edition 10GB GDDR6X 320 bit,False,134990,2025-06-25 18:24:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_8/friss.html,2025-06-25 18:34:39,True
-7084784,PNY GeForce RTX 3080 10GB XLR8,False,133000,2025-06-27 11:38:00,True,https://hardverapro.hu/apro/pny_geforce_rtx_3080_10gb_xlr8/friss.html,2025-06-27 10:24:45,False
+7084784,PNY GeForce RTX 3080 10GB XLR8,False,133000,2025-06-27 11:38:00,True,https://hardverapro.hu/apro/pny_geforce_rtx_3080_10gb_xlr8/friss.html,2025-06-27 10:24:45,True
 7084719,Zotac RTX 3080 AMP HOLO 10GB,False,135000,2025-06-27 10:56:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo_10gb_2/friss.html,2025-06-27 10:24:45,True
 7084715,GeForce RTX 3080 EAGLE OC 10G,False,135000,2025-06-27 10:49:00,True,https://hardverapro.hu/apro/geforce_rtx_3080_eagle_oc_10g_2/friss.html,2025-06-27 10:24:45,True
 7085290,MSI RTX 3080 GAMING Z TRIO 10G // Posta az árban //,False,130000,2025-06-27 18:12:00,True,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_trio_10g_posta_az_arban/friss.html,2025-06-27 16:17:58,False
@@ -836,3 +836,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 7103477,Eladó Zotac RTX 3080 10GB.,False,147000,2025-07-13 17:09:00,False,https://hardverapro.hu/apro/elado_zotac_rtx_3080_10gb_2/friss.html,2025-07-13 16:16:21,False
 7103934,ZOTAC GAMING RTX 3080 AMP Holo 10G videokártya garanciával,False,142000,2025-07-14 01:51:00,False,https://hardverapro.hu/apro/zotac_gaming_rtx_3080_amp_holo_10g_videokartya_gar/friss.html,2025-07-14 06:29:38,False
 7104070,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING,False,150000,2025-07-14 09:25:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_vbim/friss.html,2025-07-14 08:14:33,False
+7105623,NVIDIA PALIT GAMINGPRO RTX 3080TI 12GB OC GDDR6X 384BIT,True,169990,2025-07-15 12:24:00,False,https://hardverapro.hu/apro/nvidia_palit_gamingpro_rtx_3080ti_12gb_oc_gddr6x_3/friss.html,2025-07-15 10:25:58,False
+7105523,inno3D iChill RTX 3080 X4,False,115000,2025-07-15 11:02:00,False,https://hardverapro.hu/apro/inno3d_ichill_rtx_3070_x4_2/friss.html,2025-07-15 10:25:58,False
