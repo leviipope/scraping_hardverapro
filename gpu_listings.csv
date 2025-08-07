@@ -433,7 +433,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 6983493,Eladó Asus TUF RTX 3080 10GB videokártya,False,150000,2025-04-08 21:33:00,True,https://hardverapro.hu/apro/elado_asus_tuf_rtx_3080_10gb_videokartya/friss.html,2025-04-08 20:21:44,True
 6983613,Palit RTX 3080 GamingPro 10GB GDDR6X,False,145000,2025-04-09 01:11:00,False,https://hardverapro.hu/apro/palit_rtx_3080_gamingpro_10gb_gddr6x/friss.html,2025-04-09 06:24:37,True
 6983777,ZOTAC GAMING GeForce RTX 3080 Ti Trinity OC 12GB,True,189900,2025-04-09 09:05:00,True,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_ti_trinity_oc_12gb/friss.html,2025-04-09 07:08:56,True
-6984007,ASUS TUF RTX 3080 10G Gaming,False,165000,2025-04-09 11:50:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10g_gaming/friss.html,2025-04-09 10:25:20,True
+6984007,ASUS TUF RTX 3080 10G Gaming,False,165000,2025-04-09 11:50:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10g_gaming/friss.html,2025-04-09 10:25:20,False
 6984234,ASUS TUF GeForce RTX 3080 GAMING V2 O10G - 23 hó gari,False,179990,2025-04-09 14:35:00,True,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_23_ho_gar/friss.html,2025-04-09 13:21:56,True
 6984461,Zotac Geforce RTX 3080 AMP HOLO 10GB (Beszámítás OK),False,155000,2025-04-09 17:16:00,True,https://hardverapro.hu/apro/zotac_geforce_rtx_3080_amp_holo_10gb_beszamitas_ok/friss.html,2025-04-09 16:17:40,True
 6985421,"Gainward RTX3080 10Gb, Phoenix",False,154999,2025-04-10 12:55:00,True,https://hardverapro.hu/apro/gainward_rtx3080_10gb_phoenix_2/friss.html,2025-04-10 11:19:11,True
@@ -934,3 +934,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7137218,ASUS TUF GeForce RTX 3080 GAMING V2 O10G OC garis,False,170000,2025-08-07 15:40:00,False,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_oc_garis/friss.html,2025-08-07 14:20:42,False
 7137391,Aorus RTX 3080 Xtreme Waterforce 10 GB,False,200000,2025-08-07 17:36:00,False,https://hardverapro.hu/apro/aorus_rtx_3080_xtreme_waterforce_10_gb/friss.html,2025-08-07 16:20:26,False
 7137361,GeForce RTX 3080 VISION OC 10G,False,150000,2025-08-07 17:13:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_vision_oc_10g_2/friss.html,2025-08-07 16:20:26,False
+7137563,Zotac Trinity RTX 3080 10gb OC,False,150000,2025-08-07 19:31:00,False,https://hardverapro.hu/apro/zotac_trinity_rtx_3080_10gb_oc/friss.html,2025-08-07 18:39:13,False
