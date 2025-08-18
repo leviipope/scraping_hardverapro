@@ -67,7 +67,14 @@ for result in search_result:
 
     str_price = result.find("span", class_="text-nowrap").string
 
-    if str_price == "Ingyenes" or "csere" in name_l or "3080" not in name or "3070" in name or "mobile" in name_l or "hibás" in name_l or "keresek" in name_l:
+    if (str_price == "Ingyenes" or 
+            str_price == "Csere" or
+            "csere" in name_l or 
+            "3080" not in name or 
+            "3070" in name or 
+            "mobile" in name_l or 
+            "hibás" in name_l or 
+            "keresek" in name_l):
         continue
 
     price = int(str_price.replace(" ", "").replace("Ft", ""))
