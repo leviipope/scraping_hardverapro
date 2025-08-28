@@ -988,7 +988,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7157579,ASUS TUF Gaming GeForce RTX 3080 10GB Videokártya,False,160000,2025-08-24 18:23:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_10gb_videokartya_2/friss.html,2025-08-24 18:30:52,False
 7157917,Msi suprimeX rtx 3080,False,150000,2025-08-23 23:30:00,False,https://hardverapro.hu/apro/msi_suprimex_rtx_3080/friss.html,2025-08-24 22:16:29,False
 7158598,NVIDIA RTX 3080 Founders Edition,False,142000,2025-08-25 15:37:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080_founders_edition_9/friss.html,2025-08-25 14:16:11,False
-7158702,Gigabyte AORUS MASTER RTX 3080 10GB GDDR6X Videokártya! BeszámítOK,False,160000,2025-08-25 16:44:00,False,https://hardverapro.hu/apro/gigabyte_aorus_master_rtx_3080_10gb_gddr6x_videoka/friss.html,2025-08-25 16:17:39,False
+7158702,Gigabyte AORUS MASTER RTX 3080 10GB GDDR6X Videokártya! BeszámítOK,False,160000,2025-08-25 16:44:00,True,https://hardverapro.hu/apro/gigabyte_aorus_master_rtx_3080_10gb_gddr6x_videoka/friss.html,2025-08-25 16:17:39,False
 7158902,EVGA 3080 XC3 ULTRA,False,140000,2025-08-25 19:00:00,False,https://hardverapro.hu/apro/evga_3080_xc3_ultra_6/friss.html,2025-08-25 18:34:05,False
 7159156,HP NVIDIA GeForce RTX 3080 10GB GDDR6X,False,120000,2025-08-25 22:01:00,False,https://hardverapro.hu/apro/hp_nvidia_geforce_rtx_3080_10gb_gddr6x_2/friss.html,2025-08-25 20:22:17,False
 7159259,RTX 3080 Eagle 10GB videókártya,False,110000,2025-08-26 07:17:00,True,https://hardverapro.hu/apro/rtx_3080_eagle_10gb_videokartya/friss.html,2025-08-26 06:27:08,True
@@ -1005,3 +1005,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7162108,"Gigabyte Vision RTX 3080 Ti 12GB FEHÉR, WHITE",True,170000,2025-08-28 12:49:00,False,https://hardverapro.hu/apro/gigabyte_vision_rtx_3080_ti_12gb_feher_white/friss.html,2025-08-28 11:19:03,False
 7162309,Lenovo RTX 3080 OEM 10GB Garanciával!,False,145500,Előresorolva,False,https://hardverapro.hu/apro/lenovo_rtx_3080_oem_10gb_garanciaval/friss.html,2025-08-28 13:22:04,False
 7162364,Palit Gamerock RTX 3080,False,148000,2025-08-28 15:58:00,False,https://hardverapro.hu/apro/palit_gamerock_rtx_3080_2/friss.html,2025-08-28 14:15:21,False
+7162430,GeForce RTX 3080 EAGLE OC 10G,False,130000,2025-08-28 16:51:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_eagle_oc_10g_2/friss.html,2025-08-28 16:17:44,False
