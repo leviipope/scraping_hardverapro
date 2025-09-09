@@ -997,7 +997,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7160468,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING 10GB GDDR6X - Garancia,False,139990,2025-08-26 00:15:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_10gb_gddr6_j400/friss.html,2025-08-26 22:16:32,True
 7160460,Gainward GeForce Phoenix RTX 3080 Ti 12GB GDDR6X 384bit - Garancia,True,169990,2025-08-25 23:56:00,False,https://hardverapro.hu/apro/gainward_geforce_phoenix_rtx_3070_ti_8gb_gddr6x_25_6/friss.html,2025-08-26 22:16:32,True
 7160447,RTX 3080 -at vennék,False,100000,2025-08-25 23:27:00,True,https://hardverapro.hu/apro/rtx_3080_at_vennek/friss.html,2025-08-26 22:16:32,True
-7160469,ASUS TUF RTX 3080ti 12GB OC,True,179999,2025-08-27 00:18:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080ti_12gb_oc/friss.html,2025-08-27 06:25:00,False
+7160469,ASUS TUF RTX 3080ti 12GB OC,True,179999,2025-08-27 00:18:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080ti_12gb_oc/friss.html,2025-08-27 06:25:00,True
 7160671,EVGA RTX 3080 XC3 - 10GB,False,130000,2025-08-27 09:45:00,True,https://hardverapro.hu/apro/evga_rtx_3080_xc3_10gb/friss.html,2025-08-27 08:11:44,True
 7161284,MSI RTX 3080 10GB GDDR6X GAMING X TRIO 10G,False,160000,2025-08-27 18:37:00,False,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_gaming_x_trio_10g/friss.html,2025-08-27 18:31:20,False
 7161541,GIGABYTE GeForce GAMING RTX 3080 Ti OC 12GB GDDR6X 384bit,True,165000,2025-08-27 22:19:00,True,https://hardverapro.hu/apro/gigabyte_geforce_gaming_rtx_3080_ti_oc_12gb_gddr6x_3/friss.html,2025-08-27 20:21:57,True
@@ -1057,3 +1057,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7177173,Inno3D RTX 3080,False,130000,2025-09-06 23:50:00,False,https://hardverapro.hu/apro/inno3d_rtx_3080/friss.html,2025-09-07 22:15:11,False
 7177599,ASUS TUF RTX 3080 10Gb OC BOX // Költségmentes állapotban // MPL házhoz az árban!,False,139990,2025-09-08 11:50:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_oc_box_koltsegmentes_allapo/friss.html,2025-09-08 10:23:57,False
 7178038,RTX 3080 TUF,False,149999,2025-09-08 16:06:00,False,https://hardverapro.hu/apro/rtx_3080_tuf/friss.html,2025-09-08 14:16:15,False
+7178870,AORUS GeForce RTX 3080 XTREME WATERFORCE WB 10G,False,145000,2025-09-09 10:38:00,False,https://hardverapro.hu/apro/aorus_geforce_rtx_3080_xtreme_waterforce_wb_10g_2/friss.html,2025-09-09 10:22:53,False
