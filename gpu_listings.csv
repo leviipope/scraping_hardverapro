@@ -1043,7 +1043,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7171481,NVIDIA GeForce RTX 3080 Founders Edition,False,160000,2025-09-03 16:06:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_trnt/friss.html,2025-09-03 14:15:04,False
 7172517,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING,False,150000,2025-09-04 13:26:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_ohre/friss.html,2025-09-04 13:19:21,False
 7173769,EVGA Geforce RTX 3080 FTW3 Ultra - 10Gb,False,139999,2025-09-05 11:53:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_10gb_3/friss.html,2025-09-05 10:22:19,False
-7173832,Gigabyte RTX 3080 Ti Gaming OC 12GB,True,200000,2025-09-05 12:33:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_ti_gaming_oc_12gb/friss.html,2025-09-05 11:18:45,False
+7173832,Gigabyte RTX 3080 Ti Gaming OC 12GB,True,200000,2025-09-05 12:33:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_ti_gaming_oc_12gb/friss.html,2025-09-05 11:18:45,True
 7173915,MSI RTX3080 Gaming X Trio 10Gb,False,139000,2025-09-05 13:24:00,True,https://hardverapro.hu/apro/msi_rtx3080_gaming_x_trio_10gb/friss.html,2025-09-05 13:19:23,True
 7174254,Aorus RTX 3080 Xtreme Waterforce 10 GB LHR,False,160000,2025-09-05 18:12:00,False,https://hardverapro.hu/apro/aorus_rtx_3080_xtreme_waterforce_10_gb_lhr/friss.html,2025-09-05 16:16:31,False
 7174725,RTX 3080 Ti Zotac Amp Holo 12 GB,True,170000,2025-09-06 09:31:00,False,https://hardverapro.hu/apro/rtx_3080_ti_zotac_amp_holo_12_gb/friss.html,2025-09-06 08:09:24,True
@@ -1063,3 +1063,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7179300,NVIDIA HP OMEN RTX 3080 10GB GDDR6X 320BIT,False,124990,2025-09-09 16:16:00,False,https://hardverapro.hu/apro/nvidia_hp_omen_rtx_3080_10gb_gddr6x_320bit/friss.html,2025-09-09 16:17:28,False
 7179870,Eladó HP NVIDIA GeForce RTX 3080 Ti 12 GB GDDR6X OEM!,True,155000,2025-09-10 07:28:00,True,https://hardverapro.hu/apro/elado_hp_nvidia_geforce_rtx_3080_ti_12_gb_gddr6x_o_2/friss.html,2025-09-10 06:25:07,False
 7180431,GIGABYTE GeForce AORUS MASTER RTX 3080 10GB,False,139000,2025-09-10 13:36:00,True,https://hardverapro.hu/apro/gigabyte_geforce_aorus_master_rtx_3080_10gb/friss.html,2025-09-10 13:19:26,False
+7181229,ZOTAC GAMING GeForce RTX 3080 Ti Trinity OC 12GB,True,169999,2025-09-11 02:20:00,False,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_ti_trinity_oc_12gb_2/friss.html,2025-09-11 06:25:31,False
