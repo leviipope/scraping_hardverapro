@@ -1123,4 +1123,6 @@ id,name,ti,price,time,iced,link,date_added,archived
 7196991,Palit Gamerock RTX 3080 Ti,True,160000,2025-09-23 02:03:00,False,https://hardverapro.hu/apro/palit_gamerock_3080_ti/friss.html,2025-09-23 06:26:00,False
 7197705,RTX3080 ASUS TUF,False,135000,2025-09-23 15:45:00,False,https://hardverapro.hu/apro/rtx3080_asus_tuf/friss.html,2025-09-23 14:15:21,False
 7198037,ZOTAC GeForce RTX 3080 Trinity OC 10GB GDDR6X eladó akár beszámítással is,False,124990,2025-09-23 19:39:00,False,https://hardverapro.hu/apro/zotac_geforce_rtx_3080_trinity_oc_10gb_gddr6x_elad/friss.html,2025-09-23 18:33:09,False
-7198429,"Eladó tökéletes, csavarmatricás MSI RTX 3080 SUPRIM X 10G, 3hó gari !videó tesztek! beszámítOK",False,147900,2025-09-24 07:52:00,False,https://hardverapro.hu/apro/elado_tokeletes_csavarmatricas_msi_rtx_3080_suprim/friss.html,2025-09-24 06:25:29,False
+7198429,"Eladó tökéletes, csavarmatricás MSI RTX 3080 SUPRIM X 10G, 3hó gari !videó tesztek! beszámítOK",False,147900,2025-09-24 07:52:00,True,https://hardverapro.hu/apro/elado_tokeletes_csavarmatricas_msi_rtx_3080_suprim/friss.html,2025-09-24 06:25:29,False
+7198985,Gigabyte Geforce RTX 3080 Vision OC 10Gb,False,120000,2025-09-24 14:46:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_vision_oc_10gb_2/friss.html,2025-09-24 13:21:20,False
+7198973,"MSI 3080 Gaming X Trio , 10gb , 320 bit.",False,120000,2025-09-24 14:33:00,False,https://hardverapro.hu/apro/msi_3080_gaming_x_trio_10gb_320_bit/friss.html,2025-09-24 13:21:20,False
