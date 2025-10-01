@@ -1161,3 +1161,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 7208861,ASUS RTX 3080 TUF 10GB,False,140000,2025-10-01 17:36:00,False,https://hardverapro.hu/apro/asus_rtx_3080_tuf_10gb/friss.html,2025-10-01 16:17:11,False
 7209076,PNY XLR8 RTX 3080 10GB,False,130000,2025-10-01 19:33:00,False,https://hardverapro.hu/apro/pny_xlr8_rtx_3080_10gb_3/friss.html,2025-10-01 18:32:59,False
 7208922,NVIDIA MSI GeForce RTX 3080 SUPRIM X 10G,False,150000,2025-10-01 18:06:00,False,https://hardverapro.hu/apro/nvidia_msi_geforce_rtx_3080_suprim_x_10g/friss.html,2025-10-01 18:32:59,False
+7209211,EVGA FTW3 RTX 3080 10Gb,False,130000,2025-10-01 21:19:00,False,https://hardverapro.hu/apro/evga_ftw3_rtx_3080_10gb_3/friss.html,2025-10-01 20:22:03,False
+7209186,MSI Ventus RTX 3080Ti 12Gb,True,150000,2025-10-01 21:00:00,False,https://hardverapro.hu/apro/msi_ventus_rtx_3080ti_12gb/friss.html,2025-10-01 20:22:03,False
