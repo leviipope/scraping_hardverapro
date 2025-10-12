@@ -1191,7 +1191,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7217949,NVIDIA HP OMEN RTX 3080 10GB GDDR6X 320BIT,False,119990,2025-10-08 10:51:00,False,https://hardverapro.hu/apro/nvidia_hp_omen_rtx_3080_10gb_gddr6x_320bit_3/friss.html,2025-10-08 10:22:32,False
 7218132,GIGABYTE GeForce RTX 3080 VISION OC 10GB - FEHÉR - Garancia - 1 tulaj - Wellness done,False,129990,2025-10-08 12:43:00,True,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_vision_oc_10gb_feher_gar_2/friss.html,2025-10-08 11:19:06,True
 7205634,Manli GeForce RTX 3080 Ti 12GB,True,139990,2025-10-08 18:40:00,False,https://hardverapro.hu/apro/manli_geforce_rtx_3080_ti_12gb_5/friss.html,2025-10-08 18:33:53,False
-7219086,MSI Suprim RTX 3080 10GB,False,149990,2025-10-09 08:16:00,False,https://hardverapro.hu/apro/msi_suprim_rtx_3080_10gb_2/friss.html,2025-10-09 06:26:30,False
+7219086,MSI Suprim RTX 3080 10GB,False,149990,2025-10-09 08:16:00,False,https://hardverapro.hu/apro/msi_suprim_rtx_3080_10gb_2/friss.html,2025-10-09 06:26:30,True
 7219833,Eladó ASUS TUF RTX3080-10GB-OC-V2-GAMING,False,135000,2025-10-09 16:56:00,False,https://hardverapro.hu/apro/elado_asus_tuf_rtx3080-10gb-oc-v2-gaming/friss.html,2025-10-09 16:18:27,False
 7221281,Zotac AMP Holo RTX 3080 10GB,False,145000,2025-10-10 18:39:00,False,https://hardverapro.hu/apro/zotac_amp_holo_rtx_3080_10gb_4/friss.html,2025-10-10 18:32:31,False
 7221523,"Inno3D RTX 3080 X3 OC 10GB 320bit GDDR6x 19,0 Gbps alapfeszen 1950 MHz TURBO + miniITX méret + gari",False,149000,2025-10-10 21:56:00,False,https://hardverapro.hu/apro/inno3d_rtx_3080_x3_oc_10gb_320bit_gddr6x_19_0_gbps/friss.html,2025-10-10 20:21:13,True
@@ -1202,3 +1202,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7222343,RTX 3080 MSI Ventus 3X 10G OC eladó,False,140000,2025-10-11 15:51:00,False,https://hardverapro.hu/apro/rtx_3080_msi_ventus_3x_10g_oc_elado_2/friss.html,2025-10-11 14:11:30,False
 7222304,"Eladó csavarmatricás, dobozos EVGA RTX 3080 FTW3 Ultra dobozában, 3 hónap garanciával",False,145900,2025-10-11 15:19:00,False,https://hardverapro.hu/apro/elado_csavarmatricas_dobozos_evga_rtx_3080_ftw3_ul/friss.html,2025-10-11 14:11:30,False
 7223119,"Inno3D 3080 RTX iChill 10GB / RGB doboz, tartozékok, leírások",False,120000,2025-10-12 09:38:00,False,https://hardverapro.hu/apro/inno3d_3080_rtx_ichill_10gb_rgb_doboz_tartozekok_l/friss.html,2025-10-12 08:10:10,False
+7223402,MSI Suprim RTX 3080 10GB,False,129990,2025-10-12 12:30:00,False,https://hardverapro.hu/apro/msi_suprim_rtx_3080_10gb_3/friss.html,2025-10-12 11:17:14,False
