@@ -1205,8 +1205,8 @@ id,name,ti,price,time,iced,link,date_added,archived
 7223402,MSI Suprim RTX 3080 10GB,False,129990,2025-10-12 12:30:00,False,https://hardverapro.hu/apro/msi_suprim_rtx_3080_10gb_3/friss.html,2025-10-12 11:17:14,True
 7223660,Rog strix 3080,False,160000,2025-10-12 15:05:00,False,https://hardverapro.hu/apro/rog_strix_3080_2/friss.html,2025-10-12 13:15:01,False
 7223562,Gigabyte Rtx 3080 Aorus Master,False,139999,2025-10-12 14:17:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_aorus_master_3/friss.html,2025-10-12 13:15:01,False
-7223532,ASUS ROG-STRIX-RTX3080-O10G-WHITE-V2,False,140000,2025-10-12 13:57:00,True,https://hardverapro.hu/apro/asus_rog-strix-rtx3080-o10g-white-v2/friss.html,2025-10-12 13:15:01,False
-7223862,MSI RTX 3080 Ventus 3X 10GB,False,140000,2025-10-12 17:11:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10gb/friss.html,2025-10-12 16:14:59,False
+7223532,ASUS ROG-STRIX-RTX3080-O10G-WHITE-V2,False,140000,2025-10-12 13:57:00,True,https://hardverapro.hu/apro/asus_rog-strix-rtx3080-o10g-white-v2/friss.html,2025-10-12 13:15:01,True
+7223862,MSI RTX 3080 Ventus 3X 10GB,False,140000,2025-10-12 17:11:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10gb/friss.html,2025-10-12 16:14:59,True
 7224114,Rtx 3080,False,135000,2025-10-12 19:52:00,False,https://hardverapro.hu/apro/rtx_3080_5/friss.html,2025-10-12 18:29:00,True
 7224283,ASUS TUF Gaming GeForce RTX 3080 Ti 12GB OC Újszerű,True,180000,2025-10-12 21:45:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_ti_12gb_oc_ujszer/friss.html,2025-10-12 20:20:04,False
 7224276,ZOTAC GeForce Trinity RTX 3080 Ti OC 12GB Újszerű,True,170000,2025-10-12 21:41:00,False,https://hardverapro.hu/apro/zotac_geforce_trinity_rtx_3080_ti_oc_12gb_ujszeru/friss.html,2025-10-12 20:20:04,False
