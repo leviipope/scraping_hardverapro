@@ -1188,7 +1188,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7217209,Evga FTW3 Ultra RTX 3080 10GB /Jótállással!/Dobozos!/Beszámítás!/ Posta ok!,False,144999,2025-10-07 18:02:00,False,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_10gb_jotallassal_dobozos/friss.html,2025-10-07 16:16:54,False
 7217066,Eladó EVGA RTX 3080 XC3 Ultra 10GB,False,130000,2025-10-07 16:28:00,True,https://hardverapro.hu/apro/elado_evga_rtx_3080_xc3_ultra_10gb/friss.html,2025-10-07 16:16:54,True
 7217999,EVGA FTW3 Ultra RTX 3080 10GB,False,145000,2025-10-08 11:20:00,True,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_10gb_3/friss.html,2025-10-08 10:22:32,False
-7217949,NVIDIA HP OMEN RTX 3080 10GB GDDR6X 320BIT,False,119990,2025-10-08 10:51:00,False,https://hardverapro.hu/apro/nvidia_hp_omen_rtx_3080_10gb_gddr6x_320bit_3/friss.html,2025-10-08 10:22:32,False
+7217949,NVIDIA HP OMEN RTX 3080 10GB GDDR6X 320BIT,False,119990,2025-10-08 10:51:00,False,https://hardverapro.hu/apro/nvidia_hp_omen_rtx_3080_10gb_gddr6x_320bit_3/friss.html,2025-10-08 10:22:32,True
 7218132,GIGABYTE GeForce RTX 3080 VISION OC 10GB - FEHÉR - Garancia - 1 tulaj - Wellness done,False,129990,2025-10-08 12:43:00,True,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_vision_oc_10gb_feher_gar_2/friss.html,2025-10-08 11:19:06,True
 7205634,Manli GeForce RTX 3080 Ti 12GB,True,139990,2025-10-08 18:40:00,False,https://hardverapro.hu/apro/manli_geforce_rtx_3080_ti_12gb_5/friss.html,2025-10-08 18:33:53,True
 7219086,MSI Suprim RTX 3080 10GB,False,149990,2025-10-09 08:16:00,False,https://hardverapro.hu/apro/msi_suprim_rtx_3080_10gb_2/friss.html,2025-10-09 06:26:30,True
@@ -1240,3 +1240,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7234910,Msi RTX 3080 Ventus 3x 10GB eladó !!!!!,False,135000,2025-10-20 20:27:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10gb_elado/friss.html,2025-10-20 18:35:08,False
 7235075,Asus TUF RTX 3080 (10GB) - Dobozával,False,149990,2025-10-19 23:09:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_laji/friss.html,2025-10-20 22:16:14,False
 7235620,"Eladó dobozos ZOTAC RTX 3080ti AMP HOLO 12Gb, 3 hónap garanciával !VIDEÓ tesztek!",True,159900,2025-10-21 14:15:00,False,https://hardverapro.hu/apro/elado_dobozos_zotac_rtx_3080ti_amp_holo_12gb_3_hon/friss.html,2025-10-21 13:27:14,False
+7235729,NVIDIA HP OMEN RTX 3080 10GB GDDR6X 320BIT,False,119990,2025-10-21 15:30:00,False,https://hardverapro.hu/apro/nvidia_hp_omen_rtx_3080_10gb_gddr6x_320bit_4/friss.html,2025-10-21 14:14:55,False
