@@ -1160,7 +1160,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7208537,Palit Gamerock RTX 3080,False,135000,2025-10-01 14:02:00,False,https://hardverapro.hu/apro/palit_gamerock_rtx_3080_3/friss.html,2025-10-01 13:22:37,False
 7208861,ASUS RTX 3080 TUF 10GB,False,140000,2025-10-01 17:36:00,False,https://hardverapro.hu/apro/asus_rtx_3080_tuf_10gb/friss.html,2025-10-01 16:17:11,False
 7209076,PNY XLR8 RTX 3080 10GB,False,130000,2025-10-01 19:33:00,False,https://hardverapro.hu/apro/pny_xlr8_rtx_3080_10gb_3/friss.html,2025-10-01 18:32:59,True
-7208922,NVIDIA MSI GeForce RTX 3080 SUPRIM X 10G,False,150000,2025-10-01 18:06:00,False,https://hardverapro.hu/apro/nvidia_msi_geforce_rtx_3080_suprim_x_10g/friss.html,2025-10-01 18:32:59,False
+7208922,NVIDIA MSI GeForce RTX 3080 SUPRIM X 10G,False,150000,2025-10-01 18:06:00,False,https://hardverapro.hu/apro/nvidia_msi_geforce_rtx_3080_suprim_x_10g/friss.html,2025-10-01 18:32:59,True
 7209211,EVGA FTW3 RTX 3080 10Gb,False,130000,2025-10-01 21:19:00,False,https://hardverapro.hu/apro/evga_ftw3_rtx_3080_10gb_3/friss.html,2025-10-01 20:22:03,True
 7209186,MSI Ventus RTX 3080Ti 12Gb,True,150000,2025-10-01 21:00:00,False,https://hardverapro.hu/apro/msi_ventus_rtx_3080ti_12gb/friss.html,2025-10-01 20:22:03,True
 7209591,Zotac RTX 3080Ti Amp Holo,True,160000,2025-10-02 10:10:00,True,https://hardverapro.hu/apro/zotac_rtx_3080ti_amp_holo/friss.html,2025-10-02 08:11:58,True
@@ -1250,3 +1250,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7237831,BESZÁMÍTÁS! ASUS ROG STRIX RTX 3080 10GB videokártya garanciával hibátlan működéssel,False,179900,2025-10-23 12:00:00,False,https://hardverapro.hu/apro/beszamitas_asus_rog_strix_rtx_3080_10gb_videokarty_2/friss.html,2025-10-23 10:24:30,False
 7238558,MSI GeForce RTX 3080 Gaming X Trio 10GB,False,130000,2025-10-23 19:04:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_gaming_x_trio_10gb_2/friss.html,2025-10-23 18:34:01,False
 7238882,ASUS TUF RTX 3080 O10G V2 GAMING Garanciás 2026.01.13-ig,False,145000,2025-10-24 07:32:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_o10g_v2_gaming_garancias_2026_01_3/friss.html,2025-10-24 06:25:34,False
+7239692,Eladó Asus Tuf gaming rtx3080 videókártya,False,150000,2025-10-24 16:41:00,False,https://hardverapro.hu/apro/elado_asus_tuf_gaming_rtx3080_videokartya/friss.html,2025-10-24 16:17:49,False
