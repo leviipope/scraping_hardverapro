@@ -1319,7 +1319,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7260225,MSI RTX 3080 Ventus 3x 10gb,False,140000,2025-11-08 11:11:00,True,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10gb_2/friss.html,2025-11-08 10:20:33,True
 7260192,EVGA GeForce RTX 3080,False,127000,2025-11-08 10:48:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080/friss.html,2025-11-08 10:20:33,False
 7260495,Beszámítás! Dobozos - Újszerű állapotban lévő 3 Ventis RTX 3080 10GB,False,130000,2025-11-08 13:54:00,False,https://hardverapro.hu/apro/beszamitas_dobozos_ujszeru_allapotban_levo_3_venti_2/friss.html,2025-11-08 13:16:57,True
-7261203,MSI GeForce RTX 3080 Ti SUPRIM X 12GB,True,189990,2025-11-08 22:45:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_suprim_x_12gb_3/friss.html,2025-11-08 22:15:18,False
+7261203,MSI GeForce RTX 3080 Ti SUPRIM X 12GB,True,189990,2025-11-08 22:45:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_suprim_x_12gb_3/friss.html,2025-11-08 22:15:18,True
 7261980,NVIDIA GeForce RTX 3080 FOUNDERS EDITION 10GB GDDR6X eladó akár beszámítással is,False,124990,2025-11-09 13:36:00,True,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_c3zw/friss.html,2025-11-09 13:16:46,True
 7261903,NVIDIA GeForce RTX 3080 Founders Edition 10GB GDDR6X videokártya,False,140000,2025-11-09 13:07:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_gddr_oami/friss.html,2025-11-09 13:16:46,False
 7262339,NNO3D GeForce RTX 3080 X3 OC 12G BULK 1 db 150 000 Ft (ez fekete),False,115000,2025-11-09 16:37:00,True,https://hardverapro.hu/apro/nno3d_geforce_rtx_3080_x3_oc_12g_bulk_1_db_150_000/friss.html,2025-11-09 16:15:07,False
@@ -1333,3 +1333,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7265163,"Eladó NVIDIA GeForce RTX 3080 Founders Edition Dobozos, makulátlan állapotban!",False,139999,2025-11-11 13:20:00,False,https://hardverapro.hu/apro/elado_nvidia_geforce_rtx_3080_founders_edition_dob/friss.html,2025-11-11 13:24:46,False
 7265294,nVidia GeForce RTX 3080 Founders Edition (dobozos),False,130000,2025-11-11 14:42:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_dobozos/friss.html,2025-11-11 14:16:24,False
 7265649,Asus ROG RTX 3080,False,175000,2025-11-11 18:27:00,False,https://hardverapro.hu/apro/asus_rog_rtx_3080/friss.html,2025-11-11 18:34:10,False
+7265762,3080,False,150000,2025-11-11 19:39:00,False,https://hardverapro.hu/apro/3080_2/friss.html,2025-11-11 20:23:14,False
