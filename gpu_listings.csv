@@ -1287,7 +1287,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7250593,Rtx 3080ti Founders edition,True,180000,2025-11-01 14:05:00,True,https://hardverapro.hu/apro/rtx_3080ti_founders_edition_2/friss.html,2025-11-01 13:16:33,True
 7250969,EVGA RTX 3080,False,122000,2025-11-01 18:19:00,True,https://hardverapro.hu/apro/evga_rtx_3080_5/friss.html,2025-11-01 18:29:34,True
 7252855,nVidia Founder Edition 3080,False,190000,2025-11-02 23:43:00,False,https://hardverapro.hu/apro/nvidia_founder_edition_3080/friss.html,2025-11-03 06:28:27,False
-7253001,EVGA FTW3 ULTRA RTX 3080,False,145000,2025-11-03 08:52:00,True,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_5/friss.html,2025-11-03 08:13:50,False
+7253001,EVGA FTW3 ULTRA RTX 3080,False,145000,2025-11-03 08:52:00,True,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_5/friss.html,2025-11-03 08:13:50,True
 7253049,Zotac Trinity RTX 3080,False,140000,2025-11-03 09:23:00,False,https://hardverapro.hu/apro/zotac_trinity_rtx_3080/friss.html,2025-11-03 10:26:48,False
 7253345,MSI RTX 3080 SUPRIM X 10GB (LHR MENTES),False,150000,2025-11-03 12:15:00,True,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_10gb_lhr_mentes/friss.html,2025-11-03 11:20:36,True
 7253387,MSI GeForce RTX 3080 VENTUS 3X PLUS OC LHR 10GB GDDR6X 320bit,False,150000,2025-11-03 12:36:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ventus_3x_plus_oc_lhr_10gb_gd/friss.html,2025-11-03 13:24:09,True
@@ -1343,3 +1343,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7268313,"inno3D rtx 3080 12gb - 2 év gar., lényegében új, jó hőfokokkal, csendes teszi a dolgát 5070 helyett",False,135000,2025-11-13 16:39:00,True,https://hardverapro.hu/apro/inno3d_rtx_3080_12gb_2_ev_gar_lenyegeben_uj_jo_hof/friss.html,2025-11-13 16:18:08,False
 7268892,ASUS ROG STRIX RTX3080TI O12G GAMING,True,200000,Előresorolva,False,https://hardverapro.hu/apro/asus_rog_strix_rtx3080ti_o12g_gaming/friss.html,2025-11-14 06:27:44,False
 7269603,NVIDIA GEFORCE RTX 3080 FOUNDERS EDITION,False,169990,Előresorolva,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_fe3f/friss.html,2025-11-14 16:18:30,False
+7269750,HP OMEN NVIDIA RTX 3080 10GB GRRR6X 320 BIT OC lED VIDEOKÁRTYA,False,119990,2025-11-14 18:11:00,False,https://hardverapro.hu/apro/hp_omen_nvidia_rtx_3080_10gb_grrr6x_320_bit_oc_led/friss.html,2025-11-14 18:34:24,False
