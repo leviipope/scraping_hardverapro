@@ -1288,7 +1288,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7250969,EVGA RTX 3080,False,122000,2025-11-01 18:19:00,True,https://hardverapro.hu/apro/evga_rtx_3080_5/friss.html,2025-11-01 18:29:34,True
 7252855,nVidia Founder Edition 3080,False,190000,2025-11-02 23:43:00,False,https://hardverapro.hu/apro/nvidia_founder_edition_3080/friss.html,2025-11-03 06:28:27,False
 7253001,EVGA FTW3 ULTRA RTX 3080,False,145000,2025-11-03 08:52:00,True,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_5/friss.html,2025-11-03 08:13:50,True
-7253049,Zotac Trinity RTX 3080,False,140000,2025-11-03 09:23:00,True,https://hardverapro.hu/apro/zotac_trinity_rtx_3080/friss.html,2025-11-03 10:26:48,False
+7253049,Zotac Trinity RTX 3080,False,140000,2025-11-03 09:23:00,True,https://hardverapro.hu/apro/zotac_trinity_rtx_3080/friss.html,2025-11-03 10:26:48,True
 7253345,MSI RTX 3080 SUPRIM X 10GB (LHR MENTES),False,150000,2025-11-03 12:15:00,True,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_10gb_lhr_mentes/friss.html,2025-11-03 11:20:36,True
 7253387,MSI GeForce RTX 3080 VENTUS 3X PLUS OC LHR 10GB GDDR6X 320bit,False,150000,2025-11-03 12:36:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ventus_3x_plus_oc_lhr_10gb_gd/friss.html,2025-11-03 13:24:09,True
 7253371,NVIDIA HP OMEN RTX 3080 10GB GDDR6X 320BIT,False,119990,2025-11-03 12:26:00,False,https://hardverapro.hu/apro/nvidia_hp_omen_rtx_3080_10gb_gddr6x_320bit_5/friss.html,2025-11-03 13:24:09,True
@@ -1386,3 +1386,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7287295,"ZOTAC RTX 3080 Trinity OC LHR videokártya dobozában, hibátlan állapotban eladó!",False,135000,2025-11-25 19:05:00,False,https://hardverapro.hu/apro/zotac_rtx_3080_trinity_oc_lhr_videokartya_dobozaba/friss.html,2025-11-25 18:37:14,False
 7286986,RTX 3080 10GB FOUNDERS EDITION,False,140000,2025-11-25 16:27:00,False,https://hardverapro.hu/apro/rtx_3080_10gb_founders_edition_2/friss.html,2025-11-25 18:37:14,False
 7287485,WHITE ASUS ROG Strix GeForce RTX 3080 V2 OC,False,165000,2025-11-25 21:02:00,False,https://hardverapro.hu/apro/white_asus_rog_strix_geforce_rtx_3080_v2_oc/friss.html,2025-11-25 20:24:22,False
+7287848,RTX3080 10GB Founders edition garanciás!,False,140000,2025-11-26 09:44:00,False,https://hardverapro.hu/apro/rtx3080_10gb_founders_edition_garancias/friss.html,2025-11-26 10:26:39,False
