@@ -1269,7 +1269,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7244046,MSI SUPRIM X - 3080 10gb,False,140000,2025-10-27 19:50:00,True,https://hardverapro.hu/apro/msi_suprim_x_3080_10gb_6/friss.html,2025-10-27 20:20:20,True
 7244280,EVGA RTX3080 FTW3,False,140000,2025-10-27 23:59:00,False,https://hardverapro.hu/apro/evga_rtx3080_ftw3/friss.html,2025-10-28 08:12:56,True
 7244628,MSI GeForce RTX 3080 VENTUS 3X PLUS 10GB OC LHR,False,140000,2025-10-28 11:05:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ventus_3x_plus_10gb_oc_lhr/friss.html,2025-10-28 10:25:35,True
-7244744,Gigabyte RTX 3080 gaming g1 10g,False,120000,2025-10-28 12:13:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_g1_10g/friss.html,2025-10-28 11:19:45,False
+7244744,Gigabyte RTX 3080 gaming g1 10g,False,120000,2025-10-28 12:13:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_g1_10g/friss.html,2025-10-28 11:19:45,True
 7244678,ASUS TUF RTX 3080 GAMING 10GB OC V2 LHR,False,150000,2025-10-28 11:29:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_gaming_10gb_oc_v2_lhr/friss.html,2025-10-28 11:19:45,True
 7245171,"INNO3D RTX 3080 10 GB Garanciás, dobozával/tartozékaival",False,135000,2025-10-28 16:21:00,True,https://hardverapro.hu/apro/inno3d_rtx_3080_10_gb_garancias_dobozaval_tartozek/friss.html,2025-10-28 16:18:55,True
 7245329,Eladó ASUS TUF 3080 OC 10gb,False,155000,2025-10-28 17:40:00,False,https://hardverapro.hu/apro/elado_asus_tuf_3080_oc_10gb/friss.html,2025-10-28 18:35:53,True
@@ -1394,3 +1394,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7289253,ASUS TUF Gaming GeForce RTX 3080 10GB OC - Garancia,False,139990,2025-11-27 00:40:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_10gb_oc_garancia_2/friss.html,2025-11-27 06:29:03,True
 7289684,EVGA RTX 3080 FTW 3,False,180000,2025-11-27 12:11:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw_3/friss.html,2025-11-27 11:22:33,False
 7289659,Zotac 3080 Ti Trinity 12GB újszerű,True,170000,2025-11-27 11:54:00,False,https://hardverapro.hu/apro/zotac_3080_ti_trinity_12gb_ujszeru/friss.html,2025-11-27 11:22:33,False
+7289871,Manli RTX 3080 Ti eladó,True,155000,2025-11-27 14:17:00,False,https://hardverapro.hu/apro/manli_rtx_3080_ti_elado/friss.html,2025-11-27 13:25:26,False
