@@ -1417,7 +1417,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7295345,EVGA GeForce RTX 3080 XC3 Black Gaming 10GB,False,150000,2025-11-30 20:47:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_xc3_black_gaming_10gb_2/friss.html,2025-11-30 20:23:20,False
 7296290,MSI GeForce RTX 3080 10GB Gaming X Trio,False,160000,2025-12-01 13:47:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_10gb_gaming_x_trio/friss.html,2025-12-01 13:29:02,False
 7296270,MSI Gaming Z trio rtx 3080 10G,False,160000,2025-12-01 13:39:00,False,https://hardverapro.hu/apro/msi_gaming_z_trio_rtx_3080_10g/friss.html,2025-12-01 13:29:02,False
-7296207,GARANCIÁLIS Asus TUF GeForce RTX 3080 OC Edition 10GB GDDR6X,False,150000,2025-12-01 13:09:00,True,https://hardverapro.hu/apro/garancialis_asus_tuf_geforce_rtx_3080_oc_edition_1/friss.html,2025-12-01 13:29:02,False
+7296207,GARANCIÁLIS Asus TUF GeForce RTX 3080 OC Edition 10GB GDDR6X,False,150000,2025-12-01 13:09:00,True,https://hardverapro.hu/apro/garancialis_asus_tuf_geforce_rtx_3080_oc_edition_1/friss.html,2025-12-01 13:29:02,True
 7296372,Palit Gamerock RTX 3080,False,140000,2025-12-01 14:33:00,False,https://hardverapro.hu/apro/palit_gamerock_rtx_3080_5/friss.html,2025-12-01 14:18:00,False
 7296669,ASUS TUF Gaming RTX 3080 Ti 12GB GDDR6X OC Edition videokártya - 2026.02.19-ig magyar garancia!,True,200000,2025-12-01 17:14:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_ti_12gb_gddr6x_oc_edition/friss.html,2025-12-01 16:21:02,False
 7296827,NVIDIA GeForce RTX 3080 Founders Edition,False,135000,2025-12-01 18:37:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_ijhc/friss.html,2025-12-01 18:40:11,False
@@ -1434,3 +1434,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7299421,Asus tuf 3080 oc,False,150000,2025-12-03 11:21:00,False,https://hardverapro.hu/apro/asus_tuf_3080_oc/friss.html,2025-12-03 10:28:05,False
 7299234,RTX 3080 Ti 12GB,True,149000,2025-12-03 09:34:00,False,https://hardverapro.hu/apro/rtx_3080_ti_12gb/friss.html,2025-12-03 10:28:05,False
 7299477,Asus ROG STRIX RTX 3080 10G LHR WHITE v2,False,180000,2025-12-03 11:44:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_10g_lhr_white_v2/friss.html,2025-12-03 11:23:48,False
+7299843,PNY GeForce RTX 3080 Ti,True,190000,2025-12-03 15:10:00,False,https://hardverapro.hu/apro/pny_geforce_rtx_3080_ti/friss.html,2025-12-03 14:17:22,False
