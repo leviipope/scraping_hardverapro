@@ -1400,7 +1400,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7290528,ASUS TUF RTX 3080 10G OC OEM,False,130000,2025-11-27 20:44:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10g_oc_oem/friss.html,2025-11-27 20:21:21,True
 7291035,Asus TUF RTX 3080,False,139000,2025-11-28 10:15:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_7/friss.html,2025-11-28 10:25:47,True
 7291423,Asus Tuf Gaming GeForce RTX 3080Ti 12GB/4 hónap céges garancia,True,162500,2025-11-28 14:10:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080ti_12gb_4_honap_ce/friss.html,2025-11-28 13:24:07,False
-7291286,Inno3d Geforce RTX 3080 LHR 10 Gb Eladó,False,130000,2025-11-28 12:49:00,True,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_lhr_10_gb_elado/friss.html,2025-11-28 13:24:07,False
+7291286,Inno3d Geforce RTX 3080 LHR 10 Gb Eladó,False,130000,2025-11-28 12:49:00,True,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_lhr_10_gb_elado/friss.html,2025-11-28 13:24:07,True
 7291704,Rtx 3080 suprim,False,150000,2025-11-28 16:44:00,True,https://hardverapro.hu/apro/rtx_3080_suprim/friss.html,2025-11-28 16:17:51,False
 7291573,AORUS GeForce RTX 3080 XTREME Waterforce 10GB,False,170000,2025-11-28 15:31:00,False,https://hardverapro.hu/apro/aorus_geforce_rtx_3080_xtreme_waterforce_11gb/friss.html,2025-11-28 16:17:51,False
 7291961,ELADÓ! használt: DELL NVIDIA GeForce RTX 3080 10GB GDDR6X,False,160000,2025-11-28 19:09:00,False,https://hardverapro.hu/apro/elado_hasznalt_dell_nvidia_geforce_rtx_3080_10gb_g/friss.html,2025-11-28 18:33:33,False
@@ -1438,3 +1438,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7300692,RTX3080 és RTX3080 Ti verhetetlen áron!,True,100000,Előresorolva,True,https://hardverapro.hu/apro/rtx3080_es_rtx3080_ti_verhetetlen_aron/friss.html,2025-12-04 06:29:04,False
 7300858,EVGA GeForce RTX 3080 XC3 Ultra Gaming (10G-P5-3885-KL),False,100000,2025-12-04 08:50:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_xc3_ultra_gaming_10g-p5-3885_2/friss.html,2025-12-04 08:14:27,False
 7301090,GIGABYTE GeForce RTX 3080 TURBO 10G,False,150000,2025-12-04 11:27:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_turbo_10g_2/friss.html,2025-12-04 10:28:02,False
+7301102,EVGA RTX 3080 XC3 Black,False,130000,2025-12-04 11:38:00,False,https://hardverapro.hu/apro/evga_rtx_3080_xc3_black_2/friss.html,2025-12-04 11:24:26,False
