@@ -1461,7 +1461,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7306138,EVGA GeForce XC3 BLACK GAMING LED RTX 3080 10GB GDDR6X 320bit (10G-P5-3881-KR) Ingyenes kiszállítás,False,160000,2025-12-07 14:35:00,False,https://hardverapro.hu/apro/evga_geforce_xc3_black_gaming_led_rtx_3080_10gb_gd/friss.html,2025-12-07 14:14:12,False
 7306543,"INNO3D GeForce RTX 3080 12GB 1,5 év garancia",False,150000,2025-12-07 18:12:00,True,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_12gb_1_5_ev_garancia/friss.html,2025-12-07 18:32:28,True
 7307004,Referencia Nvidia Geforce RTX 3080Ti Full szett,True,159890,2025-12-07 22:46:00,True,https://hardverapro.hu/apro/referencia_nvidia_geforce_rtx_3080ti_full_szett/friss.html,2025-12-07 22:17:08,False
-7306949,EVGA FTW3 ULTRA 3080Ti Nvidia Geforce RTX a LEGENDA,True,199890,2025-12-07 22:03:00,False,https://hardverapro.hu/apro/evga_ftw3_ultra_3080ti_nvidia_geforce_rtx_a_legend/friss.html,2025-12-07 22:17:08,False
+7306949,EVGA FTW3 ULTRA 3080Ti Nvidia Geforce RTX a LEGENDA,True,199890,2025-12-07 22:03:00,True,https://hardverapro.hu/apro/evga_ftw3_ultra_3080ti_nvidia_geforce_rtx_a_legend/friss.html,2025-12-07 22:17:08,False
 7306904,Msi Gaming Z Trio Nvidia Geforce RTX 3080,False,169890,2025-12-07 21:25:00,False,https://hardverapro.hu/apro/msi_gaming_x_trio_nvidia_geforce_rtx_3080/friss.html,2025-12-07 22:17:08,False
 7307027,MSI 3080 TI SUPRIN X,True,199000,2025-12-08 05:54:00,True,https://hardverapro.hu/apro/msi_3080_ti_suprin_x_2/friss.html,2025-12-08 06:32:12,False
 7307693,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING 10GB GDDR6X,False,139990,2025-12-08 13:22:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_10gb_gddr6_xuob/friss.html,2025-12-08 13:28:21,True
@@ -1502,3 +1502,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 7317157,Eladó Asus ROG Strix GeForce RTX 3080 White Edition 10GB,False,150000,2025-12-14 10:08:00,False,https://hardverapro.hu/apro/elado_asus_rog_strix_geforce_rtx_3080_white_editio/friss.html,2025-12-14 10:23:06,False
 7318432,GIGABYTE RTX 3080 GAMING OC WATERFORCE WB 10G (rev. 2.0) - BARROW Blokkal,False,125000,2025-12-14 19:23:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_oc_waterforce_wb_10g_rev/friss.html,2025-12-14 18:34:10,False
 7318982,Eladó gigabyte rtx 3080 turbo,False,150000,2025-12-15 07:26:00,False,https://hardverapro.hu/apro/elado_gigabyte_rtx_3080_turbo/friss.html,2025-12-15 06:32:42,False
+7319341,"ASUS RTX 3080 TUF Gaming , dobozával",False,160000,2025-12-15 11:13:00,False,https://hardverapro.hu/apro/asus_rtx_3080_tuf_gaming_dobozaval/friss.html,2025-12-15 10:30:27,False
+7319114,MSI Suprim RTX3080 12GB,False,162000,2025-12-15 09:26:00,False,https://hardverapro.hu/apro/msi_suprim_rtx3080_12gb/friss.html,2025-12-15 10:30:27,False
