@@ -1495,7 +1495,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7316293,ZOTAC GeForce RTX 3080 Ti AMP Holo,True,180000,2025-12-13 17:21:00,False,https://hardverapro.hu/apro/zotac_geforce_rtx_3080_ti_amp_holo/friss.html,2025-12-13 18:32:32,False
 7316540,Gainward Phoenix RTX 3080 TI 12gb,True,179900,2025-12-13 19:37:00,False,https://hardverapro.hu/apro/gainward_phoenix_rtx_3080_ti_12gb/friss.html,2025-12-13 20:22:57,False
 7316742,Asus TUF Gaming 3080 OC 10GB,False,120000,2025-12-13 21:38:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_3080_oc_10gb/friss.html,2025-12-13 22:17:24,True
-7316954,MSI RTX 3080 Ti Suprin X,True,190000,2025-12-14 03:10:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ti_suprin_x/friss.html,2025-12-14 06:27:22,False
+7316954,MSI RTX 3080 Ti Suprin X,True,190000,2025-12-14 03:10:00,True,https://hardverapro.hu/apro/msi_rtx_3080_ti_suprin_x/friss.html,2025-12-14 06:27:22,False
 7316870,Asus Tuf RTX 3080 10Gb GDDR6X,False,123000,2025-12-13 23:43:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_gddr6x/friss.html,2025-12-14 06:27:22,True
 7316868,ASUS ROG STRIX RTX 3080 12GB OC,False,170000,2025-12-13 23:40:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_12gb_oc/friss.html,2025-12-14 06:27:22,False
 7317059,MSI RTX 3080 GAMING Z TRIO 12G LHR,False,165000,2025-12-14 08:52:00,False,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_trio_12g_lhr/friss.html,2025-12-14 08:11:52,False
@@ -1559,4 +1559,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7334362,Gainwward 3080 Phoenix,False,140000,2025-12-24 19:25:00,False,https://hardverapro.hu/apro/gainwward_3080_phoenix/friss.html,2025-12-24 18:36:16,False
 7334580,MSI Ventus 3x plus RTX 3080 10Gb,False,140000,2025-12-25 08:25:00,False,https://hardverapro.hu/apro/msi_ventus_3x_plus_rtx_3080_10gb/friss.html,2025-12-25 08:13:52,False
 7334904,Új INNO3D GeForce RTX 3080 10 GB X3,False,145000,2025-12-25 14:33:00,False,https://hardverapro.hu/apro/uj_inno3d_geforce_rtx_3080_10_gb_x3/friss.html,2025-12-25 14:16:08,False
-7335204,Asus tuf rtx 3080 Oc,False,120000,2025-12-25 19:06:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_oc_5/friss.html,2025-12-25 18:36:00,False
+7335204,Asus tuf rtx 3080 Oc,False,120000,2025-12-25 19:06:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_oc_5/friss.html,2025-12-25 18:36:00,True
