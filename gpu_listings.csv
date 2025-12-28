@@ -1399,7 +1399,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7290292,Asus TUF Geforce RTX 3080 10GB,False,130000,2025-11-27 18:12:00,True,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_10gb/friss.html,2025-11-27 18:33:40,True
 7290528,ASUS TUF RTX 3080 10G OC OEM,False,130000,2025-11-27 20:44:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10g_oc_oem/friss.html,2025-11-27 20:21:21,True
 7291035,Asus TUF RTX 3080,False,139000,2025-11-28 10:15:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_7/friss.html,2025-11-28 10:25:47,True
-7291423,Asus Tuf Gaming GeForce RTX 3080Ti 12GB/4 hónap céges garancia,True,162500,2025-11-28 14:10:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080ti_12gb_4_honap_ce/friss.html,2025-11-28 13:24:07,False
+7291423,Asus Tuf Gaming GeForce RTX 3080Ti 12GB/4 hónap céges garancia,True,162500,2025-11-28 14:10:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080ti_12gb_4_honap_ce/friss.html,2025-11-28 13:24:07,True
 7291286,Inno3d Geforce RTX 3080 LHR 10 Gb Eladó,False,130000,2025-11-28 12:49:00,True,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_lhr_10_gb_elado/friss.html,2025-11-28 13:24:07,True
 7291704,Rtx 3080 suprim,False,150000,2025-11-28 16:44:00,True,https://hardverapro.hu/apro/rtx_3080_suprim/friss.html,2025-11-28 16:17:51,True
 7291573,AORUS GeForce RTX 3080 XTREME Waterforce 10GB,False,170000,2025-11-28 15:31:00,False,https://hardverapro.hu/apro/aorus_geforce_rtx_3080_xtreme_waterforce_11gb/friss.html,2025-11-28 16:17:51,False
@@ -1544,7 +1544,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7328974,EVGA GeForce RTX 3080 Ti FTW3 Ultra 12GB GDDR6X eladó akár beszámítással is,True,184990,2025-12-20 20:28:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ti_ftw3_ultra_12gb_gddr6x_el_2/friss.html,2025-12-20 20:22:13,True
 7329315,Gigabyte Aorus Master GeForce RTX 3080 10G Rev: 3.0,False,200000,2025-12-21 08:39:00,False,https://hardverapro.hu/apro/gigabyte_aorus_master_geforce_rtx_3080_10g_rev_3_0/friss.html,2025-12-21 08:12:03,False
 7329598,GIGABYTE AORUS GEFORCE RTX 3080 XTREME WATERFORCE 10G,False,159000,2025-12-21 11:43:00,False,https://hardverapro.hu/apro/gigabyte_aorus_geforce_rtx_3080_xtreme_waterforce_i9h2/friss.html,2025-12-21 11:20:44,False
-7330670,Asus Tuf RTX 3080 10GB OC Eladó hibátlan állapotban,False,145000,2025-12-21 21:08:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_oc_elado_hibatlan_allapotba/friss.html,2025-12-21 20:23:21,False
+7330670,Asus Tuf RTX 3080 10GB OC Eladó hibátlan állapotban,False,145000,2025-12-21 21:08:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_oc_elado_hibatlan_allapotba/friss.html,2025-12-21 20:23:21,True
 7330818,MSI RTX 3080 GAMING Z TRIO 10GB / Pénzvisszafizetési garancia! Hangtalan működés!,False,140000,2025-12-22 06:11:00,True,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_trio_10gb_penzvisszafizetesi/friss.html,2025-12-22 06:32:31,False
 7331073,ASUS STRIX 3080 12GB OC JAVITOTT,False,150000,2025-12-22 10:03:00,False,https://hardverapro.hu/apro/asus_strix_3080_12gb_oc_javitott/friss.html,2025-12-22 10:26:38,False
 7331315,GIGABYTE GeForce TURBO RTX 3080 10GB GDDR6X 320bit,False,110000,2025-12-22 12:19:00,False,https://hardverapro.hu/apro/gigabyte_geforce_turbo_rtx_3080_10gb_gddr6x_320bit_4/friss.html,2025-12-22 11:23:27,True
@@ -1571,3 +1571,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7337885,Gigabyte RTX 3080TI 12GB,True,190000,2025-12-28 10:15:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080ti_12gb_2/friss.html,2025-12-28 10:24:05,False
 7338019,Gigabyte rtx 3080 10gb,False,138000,2025-12-28 11:42:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_10gb_2/friss.html,2025-12-28 11:21:16,False
 7338230,Eladó Palit RTX 3080,False,133000,2025-12-28 13:47:00,False,https://hardverapro.hu/apro/elado_palit_rtx_3080/friss.html,2025-12-28 13:22:55,False
+7338293,MSI GeForce RTX 3080 Ti GAMING X TRIO 12G Dobozzal,True,179999,2025-12-28 14:30:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_gaming_x_trio_12g_dobozzal/friss.html,2025-12-28 14:15:29,False
