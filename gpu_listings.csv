@@ -1561,7 +1561,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7334904,Új INNO3D GeForce RTX 3080 10 GB X3,False,145000,2025-12-25 14:33:00,False,https://hardverapro.hu/apro/uj_inno3d_geforce_rtx_3080_10_gb_x3/friss.html,2025-12-25 14:16:08,False
 7335204,Asus tuf rtx 3080 Oc,False,120000,2025-12-25 19:06:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_oc_5/friss.html,2025-12-25 18:36:00,True
 7335956,Geforce RTX 3080 Gainward Phoenix 10G LHR,False,155000,2025-12-26 15:55:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_gainward_phoenix_10g_lhr_2/friss.html,2025-12-26 16:17:47,False
-7336482,"EVGA RTX 3080 FTW3 ULTRA GAMING 10GB / Kiemelten szép, karcmentes! BESZÁMÍTÁS",False,155000,2025-12-27 05:38:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_10gb_kiemelten_sze/friss.html,2025-12-27 06:28:35,False
+7336482,"EVGA RTX 3080 FTW3 ULTRA GAMING 10GB / Kiemelten szép, karcmentes! BESZÁMÍTÁS",False,155000,2025-12-27 05:38:00,True,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_10gb_kiemelten_sze/friss.html,2025-12-27 06:28:35,False
 7336632,Asus Rog Strix 3080 white 10G,False,150000,2025-12-27 10:41:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080_white_2/friss.html,2025-12-27 10:23:31,False
 7336558,MSI 3080 10GB SUPRIM X JAVITOTT,False,150000,2025-12-27 09:18:00,False,https://hardverapro.hu/apro/msi_3080_10gb_suprim_x_javitott/friss.html,2025-12-27 10:23:31,False
 7336715,EVGA 3080TI XC3 Dobozos,True,185000,2025-12-27 11:50:00,False,https://hardverapro.hu/apro/evga_3080ti_xc3_dobozos/friss.html,2025-12-27 11:20:30,False
@@ -1569,3 +1569,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7337499,Asus Rog Strix RTX 3080 Ti OC,True,250000,2025-12-27 20:42:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_ti_oc/friss.html,2025-12-27 20:23:58,False
 7337718,nVidia Geforce RTX 3080 Founders Edition,False,150000,2025-12-28 02:22:00,False,https://hardverapro.hu/apro/nvidia_geforce_3080_founders_edition/friss.html,2025-12-28 06:29:03,False
 7337885,Gigabyte RTX 3080TI 12GB,True,190000,2025-12-28 10:15:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080ti_12gb_2/friss.html,2025-12-28 10:24:05,False
+7338019,Gigabyte rtx 3080 10gb,False,138000,2025-12-28 11:42:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_10gb_2/friss.html,2025-12-28 11:21:16,False
