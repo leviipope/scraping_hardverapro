@@ -1578,8 +1578,8 @@ id,name,ti,price,time,iced,link,date_added,archived
 7339810,Gigabyte rtx3080 vision oc 10GB,False,145000,2025-12-29 15:02:00,False,https://hardverapro.hu/apro/gigabyte_rtx3080_vision_oc_10gb/friss.html,2025-12-29 14:18:03,False
 7340296,RTX 3080 10Gb Gainward Lhr,False,130000,2025-12-29 19:36:00,False,https://hardverapro.hu/apro/rtx_3080_10gb_gainward_lhr/friss.html,2025-12-29 18:37:12,False
 7341289,Eladó ASUS ROG STRIX GeForce RTX 3080 GAMING O10G videokártya,False,150000,2025-12-30 14:59:00,False,https://hardverapro.hu/apro/elado_asus_rog_strix_geforce_rtx_3080_gaming_o10g_2/friss.html,2025-12-30 14:17:43,False
-7341429,MSI RTX 3080 GAMING Z TRIO,False,140000,2025-12-30 16:10:00,False,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_trio/friss.html,2025-12-30 16:19:51,False
+7341429,MSI RTX 3080 GAMING Z TRIO,False,140000,2025-12-30 16:10:00,False,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_trio/friss.html,2025-12-30 16:19:51,True
 7341587,MSI RTX 3080 Ventus 3X 10gb OC,False,140000,2025-12-30 17:51:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10gb_oc_2/friss.html,2025-12-30 18:38:44,False
-7341944,Eladó GeForce RTX 3080 VISION OC 10G (Rev. 2.0) Első Tulaj!!,False,130000,2025-12-30 22:37:00,False,https://hardverapro.hu/apro/elado_geforce_rtx_3080_vision_oc_10g_rev_2_0/friss.html,2025-12-30 22:18:33,False
+7341944,Eladó GeForce RTX 3080 VISION OC 10G (Rev. 2.0) Első Tulaj!!,False,130000,2025-12-30 22:37:00,True,https://hardverapro.hu/apro/elado_geforce_rtx_3080_vision_oc_10g_rev_2_0/friss.html,2025-12-30 22:18:33,False
 7342075,Asus Rog Strix RTX 3080 OC 10GB,False,159990,2025-12-31 04:45:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_oc_10gb_2/friss.html,2025-12-31 06:31:00,False
 7342050,Nvidia Geforce RTX 3080 Ti,True,168000,2025-12-31 01:36:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_ti_3/friss.html,2025-12-31 06:31:00,False
