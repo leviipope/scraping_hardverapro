@@ -1576,7 +1576,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7338724,NVIDIA RTX 3080 Ti Founders Edition,True,200000,2025-12-28 19:43:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080_ti_founders_edition_8/friss.html,2025-12-28 20:24:46,False
 7339145,RTX 3080 FOUNDERS EDITION,False,140000,2025-12-29 08:52:00,False,https://hardverapro.hu/apro/rtx_3080_founders_edition_iqfv/friss.html,2025-12-29 08:15:41,False
 7339810,Gigabyte rtx3080 vision oc 10GB,False,145000,2025-12-29 15:02:00,False,https://hardverapro.hu/apro/gigabyte_rtx3080_vision_oc_10gb/friss.html,2025-12-29 14:18:03,False
-7340296,RTX 3080 10Gb Gainward Lhr,False,130000,2025-12-29 19:36:00,False,https://hardverapro.hu/apro/rtx_3080_10gb_gainward_lhr/friss.html,2025-12-29 18:37:12,False
+7340296,RTX 3080 10Gb Gainward Lhr,False,130000,2025-12-29 19:36:00,False,https://hardverapro.hu/apro/rtx_3080_10gb_gainward_lhr/friss.html,2025-12-29 18:37:12,True
 7341289,Eladó ASUS ROG STRIX GeForce RTX 3080 GAMING O10G videokártya,False,150000,2025-12-30 14:59:00,False,https://hardverapro.hu/apro/elado_asus_rog_strix_geforce_rtx_3080_gaming_o10g_2/friss.html,2025-12-30 14:17:43,False
 7341429,MSI RTX 3080 GAMING Z TRIO,False,140000,2025-12-30 16:10:00,False,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_trio/friss.html,2025-12-30 16:19:51,True
 7341587,MSI RTX 3080 Ventus 3X 10gb OC,False,140000,2025-12-30 17:51:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10gb_oc_2/friss.html,2025-12-30 18:38:44,False
@@ -1586,4 +1586,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7342344,GIGABYTE GeForce RTX 3080 10GB OC GDDR6X 320bit WaterForce,False,140000,2025-12-31 12:01:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_10gb_oc_gddr6x_320bit_wa/friss.html,2025-12-31 11:23:43,False
 7343602,"Asus Rog Strix 3080 Ti OC 12Gb Gaming Dobozával, eredeti papírjaival",True,240000,2026-01-01 16:54:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080_ti_oc_12gb_gaming_dobozaval_mi/friss.html,2026-01-01 16:19:24,False
 7343548,EVGA RTX 3080 Hybrid 10G,False,160000,2026-01-01 16:14:00,False,https://hardverapro.hu/apro/evga_rtx_3080_hybrid_10g/friss.html,2026-01-01 16:19:24,False
-7343700,Gainward RTX 3080 Ti 12GB GDDR6X,True,160000,2026-01-01 17:59:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_ti_12gb_gddr6x/friss.html,2026-01-01 18:36:49,False
+7343700,Gainward RTX 3080 Ti 12GB GDDR6X,True,160000,2026-01-01 17:59:00,True,https://hardverapro.hu/apro/gainward_rtx_3080_ti_12gb_gddr6x/friss.html,2026-01-01 18:36:49,False
