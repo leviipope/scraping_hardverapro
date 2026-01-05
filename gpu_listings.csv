@@ -1523,7 +1523,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7323644,GIGABYTE RTX 3080 Ti 12GB GDDR6X VISION OC Eladó!,True,175000,2025-12-17 16:06:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_ti_12gb_gddr6x_vision_oc_elado/friss.html,2025-12-17 16:20:27,False
 7323607,MSI RTX 3080 10GB GDDR6X GAMING Z TRIO Eladó,False,149900,2025-12-17 15:42:00,True,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_gaming_z_trio_elado/friss.html,2025-12-17 16:20:27,False
 7323942,GIGABYTE RTX 3080 GAMING OC 10GB,False,150000,2025-12-17 18:50:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_oc_10gb_3/friss.html,2025-12-17 18:39:11,False
-7324527,EVGA RTX 3080Ti FTW3 Ultra 12GB GDDR6X,True,199999,2025-12-18 08:05:00,False,https://hardverapro.hu/apro/evga_rtx_3080ti_ftw3_ultra_12gb_gddr6x/friss.html,2025-12-18 07:12:50,False
+7324527,EVGA RTX 3080Ti FTW3 Ultra 12GB GDDR6X,True,199999,2025-12-18 08:05:00,True,https://hardverapro.hu/apro/evga_rtx_3080ti_ftw3_ultra_12gb_gddr6x/friss.html,2025-12-18 07:12:50,False
 7324550,Felújított - Dobozos - RTX 3080 TI Gigabyte Gaming,True,175000,2025-12-18 08:20:00,False,https://hardverapro.hu/apro/felujitott_dobozos_rtx_3080_ti_gigabyte_gaming/friss.html,2025-12-18 08:14:05,True
 7324923,HP RTX 3080 Ti OEM - 12 GB,True,160000,2025-12-18 12:00:00,True,https://hardverapro.hu/apro/hp_rtx_3080_ti_oem_12_gb/friss.html,2025-12-18 11:23:42,True
 7324886,Eladó ASUS ROG STRIX GeForce RTX 3080 GAMING O10G videokártya,False,160000,2025-12-18 11:38:00,False,https://hardverapro.hu/apro/elado_asus_rog_strix_geforce_rtx_3080_gaming_o10g/friss.html,2025-12-18 11:23:42,True
@@ -1595,7 +1595,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7345333,PNY GeForce RTX 3080 Ti,True,159000,2026-01-02 18:26:00,True,https://hardverapro.hu/apro/pny_geforce_rtx_3080_ti_2/friss.html,2026-01-02 18:36:39,False
 7345590,EVGA RTX 3080 Hybrid 10G,False,160000,2026-01-02 21:12:00,False,https://hardverapro.hu/apro/evga_rtx_3080_hybrid_10g_2/friss.html,2026-01-02 20:24:24,False
 7345721,GeForce RTX 3080 VISION OC 10G (Rev. 1.0) (No blue led),False,145000,2026-01-02 23:08:00,True,https://hardverapro.hu/apro/geforce_rtx_3080_vision_oc_10g_rev_1_0_no_blue_led/friss.html,2026-01-02 22:19:39,True
-7346007,Eladó Asus TUF RTX 3080 10Gb videókártya,False,149999,2026-01-03 10:40:00,True,https://hardverapro.hu/apro/elado_asus_tuf_rtx_3080_10gb_videokartya_2/friss.html,2026-01-03 10:24:34,False
+7346007,Eladó Asus TUF RTX 3080 10Gb videókártya,False,149999,2026-01-03 10:40:00,True,https://hardverapro.hu/apro/elado_asus_tuf_rtx_3080_10gb_videokartya_2/friss.html,2026-01-03 10:24:34,True
 7346121,ELADÓ! - DELL NVIDIA GeForce RTX 3080 10GB GDDR6X (MS-V389) Használt videókártya,False,150000,2026-01-03 11:33:00,False,https://hardverapro.hu/apro/elado_dell_nvidia_geforce_rtx_3080_10gb_gddr6x_ms/friss.html,2026-01-03 11:21:12,False
 7346926,GIGABYTE GeForce RTX 3080 12GB GDDR6X,False,150000,2026-01-03 18:17:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_12gb_gddr6x/friss.html,2026-01-03 18:35:00,False
 7347379,ELADÓ! MSI RTX 3080TI GAMING X TRIO!,True,170000,2026-01-03 22:05:00,True,https://hardverapro.hu/apro/elado_msi_rtx_3080ti_gaming_x_trio/friss.html,2026-01-03 22:18:35,False
@@ -1611,3 +1611,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7349928,RTX 3080 10GB,False,140000,2026-01-05 13:30:00,False,https://hardverapro.hu/apro/rtx_3080_10gb_5/friss.html,2026-01-05 13:33:55,False
 7349818,Hibàtlan!ASUS TUF RTX 3080 10GB GDDR6X Gaming V2 OC LHR eladó.Magyar Alza garancia 2027.03.07-ig,False,169999,2026-01-05 12:36:00,False,https://hardverapro.hu/apro/hibatlan_asus_rtx_3080_10gb_gddr6x_tuf_gaming_v2_o/friss.html,2026-01-05 13:33:55,False
 7350115,"INNO3D GeForce RTX 3080 12GB (pár órát ment ÚJ, számlás, garis)",False,200000,2026-01-05 15:24:00,False,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_12gb_par_orat_ment_uj_szam/friss.html,2026-01-05 16:20:48,False
+7350415,ASUS TUF GeForce RTX 3080 V2 OC 10GB,False,145000,2026-01-05 18:36:00,False,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_v2_oc_10gb/friss.html,2026-01-05 18:39:31,False
