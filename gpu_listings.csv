@@ -1493,7 +1493,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7315491,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING 10GB,False,175000,2025-12-13 10:26:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_10gb_6/friss.html,2025-12-13 10:22:59,False
 7316232,MSI GeForce RTX 3080 Gaming Z Trio 10G LHR,False,140000,2025-12-13 16:51:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_gaming_z_trio_10g_lhr_2/friss.html,2025-12-13 16:17:15,True
 7316293,ZOTAC GeForce RTX 3080 Ti AMP Holo,True,180000,2025-12-13 17:21:00,False,https://hardverapro.hu/apro/zotac_geforce_rtx_3080_ti_amp_holo/friss.html,2025-12-13 18:32:32,False
-7316540,Gainward Phoenix RTX 3080 TI 12gb,True,179900,2025-12-13 19:37:00,False,https://hardverapro.hu/apro/gainward_phoenix_rtx_3080_ti_12gb/friss.html,2025-12-13 20:22:57,False
+7316540,Gainward Phoenix RTX 3080 TI 12gb,True,179900,2025-12-13 19:37:00,True,https://hardverapro.hu/apro/gainward_phoenix_rtx_3080_ti_12gb/friss.html,2025-12-13 20:22:57,False
 7316742,Asus TUF Gaming 3080 OC 10GB,False,120000,2025-12-13 21:38:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_3080_oc_10gb/friss.html,2025-12-13 22:17:24,True
 7316954,MSI RTX 3080 Ti Suprin X,True,190000,2025-12-14 03:10:00,True,https://hardverapro.hu/apro/msi_rtx_3080_ti_suprin_x/friss.html,2025-12-14 06:27:22,False
 7316870,Asus Tuf RTX 3080 10Gb GDDR6X,False,123000,2025-12-13 23:43:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10gb_gddr6x/friss.html,2025-12-14 06:27:22,True
@@ -1605,3 +1605,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7348716,Gigabyte Aorus GeForce RTX 3080 Xtreme Waterforce 10G,False,150000,2026-01-04 17:51:00,False,https://hardverapro.hu/apro/gigabyte_aorus_geforce_rtx_3080_xtreme_waterforce_g8ue/friss.html,2026-01-04 18:35:16,False
 7349096,Manli RTX 3080 Ti,True,159999,2026-01-04 21:07:00,False,https://hardverapro.hu/apro/manli_rtx_3080_ti_5/friss.html,2026-01-04 20:25:20,False
 7349082,"INNO3D GeForce RTX 3080 X3 10Gb LHR BULK újszerű,1 év garancia",False,140000,2026-01-04 20:59:00,False,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_x3_10gb_lhr_bulk_ujszeru_1/friss.html,2026-01-04 20:25:20,False
+7349625,GeForce RTX 3080 TI MSI VENTUS 3X 12G OC,True,230000,2026-01-05 10:54:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_ti_msi_ventus_3x_12g_oc/friss.html,2026-01-05 10:29:21,False
