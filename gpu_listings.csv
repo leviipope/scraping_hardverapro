@@ -1535,7 +1535,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7326240,GIGABYTE GeForce AORUS XTREME WATERFORCE RTX 3080 10GB GDDR6X 320bit,False,190000,2025-12-19 07:14:00,False,https://hardverapro.hu/apro/gigabyte_geforce_aorus_xtreme_waterforce_rtx_3080_5/friss.html,2025-12-19 06:29:43,False
 7326231,ASUS TUF RTX 3080 Ti GAMING OC,True,180000,2025-12-19 06:55:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_ti_gaming_oc/friss.html,2025-12-19 06:29:43,False
 7326253,Asus Tuf RTX 3080,False,150000,2025-12-19 07:35:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_8/friss.html,2025-12-19 07:12:42,True
-7175973,RTX 3080Ti 12GB /Jótállással!/Dobozos!/Beszámítás!/Posta ok!,True,174999,2025-12-19 12:00:00,True,https://hardverapro.hu/apro/garancialis_gamer_szamitogep_pc_gtx_1060_i5-6400_1/friss.html,2025-12-19 13:26:40,True
+7175973,RTX 3080Ti 12GB /Jótállással!/Dobozos!/Beszámítás!/Posta ok!,True,174999,2025-12-19 12:00:00,True,https://hardverapro.hu/apro/garancialis_gamer_szamitogep_pc_gtx_1060_i5-6400_1/friss.html,2025-12-19 13:26:40,False
 7327337,HP RTX 3080 10GB GDDR6X 320bit videokártya,False,119990,2025-12-19 19:12:00,False,https://hardverapro.hu/apro/hp_rtx_3080_10gb_gddr6x_320bit_videokartya/friss.html,2025-12-19 18:36:28,False
 7327831,Geforce RTX 3080 Gainward Phoenix 10G LHR,False,160000,2025-12-20 08:40:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_gainward_phoenix_10g_lhr/friss.html,2025-12-20 08:11:56,True
 7328192,Eladó Evga 3080 FTW3 Ultra,False,150000,2025-12-20 12:22:00,True,https://hardverapro.hu/apro/elado_evga_3080_ftw3_ultra/friss.html,2025-12-20 13:21:18,True
@@ -1626,3 +1626,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7352178,Gainward GeForce Rtx 3080 10 GB,False,142000,2026-01-06 21:01:00,False,https://hardverapro.hu/apro/gainward_geforce_rtx_3080_10_gb/friss.html,2026-01-06 20:26:27,False
 7352258,RTX 3080Ti 12gb,True,166000,2026-01-06 22:03:00,False,https://hardverapro.hu/apro/rtx_3080ti_12gb/friss.html,2026-01-06 22:20:09,False
 7352762,MSI Ventus 3080,False,130000,2026-01-07 11:51:00,False,https://hardverapro.hu/apro/msi_ventus_3080/friss.html,2026-01-07 11:25:48,False
+7352939,"NVIDIA GeForce RTX 3080 Founders Edition 10GB - Dobozos, nálam csak tesztelve volt",False,149000,2026-01-07 13:43:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10gb_dobo/friss.html,2026-01-07 13:32:12,False
