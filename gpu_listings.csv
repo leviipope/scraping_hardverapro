@@ -1522,7 +1522,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7323731,RTX 3080 Founders Edition,False,133000,2025-12-17 16:57:00,False,https://hardverapro.hu/apro/rtx_3080_founders_edition_g8cx/friss.html,2025-12-17 16:20:27,True
 7323644,GIGABYTE RTX 3080 Ti 12GB GDDR6X VISION OC Eladó!,True,175000,2025-12-17 16:06:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_ti_12gb_gddr6x_vision_oc_elado/friss.html,2025-12-17 16:20:27,True
 7323607,MSI RTX 3080 10GB GDDR6X GAMING Z TRIO Eladó,False,149900,2025-12-17 15:42:00,True,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_gaming_z_trio_elado/friss.html,2025-12-17 16:20:27,True
-7323942,GIGABYTE RTX 3080 GAMING OC 10GB,False,150000,2025-12-17 18:50:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_oc_10gb_3/friss.html,2025-12-17 18:39:11,False
+7323942,GIGABYTE RTX 3080 GAMING OC 10GB,False,150000,2025-12-17 18:50:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_oc_10gb_3/friss.html,2025-12-17 18:39:11,True
 7324527,EVGA RTX 3080Ti FTW3 Ultra 12GB GDDR6X,True,199999,2025-12-18 08:05:00,True,https://hardverapro.hu/apro/evga_rtx_3080ti_ftw3_ultra_12gb_gddr6x/friss.html,2025-12-18 07:12:50,True
 7324550,Felújított - Dobozos - RTX 3080 TI Gigabyte Gaming,True,175000,2025-12-18 08:20:00,False,https://hardverapro.hu/apro/felujitott_dobozos_rtx_3080_ti_gigabyte_gaming/friss.html,2025-12-18 08:14:05,True
 7324923,HP RTX 3080 Ti OEM - 12 GB,True,160000,2025-12-18 12:00:00,True,https://hardverapro.hu/apro/hp_rtx_3080_ti_oem_12_gb/friss.html,2025-12-18 11:23:42,True
@@ -1549,7 +1549,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7331073,ASUS STRIX 3080 12GB OC JAVITOTT,False,150000,2025-12-22 10:03:00,False,https://hardverapro.hu/apro/asus_strix_3080_12gb_oc_javitott/friss.html,2025-12-22 10:26:38,False
 7331315,GIGABYTE GeForce TURBO RTX 3080 10GB GDDR6X 320bit,False,110000,2025-12-22 12:19:00,False,https://hardverapro.hu/apro/gigabyte_geforce_turbo_rtx_3080_10gb_gddr6x_320bit_4/friss.html,2025-12-22 11:23:27,True
 7331989,MSI GeForce RTX 3080 Ti GAMING X TRIO 12G,True,175000,2025-12-22 18:48:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_gaming_x_trio_12g_2/friss.html,2025-12-22 18:37:06,True
-7332581,Rtx 3080 gainward phoenix 10 gb,False,120000,2025-12-23 09:05:00,True,https://hardverapro.hu/apro/rtx_3080_gainward_phoenix_10_gb/friss.html,2025-12-23 08:14:44,False
+7332581,Rtx 3080 gainward phoenix 10 gb,False,120000,2025-12-23 09:05:00,True,https://hardverapro.hu/apro/rtx_3080_gainward_phoenix_10_gb/friss.html,2025-12-23 08:14:44,True
 7332688,ASUS RTX 3080 10GB GDDR6X TUF Gaming V2 OC Edition videokártya - 2027.03.18-ig magyar Alza garancia!,False,170000,2025-12-23 10:21:00,False,https://hardverapro.hu/apro/asus_rtx_3080_10gb_gddr6x_tuf_gaming_v2_oc_edition/friss.html,2025-12-23 10:27:35,True
 7332865,MSI RTX 3080 GAMING Z 10GB ÁR FIX!,False,130000,2025-12-23 12:49:00,True,https://hardverapro.hu/apro/msi_rtx_3080_gaming_z_10gb_ar_fix/friss.html,2025-12-23 13:29:31,True
 7333331,Gainward Phoenix RTX 3080 ELADÓ,False,130000,2025-12-23 18:00:00,True,https://hardverapro.hu/apro/gainward_phoenix_rtx_3080_elado/friss.html,2025-12-23 18:37:37,True
@@ -1642,7 +1642,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7357148,MSI RTX 3080 Suprim X 10GB,False,170000,2026-01-10 11:50:00,False,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_10gb_5/friss.html,2026-01-10 11:21:44,False
 7357095,ZOTAC GAMING GeForce RTX 3080 Ti AMP Holo Black Bolti garancia,True,175000,2026-01-10 11:28:00,True,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_ti_amp_holo_black/friss.html,2026-01-10 11:21:44,False
 7357277,EVGA RTX 3080 FTW3 ULTRA GAMING 10GB,False,149990,2026-01-10 12:56:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_gaming_10gb/friss.html,2026-01-10 13:22:44,False
-7357807,EVGA Geforce RTX 3080 FTW3 Ultra,False,160000,2026-01-10 17:10:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_xxpo/friss.html,2026-01-10 16:17:47,False
+7357807,EVGA Geforce RTX 3080 FTW3 Ultra,False,160000,2026-01-10 17:10:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_xxpo/friss.html,2026-01-10 16:17:47,True
 7358581,Gigabyte Gaming OC 3080 Ti 12GB,True,199990,2026-01-11 10:26:00,False,https://hardverapro.hu/apro/gigabyte_gaming_oc_3080_ti_12gb/friss.html,2026-01-11 10:24:52,False
 7358761,Asus TUF RTX 3080 10G LHR,False,140000,2026-01-11 11:45:00,True,https://hardverapro.hu/apro/asus_tuf_rtx_3080_10g_lhr/friss.html,2026-01-11 11:21:49,False
 7358956,Nvidia RTX 3080 10GB Founders Edition,False,140000,2026-01-11 13:08:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080_10gb_founders_edition_4/friss.html,2026-01-11 13:23:25,False
@@ -1651,3 +1651,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7359312,EVGA FTW3 ULTRA RTX 3080,False,160000,2026-01-11 15:52:00,False,https://hardverapro.hu/apro/evga_ftw3_ultra_rtx_3080_6/friss.html,2026-01-11 16:18:02,False
 7359673,EVGA RTX 3080 FTW3 Ultra 10Gb Eladó,False,165000,2026-01-11 18:27:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra_10gb_elado_2/friss.html,2026-01-11 18:35:32,False
 7359914,MSI RTX 3080 Gaming X TRIO,False,150000,2026-01-11 20:48:00,True,https://hardverapro.hu/apro/msi_rtx_3080_gaming_x_trio_7/friss.html,2026-01-11 20:25:09,False
+7361211,"Gainward NVIDIA RTX 3080 Ti Frissen pasztázva, patika állapot, tesztelt teljesítmény!",True,200000,2026-01-12 17:09:00,False,https://hardverapro.hu/apro/gainward_nvidia_rtx_3080_ti_frissen_pasztazva_pati/friss.html,2026-01-12 16:20:59,False
+7361202,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING 10GB,False,155000,2026-01-12 17:05:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_10gb_9/friss.html,2026-01-12 16:20:59,False
+7361108,EVGA Rtx3080 10gb eladó,False,150000,2026-01-12 16:15:00,False,https://hardverapro.hu/apro/evga_rtx3080_10gb_elado/friss.html,2026-01-12 16:20:59,False
+7361101,"MSI RTX 3080 SUPRIM X 12G - TI szint a legerősebb 3080-as, dobozában, jó hőfokokkal",True,168000,2026-01-12 16:10:00,False,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_12g_ti_szint_a_legerosebb_30/friss.html,2026-01-12 16:20:59,False
