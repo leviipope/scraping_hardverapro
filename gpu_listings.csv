@@ -1657,7 +1657,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7361101,"MSI RTX 3080 SUPRIM X 12G - TI szint a legerősebb 3080-as, dobozában, jó hőfokokkal",True,168000,2026-01-12 16:10:00,False,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_12g_ti_szint_a_legerosebb_30/friss.html,2026-01-12 16:20:59,True
 7361436,ASUS TUF Gaming GeForce RTX 3080 10GB OC GDDR6X 320bit GAMING RGB Videokártya,False,139990,2026-01-12 19:39:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_10gb_oc_gddr6x_32_2/friss.html,2026-01-12 18:39:56,False
 7361817,"Eladó RTX 3080 kártyák (MSI GAMING X TRIO, Inno3D X3 Ichill)",False,150000,2026-01-13 00:17:00,False,https://hardverapro.hu/apro/elado_rtx_3080_kartyak_inno3d_x3_ichill_msi_gaming/friss.html,2026-01-13 06:31:40,False
-7362254,ASUS TUF GeForce RTX 3080 GAMING V2 O10G,False,150000,2026-01-13 12:04:00,True,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_2/friss.html,2026-01-13 11:26:28,False
+7362254,ASUS TUF GeForce RTX 3080 GAMING V2 O10G,False,150000,2026-01-13 12:04:00,True,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_o10g_2/friss.html,2026-01-13 11:26:28,True
 7362348,Gianward 3080 Phoenix LHR,False,149800,2026-01-13 12:57:00,False,https://hardverapro.hu/apro/gianward_3080_phoenix_lhr/friss.html,2026-01-13 20:27:43,False
 7336340,RTX3080 eladó (oem),False,155000,2026-01-14 04:52:00,False,https://hardverapro.hu/apro/cserelnem_rtx3080-am_rx7800xt-re/friss.html,2026-01-14 08:14:56,False
 7364105,MSI RTX 3080 10GB GDDR6X GAMING X TRIO Eladó!,False,150000,2026-01-14 14:18:00,True,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_gaming_x_trio_elado/friss.html,2026-01-14 13:33:26,False
@@ -1683,3 +1683,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7368200,Zotach Gaming RTX 3080ti 12gb GDDR6X 384bit,True,195000,2026-01-17 08:31:00,False,https://hardverapro.hu/apro/zotach_rtx_3080ti_12gb_gddr6x_384bit/friss.html,2026-01-17 08:12:32,False
 7368525,MSI RTX 3080 Suprim X,False,150000,2026-01-17 11:47:00,True,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_4/friss.html,2026-01-17 11:21:32,False
 7369035,Gainward RTX 3080 10GB GDDR6X Phoenix videokártya,False,165000,2026-01-17 15:30:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_10gb_gddr6x_phoenix_videokartya_2/friss.html,2026-01-17 16:16:50,False
+7369382,HP 3080 10Gb eladó!,False,130000,2026-01-17 18:20:00,False,https://hardverapro.hu/apro/hp_3080_10gb_elado/friss.html,2026-01-17 18:35:04,False
