@@ -1135,7 +1135,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7200490,GeForce RTX 3080 EAGLE OC 10G,False,120000,2025-09-25 17:38:00,True,https://hardverapro.hu/apro/geforce_rtx_3080_eagle_oc_10g_3/friss.html,2025-09-25 16:16:50,True
 7200474,NVIDIA HP OMEN RTX 3080 10GB GDDR6X 320BIT,False,119990,2025-09-25 17:24:00,False,https://hardverapro.hu/apro/nvidia_hp_omen_rtx_3080_10gb_gddr6x_320bit_2/friss.html,2025-09-25 16:16:50,True
 7200606,RTX 3080 10Gb,False,129999,2025-09-25 18:56:00,True,https://hardverapro.hu/apro/rtx_3080_10gb/friss.html,2025-09-25 18:33:17,True
-7200541,ASUS TUFGeForce RTX 3080 GAMING V2 O10G garancia,False,170000,2025-09-25 18:12:00,True,https://hardverapro.hu/apro/asus_tufgeforce_rtx_3080_gaming_v2_o10g_garancia/friss.html,2025-09-25 18:33:17,False
+7200541,ASUS TUFGeForce RTX 3080 GAMING V2 O10G garancia,False,170000,2025-09-25 18:12:00,True,https://hardverapro.hu/apro/asus_tufgeforce_rtx_3080_gaming_v2_o10g_garancia/friss.html,2025-09-25 18:33:17,True
 7201299,ASUS RTX3080Ti TUF (újszerű),True,185000,2025-09-26 12:29:00,True,https://hardverapro.hu/apro/asus_rtx3080ti_tuf_ujszeru/friss.html,2025-09-26 11:18:34,True
 7201689,EVGA Geforce RTX 3080 FTW3 Ultra Gaming 10GB LHR,False,145000,2025-09-26 16:55:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_10gb_lhr/friss.html,2025-09-26 16:16:43,True
 7202482,Eladó RTX 3080 EVGA FTW 3 Ultra,False,120000,2025-09-27 11:29:00,True,https://hardverapro.hu/apro/elado_rtx_3080_evga_ftw_3_ultra/friss.html,2025-09-27 10:19:03,True
@@ -1680,3 +1680,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7367800,MSI RTX 3080 Suprim X,False,130000,2026-01-16 19:39:00,False,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_3/friss.html,2026-01-16 18:39:50,False
 7367925,ASUS TUF 3080 10GB OC (Fiatal / Alza garancia),False,160000,2026-01-16 21:07:00,False,https://hardverapro.hu/apro/asus_tuf_3080_10gb_oc_fiatal_alza_garancia/friss.html,2026-01-16 20:24:15,False
 7368171,Hp Omen RTX 3080 10gb Videókártya,False,125000,2026-01-17 07:59:00,False,https://hardverapro.hu/apro/hp_omen_rtx_3080_10gb_videokartya/friss.html,2026-01-17 07:10:02,False
+7368200,Zotach Gaming RTX 3080ti 12gb GDDR6X 384bit,True,195000,2026-01-17 08:31:00,False,https://hardverapro.hu/apro/zotach_rtx_3080ti_12gb_gddr6x_384bit/friss.html,2026-01-17 08:12:32,False
