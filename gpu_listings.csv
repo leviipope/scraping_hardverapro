@@ -1677,7 +1677,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7366832,Asus TUF GeForce RTX 3080 GAMING V2 10G GARANCIÁLIS !!,False,140000,Előresorolva,True,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_v2_10g_garanciali/friss.html,2026-01-16 10:28:40,True
 7367282,GeForce RTX 3080 VENTUS 3X PLUS,False,160000,2026-01-16 14:27:00,True,https://hardverapro.hu/apro/geforce_rtx_3080_ventus_3x_plus/friss.html,2026-01-16 13:31:10,False
 7367131,Geforce RTX 3080 Gainward Phoenix 10G LHR,False,150000,2026-01-16 12:56:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_gainward_phoenix_10g_lhr_3/friss.html,2026-01-16 13:31:10,False
-7367800,MSI RTX 3080 Suprim X,False,130000,2026-01-16 19:39:00,True,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_3/friss.html,2026-01-16 18:39:50,False
+7367800,MSI RTX 3080 Suprim X,False,130000,2026-01-16 19:39:00,True,https://hardverapro.hu/apro/msi_rtx_3080_suprim_x_3/friss.html,2026-01-16 18:39:50,True
 7367925,ASUS TUF 3080 10GB OC (Fiatal / Alza garancia),False,160000,2026-01-16 21:07:00,True,https://hardverapro.hu/apro/asus_tuf_3080_10gb_oc_fiatal_alza_garancia/friss.html,2026-01-16 20:24:15,True
 7368171,Hp Omen RTX 3080 10gb Videókártya,False,125000,2026-01-17 07:59:00,False,https://hardverapro.hu/apro/hp_omen_rtx_3080_10gb_videokartya/friss.html,2026-01-17 07:10:02,False
 7368200,Zotach Gaming RTX 3080ti 12gb GDDR6X 384bit,True,195000,2026-01-17 08:31:00,False,https://hardverapro.hu/apro/zotach_rtx_3080ti_12gb_gddr6x_384bit/friss.html,2026-01-17 08:12:32,False
@@ -1700,3 +1700,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 7375444,Asus rog rtx 3080 vadorzó,False,160000,2026-01-21 09:20:00,False,https://hardverapro.hu/apro/asus_rog_rtx_3080_vadorzo/friss.html,2026-01-21 10:33:25,False
 7375962,ASUS TUF RTX 3080 v2 LHR 10GB GDDR6X,False,140000,2026-01-21 13:56:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_v2_lhr_10gb_gddr6x/friss.html,2026-01-21 13:37:30,False
 7375880,HP Geforce RTX 3080 10GB,False,120000,2026-01-21 13:09:00,False,https://hardverapro.hu/apro/hp_geforce_rtx_3080_10gb/friss.html,2026-01-21 13:37:30,True
+7376463,Inno3D GeForce X3 RTX 3080 10GB OC GDDR6X 320-bit,False,150000,2026-01-21 18:05:00,False,https://hardverapro.hu/apro/inno3d_geforce_x3_rtx_3080_10gb_oc_gddr6x_320-bit_2/friss.html,2026-01-21 18:50:48,False
+7376412,NVIDIA GeForce RTX 3080 Founders Edition Limitált gyűjtői kivitel,False,144990,2026-01-21 17:34:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_limitalt/friss.html,2026-01-21 18:50:48,False
