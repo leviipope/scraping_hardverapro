@@ -1081,7 +1081,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7184837,AORUS GeForce RTX 3080 XTREME WATERFORCE 10G,False,140000,2025-09-13 21:09:00,True,https://hardverapro.hu/apro/aorus_geforce_rtx_3080_xtreme_waterforce_10g_4/friss.html,2025-09-13 20:18:30,True
 7164886,MSI GeForce RTX 3080 VENTUS 3X PLUS 10G OC LHR Garanciával!,False,149500,2025-09-13 18:00:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3090_ventus_3x_24gb_oc_garanciaval/friss.html,2025-09-13 20:18:30,True
 7185241,NVIDIA MSI GAMING X TRIO RTX 3080TI 12GB GDDR6X 384BIT,True,179990,2025-09-14 10:37:00,False,https://hardverapro.hu/apro/nvidia_msi_gaming_x_trio_rtx_3080ti_12gb_gddr6x_38/friss.html,2025-09-14 10:18:31,True
-7186189,Gigabyte RTX 3080 Aorus Master 10G,False,180000,2025-09-14 19:18:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_aorus_master_10g_2/friss.html,2025-09-14 18:27:53,True
+7186189,Gigabyte RTX 3080 Aorus Master 10G,False,180000,2025-09-14 19:18:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_aorus_master_10g_2/friss.html,2025-09-14 18:27:53,False
 7186581,ZOTAC GAMING GeForce RTX 3080 Ti AMP Holo,True,150000,2025-09-15 08:43:00,True,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_ti_amp_holo_4/friss.html,2025-09-15 07:01:26,True
 7186617,MSI GeForce RTX 3080 Ti VENTUS 3X 12G OC,True,180000,2025-09-15 09:21:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_ventus_3x_12g_oc_jxwg/friss.html,2025-09-15 08:12:34,True
 7186759,Legolcsóbb 3080,False,120000,2025-09-15 10:55:00,True,https://hardverapro.hu/apro/legolcsobb_3080/friss.html,2025-09-15 10:22:58,True
@@ -1599,7 +1599,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7346121,ELADÓ! - DELL NVIDIA GeForce RTX 3080 10GB GDDR6X (MS-V389) Használt videókártya,False,150000,2026-01-03 11:33:00,False,https://hardverapro.hu/apro/elado_dell_nvidia_geforce_rtx_3080_10gb_gddr6x_ms/friss.html,2026-01-03 11:21:12,False
 7346926,GIGABYTE GeForce RTX 3080 12GB GDDR6X,False,150000,2026-01-03 18:17:00,True,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_12gb_gddr6x/friss.html,2026-01-03 18:35:00,True
 7347379,ELADÓ! MSI RTX 3080TI GAMING X TRIO!,True,170000,2026-01-03 22:05:00,True,https://hardverapro.hu/apro/elado_msi_rtx_3080ti_gaming_x_trio/friss.html,2026-01-03 22:18:35,True
-7348512,GIGABYTE Gaming RTX 3080 Ti OC,True,190000,2026-01-04 16:18:00,True,https://hardverapro.hu/apro/gigabyte_gaming_rtx_3080_ti_oc/friss.html,2026-01-04 16:18:07,False
+7348512,GIGABYTE Gaming RTX 3080 Ti OC,True,190000,2026-01-04 16:18:00,True,https://hardverapro.hu/apro/gigabyte_gaming_rtx_3080_ti_oc/friss.html,2026-01-04 16:18:07,True
 7270896,Zotac Gaming Geforce RTX 3080 AMP HOLO 10GB Garanciával!,False,149500,2026-01-04 12:00:00,False,https://hardverapro.hu/apro/gainward_geforce_rtx_5060ti_ghost_8gb_garanciaval_2/friss.html,2026-01-04 16:18:07,False
 7348719,EVGA RTX 3080,False,150000,2026-01-04 17:52:00,False,https://hardverapro.hu/apro/evga_rtx_3080_6/friss.html,2026-01-04 18:35:16,False
 7348716,Gigabyte Aorus GeForce RTX 3080 Xtreme Waterforce 10G,False,150000,2026-01-04 17:51:00,False,https://hardverapro.hu/apro/gigabyte_aorus_geforce_rtx_3080_xtreme_waterforce_g8ue/friss.html,2026-01-04 18:35:16,True
