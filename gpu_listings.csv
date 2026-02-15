@@ -1799,7 +1799,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7409086,Asus TUF RTX 3080 Gaming OC 10G V2,False,152990,2026-02-10 11:00:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_gaming_oc_10g_v2/friss.html,2026-02-10 10:55:57,False
 7408340,ZOTAC GAMING GeForce RTX 3080 10 GB Trinity OC RGB,False,159990,2026-02-09 19:27:00,False,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_10_gb_trinity_oc/friss.html,2026-02-10 10:55:57,True
 7411653,Gainward RTX 3080,False,135000,2026-02-11 19:37:00,True,https://hardverapro.hu/apro/gainward_rtx_3080/friss.html,2026-02-11 19:10:35,True
-7412465,Eladó HP RTX 3080 10GB GDDR6X,False,127000,2026-02-12 11:29:00,False,https://hardverapro.hu/apro/elado_hp_rtx_3080_10gb_gddr6x/friss.html,2026-02-12 10:52:40,False
+7412465,Eladó HP RTX 3080 10GB GDDR6X,False,127000,2026-02-12 11:29:00,True,https://hardverapro.hu/apro/elado_hp_rtx_3080_10gb_gddr6x/friss.html,2026-02-12 10:52:40,False
 7412618,PNY GeForce RTX 3080 Ti 12GB GDDR6X eladó akár beszámítással is,True,179990,2026-02-12 13:16:00,False,https://hardverapro.hu/apro/pny_geforce_rtx_3080_ti_12gb_gddr6x_elado_akar_bes/friss.html,2026-02-12 14:03:02,False
 7413036,ASUS ROG Strix RTX 3080 10G OC Gaming White (fehér),False,190000,2026-02-12 17:22:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_10g_oc_gaming_white_feher/friss.html,2026-02-12 16:51:41,True
 7412991,Gigabyte Geforce RTX 3080 10GB VISION OC (Fehér),False,150000,2026-02-12 17:04:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_10gb_vision_oc_feher/friss.html,2026-02-12 16:51:41,False
@@ -1818,3 +1818,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7416591,GERORCE RTX 3080 limited edition,False,180000,2026-02-14 21:58:00,False,https://hardverapro.hu/apro/gerorce_rtx_3080_limited_edition/friss.html,2026-02-14 22:22:11,False
 7417014,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING 10GB GDDR6X LED Videokártya,False,137990,2026-02-15 11:11:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_10gb_gddr6_trol/friss.html,2026-02-15 10:30:59,False
 7417863,NVIDIA RTX 3080 FOUNDERS EDITION 10GB,False,150000,2026-02-15 17:09:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080_founders_edition_10gb_2/friss.html,2026-02-15 16:21:41,False
+7418415,GeForce RTX 3080 GAMING OC 10G (Rev. 1.0),False,150000,2026-02-15 21:38:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_gaming_oc_10g_rev_1_0/friss.html,2026-02-15 22:23:21,False
