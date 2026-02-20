@@ -1744,7 +1744,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7391379,GeForce RTX 3080 Ti VENTUS 3X 12G OC,True,200000,2026-01-30 19:03:00,True,https://hardverapro.hu/apro/geforce_rtx_3080_ti_ventus_3x_12g_oc_3/friss.html,2026-01-30 18:52:20,True
 7391624,"GeForce RTX 3080 Ti GAMING OC 12G /1-Év garanciával, számlával/",True,189999,2026-01-30 21:31:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_ti_gaming_oc_12g_1-ev_garanciaval/friss.html,2026-01-30 20:32:29,False
 7391870,ASUS ROG STRIX GeForce RTX 3080 10GB WHITE EDITION,False,180000,2026-01-31 08:12:00,True,https://hardverapro.hu/apro/asus_rog_strix_geforce_rtx_3080_10gb_white_edition_2/friss.html,2026-01-31 07:19:03,True
-7392727,Zotac RTX 3080 AMP HOLO,False,149900,2026-01-31 15:48:00,True,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo/friss.html,2026-01-31 16:20:45,False
+7392727,Zotac RTX 3080 AMP HOLO,False,149900,2026-01-31 15:48:00,True,https://hardverapro.hu/apro/zotac_rtx_3080_amp_holo/friss.html,2026-01-31 16:20:45,True
 7393151,EVGA GeForce RTX 3080 FTW3 ULTRA HYBRID GAMING Gyári Vízhűtéssel,False,160000,2026-01-31 19:29:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_hybrid_gaming_gya/friss.html,2026-01-31 18:39:45,False
 7393098,Gainward Rtx 3080 10GB,False,125000,2026-01-31 19:03:00,True,https://hardverapro.hu/apro/gainward_rtx_3080_10gb/friss.html,2026-01-31 18:39:45,True
 7392948,Limitált ROG Strix RTX 3080 12GB OC EVA Edition,False,350000,2026-01-31 17:43:00,False,https://hardverapro.hu/apro/limitalt_rtx_3080_12gb_evangelion_edition/friss.html,2026-01-31 18:39:45,False
@@ -1834,3 +1834,5 @@ id,name,ti,price,time,iced,link,date_added,archived
 7423280,zotac 3080 10gb,False,110000,2026-02-18 20:18:00,False,https://hardverapro.hu/apro/zotac_3080_10gb/friss.html,2026-02-18 20:41:28,False
 7423947,Asus TUF RTX 3080 TI 12GB,True,190000,2026-02-19 11:23:00,False,https://hardverapro.hu/apro/asus_tuf_rtx_3080_ti_12gb/friss.html,2026-02-19 10:49:30,False
 7424086,Gainward RTX 3080 10GB GDDR6X Phoenix,False,149999,2026-02-19 12:51:00,False,https://hardverapro.hu/apro/nvidia_gainward_rtx_3080_10gb_gddr6x_phoenix/friss.html,2026-02-19 14:01:15,False
+7425242,HP RTX 3080,False,129900,2026-02-20 08:33:00,False,https://hardverapro.hu/apro/hp_rtx_3080/friss.html,2026-02-20 07:38:59,False
+7425239,"EVGA GeForce RTX 3080 XC3 ULTRA GAMING, 10G",False,135000,2026-02-20 08:29:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_xc3_ultra_gaming_10g/friss.html,2026-02-20 07:38:59,False
