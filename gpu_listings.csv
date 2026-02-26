@@ -1845,7 +1845,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7428454,Csak MA 170K! EVGA RTX 3080 Ti 12GB eladó,True,170000,2026-02-22 09:35:00,False,https://hardverapro.hu/apro/csak_ma_170k_evga_rtx_3080_ti_12gb_elado/friss.html,2026-02-22 10:29:42,False
 7429291,RTX 3080 10GB GDDR6X 320bit (SUPRIM X 10GB LHR),False,145000,2026-02-22 16:01:00,True,https://hardverapro.hu/apro/rtx_3080_10gb_gddr6x_320bit_suprim_x_10gb_lhr/friss.html,2026-02-22 16:22:04,False
 7429698,MSI GeForce RTX 3080 VENTUS 3X PLUS 10G OC LHR,False,150000,2026-02-22 19:11:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ventus_3x_plus_10g_oc_lhr_5/friss.html,2026-02-22 18:42:35,False
-7429691,Asus Tuf 3080 oc 10gb,False,170000,2026-02-22 19:08:00,False,https://hardverapro.hu/apro/asus_tuf_3080_oc_10gb_3/friss.html,2026-02-22 18:42:35,False
+7429691,Asus Tuf 3080 oc 10gb,False,170000,2026-02-22 19:08:00,True,https://hardverapro.hu/apro/asus_tuf_3080_oc_10gb_3/friss.html,2026-02-22 18:42:35,False
 7429635,Eladó ASUS TUF 3080 RTX V2,False,159999,2026-02-22 18:44:00,False,https://hardverapro.hu/apro/elado_asus_tuf_3080_rtx_v2/friss.html,2026-02-22 18:42:35,False
 7429508,EVGA GeForce RTX 3080 FTW3 Ultra,False,167990,2026-02-22 17:52:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_iua5/friss.html,2026-02-22 18:42:35,False
 7429981,BESZÁMÍTÁS! ASUS TUF GeForce RTX 3080 Ti 12GB videokártya garanciával hibátlan működéssel,True,219900,2026-02-22 21:56:00,False,https://hardverapro.hu/apro/beszamitas_asus_tuf_geforce_rtx_3080_ti_12gb_video/friss.html,2026-02-22 22:23:05,False
