@@ -1812,7 +1812,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7415813,WHITE ASUS ROG Strix GeForce RTX 3080 V2 OC,False,150000,2026-02-14 14:14:00,True,https://hardverapro.hu/apro/white_asus_rog_strix_geforce_rtx_3080_v2_oc_2/friss.html,2026-02-14 13:37:07,True
 7415684,Evga 3080 ftw3 ultra Foxpost Free,False,160000,2026-02-14 13:07:00,True,https://hardverapro.hu/apro/evga_3080_ftw3_ultra_3/friss.html,2026-02-14 13:37:07,True
 7415981,Gainward RTX 3080 Phantom,False,135000,2026-02-14 15:43:00,True,https://hardverapro.hu/apro/gainward_rtx_3080_phantom_3/friss.html,2026-02-14 16:21:28,True
-7416392,RTX 3080 OC 12GB,False,160000,2026-02-14 19:38:00,False,https://hardverapro.hu/apro/rtx_3080_oc_12gb/friss.html,2026-02-14 18:42:08,False
+7416392,RTX 3080 OC 12GB,False,160000,2026-02-14 19:38:00,False,https://hardverapro.hu/apro/rtx_3080_oc_12gb/friss.html,2026-02-14 18:42:08,True
 7416323,ASUS ROG Strix RTX 3080 10G OC Gaming White (fehér),False,180000,2026-02-14 18:41:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_10g_oc_gaming_white_feher_2/friss.html,2026-02-14 18:42:08,False
 7390250,RTX 3080 LHR 10gb,False,165000,2026-02-14 22:42:00,False,https://hardverapro.hu/apro/rtx_3080_lhr_10gb/friss.html,2026-02-14 22:22:11,True
 7416591,GERORCE RTX 3080 limited edition,False,180000,2026-02-14 21:58:00,False,https://hardverapro.hu/apro/gerorce_rtx_3080_limited_edition/friss.html,2026-02-14 22:22:11,False
@@ -1942,3 +1942,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7458929,"INNO3D GeForce RTX 3080 12GB (pár órát ment ÚJ, számlás, garis)",False,200000,2026-03-13 15:50:00,False,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_12gb_par_orat_ment_uj_szam_3/friss.html,2026-03-13 16:32:58,False
 7459305,Gigabyte RTX 3080 GAMING OC 10G,False,129999,2026-03-13 21:18:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_gaming_oc_10g_4/friss.html,2026-03-13 20:36:55,False
 7459837,MSI RTX 3080 VENTUS 3X PLUS 10GB OC,False,145000,2026-03-14 10:07:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_plus_10gb_oc/friss.html,2026-03-14 10:32:22,False
+7461692,"GIGABYTE GeForce AORUS XTREME WATERFORCE RTX 3080 10GB DDR6X - Számla + Gari: 1év, BeszámítOK!",False,189990,2026-03-15 15:03:00,False,https://hardverapro.hu/apro/gigabyte_geforce_aorus_xtreme_waterforce_rtx_3080_8/friss.html,2026-03-15 14:26:46,False
