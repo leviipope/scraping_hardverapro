@@ -1945,7 +1945,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7461692,"GIGABYTE GeForce AORUS XTREME WATERFORCE RTX 3080 10GB DDR6X - Számla + Gari: 1év, BeszámítOK!",False,189990,2026-03-15 15:03:00,False,https://hardverapro.hu/apro/gigabyte_geforce_aorus_xtreme_waterforce_rtx_3080_8/friss.html,2026-03-15 14:26:46,False
 7461885,ASUS TUF Gaming GeForce RTX 3080 10GB OC,False,137000,2026-03-15 16:59:00,True,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_10gb_oc_2/friss.html,2026-03-15 16:24:42,True
 7462018,Eladó egy új INNO3D GeForce RTX 3080 10 GB X3 videokártya,False,150000,2026-03-15 19:10:00,False,https://hardverapro.hu/apro/elado_egy_uj_inno3d_geforce_rtx_3080_10_gb_x3_vide/friss.html,2026-03-15 18:48:44,False
-7461944,MSI Geforce RTX 3080 Ti Ventus 3x OC 12 GB,True,175000,2026-03-15 17:36:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_ventus_3x_oc_12_gb/friss.html,2026-03-15 18:48:44,False
+7461944,MSI Geforce RTX 3080 Ti Ventus 3x OC 12 GB,True,175000,2026-03-15 17:36:00,True,https://hardverapro.hu/apro/msi_geforce_rtx_3080_ti_ventus_3x_oc_12_gb/friss.html,2026-03-15 18:48:44,True
 7462769,Eladó EVGA GeForce RTX 3080 FTW3,False,160000,2026-03-16 10:26:00,False,https://hardverapro.hu/apro/elado_evga_geforce_rtx_3080_ftw3_zrak/friss.html,2026-03-16 10:56:23,True
 7462950,Gainward RTX 3080 10GB GDDR6X Phoenix videokártya,False,165000,2026-03-16 11:58:00,False,https://hardverapro.hu/apro/gainward_rtx_3080_10gb_gddr6x_p/friss.html,2026-03-16 11:51:25,False
 7463852,Evga 3080 ftw3 ultra,False,135000,2026-03-16 19:30:00,True,https://hardverapro.hu/apro/evga_3080_ftw3_ultra_4/friss.html,2026-03-16 19:11:15,True
@@ -1967,7 +1967,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7471016,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING 10GB GDDR6X,False,109000,2026-03-21 16:11:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_gaming_10gb_gddr6_pcgj/friss.html,2026-03-21 16:21:53,True
 7471175,ASUS ROG Strix RTX 3080 10G OC Gaming White (fehér),False,165000,2026-03-21 17:34:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_10g_oc_gaming_white_feher_3/friss.html,2026-03-21 18:43:11,False
 7471396,GeForce RTX 3080 10GB,False,125000,2026-03-21 19:43:00,False,https://hardverapro.hu/apro/geforce_rtx_3080_10gb/friss.html,2026-03-21 20:29:13,True
-7471674,Új EVGA RTX 3080 FTW3 ULTRA,False,220000,2026-03-22 05:28:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra/friss.html,2026-03-22 06:49:55,False
+7471674,Új EVGA RTX 3080 FTW3 ULTRA,False,220000,2026-03-22 05:28:00,False,https://hardverapro.hu/apro/evga_rtx_3080_ftw3_ultra/friss.html,2026-03-22 06:49:55,True
 7471733,EVGA GeForce RTX 3080 Ti FTW3 Ultra,True,200000,2026-03-22 08:06:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ti_ftw3_ultra_9/friss.html,2026-03-22 07:30:26,False
 7472503,Eladó Gainward RTX 3080 Phantom 10GB videokártya!,False,120000,2026-03-22 15:03:00,False,https://hardverapro.hu/apro/elado_gainward_rtx_3080_phantom_10gb_videokartya/friss.html,2026-03-22 14:23:49,False
 7473106,BESZÁMÍTÁS! EVGA FTW3 Ultra Gaming RTX 3080 10GB videókártya garanciával hibátlan működéssel,False,169900,2026-03-22 20:14:00,False,https://hardverapro.hu/apro/beszamitas_evga_ftw3_ultra_gaming_rtx_3080_10gb_vi/friss.html,2026-03-22 20:30:33,False
@@ -1981,3 +1981,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7475237,INNO3D GeForce RTX 3080 Ti iCHILL X3,True,190000,2026-03-24 10:41:00,False,https://hardverapro.hu/apro/inno3d_geforce_rtx_3080_ti_ichill_x3/friss.html,2026-03-24 10:54:24,False
 7475430,AORUS GeForce RTX 3080 XTREME Waterforce 10GB videokártya,False,170000,2026-03-24 12:43:00,False,https://hardverapro.hu/apro/aorus_geforce_rtx_3080_xtreme_waterforce_10gb_vide/friss.html,2026-03-24 11:48:59,False
 7475412,ASUS TUF Gaming RTX 3080 Ti,True,165000,2026-03-24 12:32:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_ti_3/friss.html,2026-03-24 11:48:59,False
+7475845,Új EVGA RTX 3080 FTW3 ULTRA,False,200000,2026-03-24 16:46:00,False,https://hardverapro.hu/apro/uj_evga_rtx_3080_ftw3_ultra/friss.html,2026-03-24 16:54:40,False
