@@ -1933,7 +1933,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7456881,EVGA GeForce RTX 3080 FTW3 Ultra,False,145000,2026-03-12 10:08:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_ftw3_ultra_fryy/friss.html,2026-03-12 10:42:40,True
 7457115,MSI RTX 3080 VENTUS 3X 10G OC,False,150000,2026-03-12 12:34:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10g_oc_3/friss.html,2026-03-12 11:35:36,True
 7457069,EVGA FTW 3 Ultra 3080 Ti RTX 12GB,True,230000,2026-03-12 12:05:00,False,https://hardverapro.hu/apro/evga_ftw_3_ultra_3080_ti_rtx_12gb/friss.html,2026-03-12 11:35:36,False
-7457280,Gigabyte RTX 3080 10GB Gaming OC Waterforce WB,False,150000,2026-03-12 14:12:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_10gb_gaming_oc_waterforce_wb/friss.html,2026-03-12 13:55:02,False
+7457280,Gigabyte RTX 3080 10GB Gaming OC Waterforce WB,False,150000,2026-03-12 14:12:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_10gb_gaming_oc_waterforce_wb/friss.html,2026-03-12 13:55:02,True
 7457191,MSI RTX 3080 Ventus 3X Plus 10GB LHR / Csavarmatricás Beszámítás is!,False,150000,2026-03-12 13:23:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_plus_12gb_lhr_csavarmatrica/friss.html,2026-03-12 13:55:02,True
 7457141,Zotac RTX3080,False,160000,2026-03-12 12:46:00,False,https://hardverapro.hu/apro/zotac_rtx3080/friss.html,2026-03-12 13:55:02,True
 7457702,Zotac Amp Holo RTX 3080 10GB,False,150000,Előresorolva,True,https://hardverapro.hu/apro/zotac_amp_holo_rtx_3080_10gb_6/friss.html,2026-03-12 19:01:00,True
@@ -2011,3 +2011,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7483814,ZOTAC GAMING GeForce RTX 3080 Ti Trinity (OC),True,170000,2026-03-29 19:48:00,False,https://hardverapro.hu/apro/zotac_gaming_geforce_rtx_3080_ti_trinity_oc_rhq3/friss.html,2026-03-29 18:52:06,False
 7484032,MSI GeForce RTX 3080 SUPRIM X LHR 10GB GDDR6X 320bit RGB Videokártya,False,129990,2026-03-29 21:49:00,False,https://hardverapro.hu/apro/msi_geforce_rtx_3080_suprim_x_lhr_10gb_gddr6x_320b/friss.html,2026-03-29 20:35:22,False
 7484319,Eladó EVGA GeForce RTX 3080 FTW3,False,160000,2026-03-30 08:13:00,False,https://hardverapro.hu/apro/elado_evga_geforce_rtx_3080_ftw3_hbbg/friss.html,2026-03-30 07:25:29,False
+7484484,ASUS TUF Gaming GeForce RTX 3080 Ti 12GB videókártya,True,195000,2026-03-30 10:35:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_geforce_rtx_3080_ti_12gb_videokart_2/friss.html,2026-03-30 09:00:55,False
