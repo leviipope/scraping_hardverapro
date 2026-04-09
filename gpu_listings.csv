@@ -2040,7 +2040,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7494063,!RITKASÁG! HP OMEN RTX 3080 10GB,False,150000,2026-04-06 13:04:00,False,https://hardverapro.hu/apro/ritkasag_hp_omen_rtx_3080_10gb/friss.html,2026-04-06 11:51:38,False
 7494528,GIGABYTE GeForce RTX 3080 Ti GAMING OC 12GB - Garancia,True,164990,2026-04-06 17:51:00,False,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_ti_gaming_oc_12gb_garanc/friss.html,2026-04-06 16:39:13,False
 7494614,KFA2 RTX 3080 SG (1-Click OC) 10G videokártya garanciával,False,133000,2026-04-06 18:53:00,False,https://hardverapro.hu/apro/kfa2_rtx_3080_sg_1-click_oc_10g_videokartya_garanc/friss.html,2026-04-06 19:09:19,False
-7495054,Eladó EVGA GeForce RTX 3080 FTW3,False,150000,2026-04-07 09:16:00,False,https://hardverapro.hu/apro/elado_evga_geforce_rtx_3080_ftw3_awof/friss.html,2026-04-07 08:02:35,False
+7495054,Eladó EVGA GeForce RTX 3080 FTW3,False,150000,2026-04-07 09:16:00,False,https://hardverapro.hu/apro/elado_evga_geforce_rtx_3080_ftw3_awof/friss.html,2026-04-07 08:02:35,True
 7495155,ASUS TUF GeForce RTX 3080 GAMING OC 10GB videokártya.,False,175000,2026-04-07 10:22:00,False,https://hardverapro.hu/apro/asus_tuf_geforce_rtx_3080_gaming_oc_10gb_videokart_2/friss.html,2026-04-07 08:49:03,False
 7495262,Nvidia Geforce RTX 3080 10GB GDDR6X HP OMEN,False,129900,2026-04-07 12:40:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_10gb_gddr6x_hp_omen/friss.html,2026-04-07 10:59:57,True
 7495676,MSI Gaming Z Trio 3080 10GB,False,130000,2026-04-07 16:08:00,False,https://hardverapro.hu/apro/msi_gaming_z_trio_3080_10gb/friss.html,2026-04-07 14:24:55,True
@@ -2048,3 +2048,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7497220,"ASUS ROG Strix GeForce RTX 3080 OC Edition 10 GB, nem LHR!",False,159990,2026-04-08 17:37:00,False,https://hardverapro.hu/apro/asus_rog_strix_geforce_rtx_3080_oc_edition_10_gb_n/friss.html,2026-04-08 16:55:19,False
 7497690,MSI RTX 3080 Ventus 3X 10gb OC,False,139900,2026-04-07 23:26:00,False,https://hardverapro.hu/apro/msi_rtx_3080_ventus_3x_10gb_oc_3/friss.html,2026-04-08 22:37:57,False
 7497730,ASUS ROG STRIX RTX3080 O10G GAMING,False,150000,2026-04-09 02:53:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx3080_o10g_gaming_4/friss.html,2026-04-09 07:19:30,False
+7498022,Eladó EVGA GeForce RTX 3080 FTW3,False,150000,2026-04-09 10:25:00,False,https://hardverapro.hu/apro/elado_evga_geforce_rtx_3080_ftw3_gksb/friss.html,2026-04-09 08:56:28,False
