@@ -1956,7 +1956,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7466565,Msi Rtx 3080 SupremX eladó,False,140000,2026-03-18 15:47:00,True,https://hardverapro.hu/apro/msi_rtx_3080_supremx_elado/friss.html,2026-03-18 14:58:28,True
 7466844,EVGA 3080 FTW3 ULTRA 10G non-LHR,False,150000,2026-03-18 18:42:00,False,https://hardverapro.hu/apro/evga_3080_ftw3_ultra_10g_non-lhr_3/friss.html,2026-03-18 19:08:30,True
 7467359,EVGA RTX 3080 Ti FTW3 Ultra 12 GB GDDR6X Videokártya eladó,True,200000,Előresorolva,True,https://hardverapro.hu/apro/evga_rtx_3080_ti_ftw3_ultra_12_gb_gddr6x_videokart/friss.html,2026-03-19 07:38:06,True
-7467549,ASUS ROG STRIX RTX3080 OC 10GB,False,150000,2026-03-19 10:34:00,True,https://hardverapro.hu/apro/asus_rog_strix_rtx3080_oc_10gb/friss.html,2026-03-19 10:44:53,False
+7467549,ASUS ROG STRIX RTX3080 OC 10GB,False,150000,2026-03-19 10:34:00,True,https://hardverapro.hu/apro/asus_rog_strix_rtx3080_oc_10gb/friss.html,2026-03-19 10:44:53,True
 7468086,GIGABYTE GeForce RTX 3080 TURBO EDITION 10G - Garancia,False,129990,2026-03-19 16:01:00,True,https://hardverapro.hu/apro/gigabyte_geforce_rtx_3080_turbo_edition_10g_garanc/friss.html,2026-03-19 16:51:38,True
 7468547,Gigabyte RTX 3080 Vision OC WHITE,False,159990,2026-03-19 20:50:00,False,https://hardverapro.hu/apro/gigabyte_rtx_3080_vision_oc_white/friss.html,2026-03-19 20:40:00,False
 7468494,EVGA 3080 FTW3 Ultra,False,150000,2026-03-19 20:25:00,False,https://hardverapro.hu/apro/evga_3080_ftw3_ultra_5/friss.html,2026-03-19 20:40:00,True
@@ -2082,3 +2082,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7507469,Gainward Phoenix RTX 3080Ti 12Gb,True,180000,2026-04-16 20:54:00,False,https://hardverapro.hu/apro/gainward_phoenix_rtx_3080ti_12gb/friss.html,2026-04-16 19:23:05,False
 7507616,ASUS ROG Strix GeForce RTX 3080 010G OC Gaming White,False,160000,2026-04-15 23:48:00,False,https://hardverapro.hu/apro/asus_rog_strix_geforce_rtx_3080_010g_oc_gaming_whi/friss.html,2026-04-16 22:38:41,False
 7508251,Gainward Phantom RTX 3080,False,140000,2026-04-17 14:12:00,False,https://hardverapro.hu/apro/gainward_phantom_rtx_3080_4/friss.html,2026-04-17 14:14:59,False
+7509301,ASUS ROG STRIX RTX 3080 OC Edition,False,130000,2026-04-18 11:27:00,True,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_oc_edition/friss.html,2026-04-18 10:44:47,False
