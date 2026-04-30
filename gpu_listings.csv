@@ -2097,7 +2097,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7515305,EVGA GeForce RTX 3080 XC3 ULTRA GAMING 10GB GDDR6X,False,110000,2026-04-22 11:07:00,True,https://hardverapro.hu/apro/evga_geforce_rtx_3080_xc3_ultra_gaming_10gb_gddr6x_ygas/friss.html,2026-04-22 09:08:48,True
 7515958,Gainward Phoenix 3080 Golden Sample 10 GB,False,130000,2026-04-22 18:14:00,True,https://hardverapro.hu/apro/gainward_phoenix_3080_golden_sample_10_gb/friss.html,2026-04-22 16:52:55,True
 7512251,ASUS ROG STRIX RTX 3080 10GB,False,145000,2026-04-20 00:00:00,False,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_10gb_4/friss.html,2026-04-22 20:57:03,False
-7516380,"Zotac 3080 Ti AMP Holo - új ventik, friss pad és paszta",True,180000,2026-04-23 01:11:00,False,https://hardverapro.hu/apro/zotac_3080_ti_amp_holo_uj_ventik_friss_pad_es_pasz/friss.html,2026-04-23 07:48:52,False
+7516380,"Zotac 3080 Ti AMP Holo - új ventik, friss pad és paszta",True,180000,2026-04-23 01:11:00,False,https://hardverapro.hu/apro/zotac_3080_ti_amp_holo_uj_ventik_friss_pad_es_pasz/friss.html,2026-04-23 07:48:52,True
 7517026,Msi Gaming Trio Z 3080 10GB,False,130000,2026-04-23 15:18:00,False,https://hardverapro.hu/apro/msi_gaming_trio_z_3080_10gb_2/friss.html,2026-04-23 15:06:09,False
 7517443,ASUS TUF Gaming RTX 3080 Ti 12GB,True,160000,2026-04-23 20:10:00,False,https://hardverapro.hu/apro/asus_tuf_gaming_rtx_3080_ti_12gb_2/friss.html,2026-04-23 19:19:19,False
 7517678,MSI RTX3080 12GB Suprim X eladó,False,150000,2026-04-23 00:07:00,False,https://hardverapro.hu/apro/msi_rtx3080_12gb_suprim_x_elado/friss.html,2026-04-23 22:42:42,False
@@ -2132,3 +2132,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7525629,EVGA GeForce FTW3 ULTRA GAMING RTX 3080 Ti,True,189990,2026-04-29 17:49:00,False,https://hardverapro.hu/apro/evga_geforce_ftw3_ultra_gaming_rtx_3080_ti_6/friss.html,2026-04-29 15:53:34,False
 7526199,NVIDIA GeForce RTX 3080 Founders edition - 10G,False,128000,2026-04-30 09:37:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_founders_edition_10g/friss.html,2026-04-30 08:19:16,False
 7526502,MSI RTX 3080 10GB GDDR6X SUPRIM X Eladó!,False,149900,2026-04-30 13:28:00,False,https://hardverapro.hu/apro/msi_rtx_3080_10gb_gddr6x_suprim_x_elado/friss.html,2026-04-30 11:39:47,False
+7526576,"Zotac 3080 Ti AMP Holo - új ventik, friss pad és paszta",True,175000,2026-04-30 14:26:00,False,https://hardverapro.hu/apro/zotac_3080_ti_amp_holo_uj_ventik_friss_pad_es_pasz_2/friss.html,2026-04-30 14:57:35,False
