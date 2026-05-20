@@ -2058,7 +2058,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7499673,Gigabyte RTX 3080 Ti AORUS MASTER 12G videokártya garanciával,True,185000,2026-04-10 13:35:00,True,https://hardverapro.hu/apro/gigabyte_rtx_3080_ti_aorus_master_12g_videokartya_2/friss.html,2026-04-10 11:52:31,True
 7499698,HP GeForce RTX 3080 10GB GDDR6X eladó akár beszámítással is,False,119990,2026-04-10 13:59:00,False,https://hardverapro.hu/apro/hp_geforce_rtx_3080_10gb_gddr6x_elado_akar_beszami/friss.html,2026-04-10 14:09:32,True
 7500214,Nvidia RTX 3080 10gb HP verzió,False,130000,2026-04-10 20:44:00,False,https://hardverapro.hu/apro/nvidia_rtx_3080_10gb_hp_verzio/friss.html,2026-04-10 19:01:44,True
-7500935,Zotac Gaming geforce rtx 3080 ti trinity oc 12 gb GDDR6X,True,170000,2026-04-11 14:39:00,False,https://hardverapro.hu/apro/nvidia_zotac_rtx_3080_ti_trinity_oc_12_gb_gddr6x/friss.html,2026-04-11 13:46:50,True
+7500935,Zotac Gaming geforce rtx 3080 ti trinity oc 12 gb GDDR6X,True,170000,2026-04-11 14:39:00,False,https://hardverapro.hu/apro/nvidia_zotac_rtx_3080_ti_trinity_oc_12_gb_gddr6x/friss.html,2026-04-11 13:46:50,False
 7501052,"EVGA GeForce RTX 3080 XC3 ULTRA GAMING, 2031-ig GARANCIÁLIS",False,200000,2026-04-11 16:03:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_xc3_ultra_gaming_2031-ig_gar_3/friss.html,2026-04-11 14:33:15,True
 7501190,"Gainward GeForce RTX 3080 12GB Phoenix LHR eladó, 1. tulajdonosítól, dobozos, keveset futott",False,163000,2026-04-11 17:44:00,False,https://hardverapro.hu/apro/gainward_geforce_rtx_3080_12gb_phoenix_lhr_elado_1_2/friss.html,2026-04-11 16:30:08,True
 7501564,"NVIDIA GeForce RTX 3080 Ti 12GB Founders Edition /1-Év garanciával, számlával!/",True,177999,2026-04-12 04:45:00,False,https://hardverapro.hu/apro/nvidia_geforce_rtx_3080_ti_12gb_founders_edition_1/friss.html,2026-04-12 07:11:35,True
@@ -2084,7 +2084,7 @@ id,name,ti,price,time,iced,link,date_added,archived
 7508251,Gainward Phantom RTX 3080,False,140000,2026-04-17 14:12:00,False,https://hardverapro.hu/apro/gainward_phantom_rtx_3080_4/friss.html,2026-04-17 14:14:59,True
 7509301,ASUS ROG STRIX RTX 3080 OC Edition,False,130000,2026-04-18 11:27:00,True,https://hardverapro.hu/apro/asus_rog_strix_rtx_3080_oc_edition/friss.html,2026-04-18 10:44:47,True
 7510043,RTX 3080 MSI GAMING TRIO X 10GB,False,140000,2026-04-18 19:58:00,True,https://hardverapro.hu/apro/rtx_3080_msi_gaming_trio_x_10gb/friss.html,2026-04-18 18:58:38,True
-7510031,EVGA GeForce RTX 3080,False,150000,2026-04-18 19:46:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_3/friss.html,2026-04-18 18:58:38,False
+7510031,EVGA GeForce RTX 3080,False,150000,2026-04-18 19:46:00,False,https://hardverapro.hu/apro/evga_geforce_rtx_3080_3/friss.html,2026-04-18 18:58:38,True
 7510160,RTX 3080 10GB Suprim X,False,139990,2026-04-18 21:50:00,True,https://hardverapro.hu/apro/rtx_3080_10gb_suprim_x/friss.html,2026-04-18 20:39:16,True
 7510806,Új EVGA RTX 3080 FTW3 ULTRA,False,165000,2026-04-19 13:25:00,False,https://hardverapro.hu/apro/uj_evga_rtx_3080_ftw3_ultra_3/friss.html,2026-04-19 11:39:48,True
 7511482,Asus ROG STRIX 3080 White,False,165000,2026-04-19 20:19:00,True,https://hardverapro.hu/apro/asus_rog_strix_3080_white_3/friss.html,2026-04-19 18:58:56,True
@@ -2203,3 +2203,4 @@ id,name,ti,price,time,iced,link,date_added,archived
 7552998,Asus Rog Strix 3080 White,False,165000,2026-05-19 17:52:00,False,https://hardverapro.hu/apro/asus_rog_strix_3080_white_4/friss.html,2026-05-19 16:12:34,False
 7552870,Dell 3080 10GB,False,120000,2026-05-19 16:40:00,False,https://hardverapro.hu/apro/dell_3080_10gb/friss.html,2026-05-19 16:12:34,False
 7553401,"INNO3d Nvidia RTX 3080 12GB - Garanciás, dobozos FIX",False,170000,2026-05-19 22:18:00,False,https://hardverapro.hu/apro/inno3d_nvidia_rtx_3080_12gb_garancias_dobozos_fix/friss.html,2026-05-19 21:20:38,False
+7553785,"Makulátlan MSI GeForce RTX 3080 12G Gaming Z Trio (Dobozos, halk és hűvös)",False,137000,2026-05-20 10:37:00,False,https://hardverapro.hu/apro/makulatlan_msi_geforce_rtx_3080_12g_gaming_z_trio/friss.html,2026-05-20 09:28:24,False
